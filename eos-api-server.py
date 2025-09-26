@@ -21,8 +21,6 @@ def save_data(data):
     for entry in data:
         entry["last_checked"] = datetime.utcnow().isoformat() + "Z"
         entry["url_to_announcement"] = get_vendor_url(entry.get("vendor", ""))
-        if "model" in entry:
-            entry["part_number"] = entry.pop("model")
     with open(DATA_FILE, 'w') as f:
         json.dump(data, f, indent=2)
     generate_csv(data)
@@ -46,7 +44,7 @@ def get_vendor_url(vendor):
 
 @app.route('/eos', methods=['GET'])
 def get_filtered():
-    part_number = request.args.get('part-number', '').strip()
+    part_number = request.args.get('part_number', '').strip()
     data = load_data()
     if not part_number:
         return jsonify(data)

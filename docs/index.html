@@ -2,13 +2,13 @@
   const API_BASE_URL = "http://192.168.0.15:5050";
 
   document.getElementById("check-btn").addEventListener("click", function () {
-    const partNumber = document.getElementById("part-number").value.trim();
+    const partNumber = document.getElementById("part_number").value.trim();
     if (!partNumber) {
       alert("Please enter a part number.");
       return;
     }
 
-    fetch(`${API_BASE_URL}/eos?part-number=${encodeURIComponent(partNumber)}`)
+    fetch(`${API_BASE_URL}/eos?part_number=${encodeURIComponent(partNumber)}`)
       .then(response => {
         if (!response.ok) throw new Error("No data found.");
         return response.json();
