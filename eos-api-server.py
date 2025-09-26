@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, send_file, send_from_directory
+from flask import Flask, request, jsonify, send_file, send_from_directory, render_template
 import json, csv, os
 from datetime import datetime
 
@@ -41,6 +41,11 @@ def get_vendor_url(vendor):
         "Bluecoat": "https://techdocs.broadcom.com/"
     }
     return urls.get(vendor, "")
+
+@app.route('/')
+def home():
+    return render_template('index.html')
+
 
 @app.route('/eos', methods=['GET'])
 def get_filtered():
