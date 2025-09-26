@@ -1,7 +1,55 @@
-{
-  "vendor": "Cisco",
-  "part_number": "WS-C6503-E",
-  "software_support": "October 27, 2023",
-  "hardware_support": "October 27, 2023",
-  "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c6503-e/eos-ws-c6503-e.html"
-}
+[
+  {
+    "vendor": "Cisco",
+    "part_number": "WS-C6503-E",
+    "software_support": "October 27, 2023",
+    "hardware_support": "October 27, 2023",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c6503-e/eos-ws-c6503-e.html"
+  },
+  {
+    "vendor": "ResMed",
+    "part_number": "CPAP-SM3050",
+    "software_support": "Hasta el 31 de diciembre de 2024",
+    "hardware_support": "Hasta el 31 de diciembre de 2027",
+    "url_to_announcement": "https://www.resmed.com/us/en/press-releases/resmed-announces-end-of-support-for-certain-cpap-models"
+  },
+  {
+    "vendor": "Cisco",
+    "part_number": "ASR-9010-AC",
+    "software_support": "September 30, 2024",
+    "hardware_support": "September 30, 2024",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html#product-software-updates-releases"
+  },
+  {
+    "vendor": "Cisco",
+    "part_number": "ASA 5506-X",
+    "software_support": "2024-08-31",
+    "hardware_support": "2025-08-31",
+    "last_checked": "2025-09-26T16:18:25.085233Z",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/products/eos-eol-policy.html"
+  },
+  {
+    "vendor": "Fortinet",
+    "part_number": "FG-100F",
+    "software_support": "2025-06-30",
+    "hardware_support": "2026-06-30",
+    "last_checked": "2025-09-26T16:18:25.085244Z",
+    "url_to_announcement": "https://www.fortinet.com/support/product-life-cycle"
+  },
+  {
+    "vendor": "Check Point",
+    "part_number": "CPAP-SG6200-NGTP",
+    "software_support": "2023-12-31",
+    "hardware_support": "2024-12-31",
+    "last_checked": "2025-09-26T16:18:25.085248Z",
+    "url_to_announcement": "https://support.checkpoint.com/results/products/"
+  },
+  {
+    "vendor": "Bluecoat",
+    "part_number": "SG510-10",
+    "software_support": "2021-07-15",
+    "hardware_support": "2023-07-15",
+    "last_checked": "2025-09-26T16:18:25.085251Z",
+    "url_to_announcement": "https://techdocs.broadcom.com/"
+  }
+]
