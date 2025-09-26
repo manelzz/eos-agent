@@ -23,7 +23,13 @@ def load_data():
 def save_data(data):
     with open(DATA_FILE, 'w') as f:
         json.dump(data, f, indent=2)
+    generate_csv(data)  # auto-update CSV
 
+def generate_csv(data):
+    with open(CSV_FILE, 'w', newline='') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=data[0].keys())
+        writer.writeheader()
+        writer.writerows(data)
 
 @app.route('/eos', methods=['GET'])
 def get_all():
@@ -37,13 +43,16 @@ def serve_data_file(filename):
         return "Unauthorized", 403
     return send_from_directory('data', filename)
 
-
 @app.route('/eos/csv', methods=['GET'])
 def download_csv():
     if not os.path.exists(CSV_FILE):
         return "CSV file not found", 404
-    return send_from_directory('data', 'eos_data.csv', as_attachment=True)
-
+    return send_file(
+        CSV_FILE,
+        mimetype='text/csv',
+        as_attachment=True,
+        download_name='eos_data.csv'
+    )
 
 @app.route('/eos/update', methods=['POST'])
 def update_data():
