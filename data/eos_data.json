@@ -1,8 +1,34 @@
 [
   {
     "vendor": "Cisco",
-    "model": "ASA 5506-X",
+    "part_number": "ASA 5506-X",
     "software_support": "2024-08-31",
-    "hardware_support": "2025-08-31"
+    "hardware_support": "2025-08-31",
+    "last_checked": "2025-09-26T16:18:25.085233Z",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/products/eos-eol-policy.html"
+  },
+  {
+    "vendor": "Fortinet",
+    "part_number": "FG-100F",
+    "software_support": "2025-06-30",
+    "hardware_support": "2026-06-30",
+    "last_checked": "2025-09-26T16:18:25.085244Z",
+    "url_to_announcement": "https://www.fortinet.com/support/product-life-cycle"
+  },
+  {
+    "vendor": "Check Point",
+    "part_number": "CPAP-SG6200-NGTP",
+    "software_support": "2023-12-31",
+    "hardware_support": "2024-12-31",
+    "last_checked": "2025-09-26T16:18:25.085248Z",
+    "url_to_announcement": "https://support.checkpoint.com/results/products/"
+  },
+  {
+    "vendor": "Bluecoat",
+    "part_number": "SG510-10",
+    "software_support": "2021-07-15",
+    "hardware_support": "2023-07-15",
+    "last_checked": "2025-09-26T16:18:25.085251Z",
+    "url_to_announcement": "https://techdocs.broadcom.com/"
   }
 ]
