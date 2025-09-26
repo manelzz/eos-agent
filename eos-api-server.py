@@ -5,9 +5,12 @@ from datetime import datetime
 app = Flask(__name__)
 
 # File paths inside the /data folder
-DATA_FILE = 'data/eos_data.json'
-CSV_FILE = 'data/eos_data.csv'
-LAST_CHECK_FILE = 'data/last-check.json'
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_FILE = os.path.join(BASE_DIR, 'data', 'eos_data.json')
+CSV_FILE = os.path.join(BASE_DIR, 'data', 'eos_data.csv')
+LAST_CHECK_FILE = os.path.join(BASE_DIR, 'data', 'last-check.json')
+
 
 # Ensure /data exists
 os.makedirs('data', exist_ok=True)
