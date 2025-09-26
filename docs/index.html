@@ -70,8 +70,8 @@
   </div>
 
   <script>
-    const API_BASE_URL = "http://192.168.0.15:5050";
     const DATA_URL = "https://raw.githubusercontent.com/manelzz/eos-agent/data/data/eos_data.json";
+    const CSV_URL = "https://raw.githubusercontent.com/manelzz/eos-agent/data/data/eos_data.csv";
 
     document.getElementById("check-btn").addEventListener("click", function () {
       const partNumber = document.getElementById("part_number").value.trim();
@@ -80,16 +80,17 @@
         return;
       }
 
-      fetch(`${API_BASE_URL}/eos?part_number=${encodeURIComponent(partNumber)}`)
+      fetch(DATA_URL)
         .then(response => {
-          if (!response.ok) throw new Error("No data found.");
+          if (!response.ok) throw new Error("Unable to load EOS data");
           return response.json();
         })
-        .then(data => {
-          if (data.length === 0) {
+        .then(allData => {
+          const result = allData.find(item => item.part_number.toLowerCase() === partNumber.toLowerCase());
+          if (!result) {
             document.getElementById("result").textContent = "No results found.";
           } else {
-            document.getElementById("result").textContent = JSON.stringify(data, null, 2);
+            document.getElementById("result").textContent = JSON.stringify(result, null, 2);
           }
         })
         .catch(err => {
@@ -98,7 +99,7 @@
     });
 
     document.getElementById("download-btn").addEventListener("click", function () {
-      fetch(`${API_BASE_URL}/eos/csv`)
+      fetch(CSV_URL)
         .then(response => {
           if (!response.ok) throw new Error("CSV file not found");
           return response.blob();
