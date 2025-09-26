@@ -12,7 +12,6 @@
       background-color: #121212;
       color: #e0e0e0;
     }
-
     .container {
       max-width: 600px;
       margin: 2rem auto;
@@ -21,18 +20,15 @@
       border-radius: 10px;
       box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
     }
-
     h1, h2 {
       color: #90caf9;
     }
-
     label {
       display: block;
       margin-top: 1rem;
       margin-bottom: 0.5rem;
       font-weight: bold;
     }
-
     input, button, textarea {
       width: 100%;
       padding: 0.5rem;
@@ -43,73 +39,94 @@
       border-radius: 5px;
       color: #fff;
     }
-
     button {
-      background-color: #2979ff;
+      background-color: #1976d2;
       border: none;
       cursor: pointer;
       font-weight: bold;
-      transition: background-color 0.3s ease;
     }
-
     button:hover {
       background-color: #1565c0;
     }
-
-    .actions {
-      margin-top: 2rem;
-      text-align: center;
-    }
-
-    .hidden {
-      display: none;
-    }
-
-    footer {
-      margin-top: 2rem;
-      text-align: center;
-      font-size: 0.9rem;
-      color: #aaa;
-    }
-
-    pre {
-      background-color: #2e2e2e;
-      padding: 1rem;
+    .message {
+      margin-top: 1rem;
+      padding: 0.75rem;
       border-radius: 5px;
-      overflow-x: auto;
+    }
+    .error {
+      background-color: #b71c1c;
+      color: white;
+    }
+    .success {
+      background-color: #1b5e20;
+      color: white;
     }
   </style>
 </head>
 <body>
   <div class="container">
     <h1>🔍 End of Support Status</h1>
-    <form id="checkForm">
-      <label for="model">Enter Part Number:</label>
-      <input type="text" id="model" name="model" placeholder="e.g. ASA5506-X" required />
-      <button type="submit">Check</button>
-    </form>
 
-    <div id="results" class="hidden">
-      <h2>Result</h2>
-      <pre id="output"></pre>
-    </div>
+    <label for="vendor">Vendor:</label>
+    <input type="text" id="vendor" placeholder="e.g. Cisco" />
 
-    <div class="actions">
-      <button id="downloadCsv">Download Full List (CSV)</button>
+    <label for="model">Model / Part Number:</label>
+    <input type="text" id="model" placeholder="e.g. ASA 5506-X" />
 
-<script>
-function downloadCSV() {
-  window.location.href = 'http://192.168.0.15:5050/eos/csv';  // Adjust IP/port if different
-}
-</script>
+    <button id="check-btn">Check</button>
+    <button id="download-btn">⬇️ Download full list</button>
 
-    </div>
-
-    <footer>
-      <p>Last check: <span id="lastCheck">Loading...</span></p>
-    </footer>
+    <pre id="result" style="white-space: pre-wrap;"></pre>
   </div>
 
-  <script src="script.js"></script>
+  <script>
+    document.getElementById("check-btn").addEventListener("click", function () {
+      const vendor = document.getElementById("vendor").value.trim();
+      const model = document.getElementById("model").value.trim();
+
+      if (!vendor || !model) {
+        alert("Please enter both vendor and model.");
+        return;
+      }
+
+      fetch(`/eos?vendor=${encodeURIComponent(vendor)}&model=${encodeURIComponent(model)}`)
+        .then(response => {
+          if (!response.ok) throw new Error("No data found.");
+          return response.json();
+        })
+        .then(data => {
+          if (data.length === 0) {
+            document.getElementById("result").textContent = "No results found.";
+          } else {
+            document.getElementById("result").textContent = JSON.stringify(data, null, 2);
+          }
+        })
+        .catch(err => {
+          document.getElementById("result").textContent = err.message;
+        });
+    });
+
+    document.getElementById("download-btn").addEventListener("click", function () {
+      fetch("/eos/csv")
+        .then(response => {
+          if (!response.ok) {
+            throw new Error("CSV file not found");
+          }
+          return response.blob();
+        })
+        .then(blob => {
+          const url = window.URL.createObjectURL(blob);
+          const a = document.createElement("a");
+          a.href = url;
+          a.download = "eos_data.csv";
+          document.body.appendChild(a);
+          a.click();
+          a.remove();
+        })
+        .catch(error => {
+          alert(error.message);
+        });
+    });
+  </script>
 </body>
 </html>
