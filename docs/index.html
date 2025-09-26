@@ -12,23 +12,35 @@
       background-color: #121212;
       color: #e0e0e0;
     }
+
+    #last-updated {
+      text-align: center;
+      margin-top: 1rem;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+
     .container {
       max-width: 600px;
-      margin: 2rem auto;
+      margin: 1rem auto 2rem auto;
       background-color: #1e1e1e;
       padding: 2rem;
       border-radius: 10px;
       box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
     }
+
     h1 {
       color: #90caf9;
+      text-align: center;
     }
+
     label {
       display: block;
       margin-top: 1rem;
       margin-bottom: 0.5rem;
       font-weight: bold;
     }
+
     input, button {
       width: 100%;
       padding: 0.5rem;
@@ -39,24 +51,40 @@
       border-radius: 5px;
       color: #fff;
     }
+
     button {
       background-color: #1976d2;
       border: none;
       cursor: pointer;
       font-weight: bold;
     }
+
     button:hover {
       background-color: #1565c0;
     }
-    pre {
-      background-color: #222;
+
+    #result {
+      margin-top: 1rem;
+    }
+
+    .card {
+      background-color: #1e1e1e;
       padding: 1rem;
       border-radius: 5px;
-      white-space: pre-wrap;
+    }
+
+    .error {
+      background-color: #b71c1c;
+      padding: 1rem;
+      border-radius: 5px;
+      color: white;
     }
   </style>
 </head>
 <body>
+
+  <div id="last-updated">Loading last update...</div>
+
   <div class="container">
     <h1>🔍 End of Support Status</h1>
 
@@ -66,38 +94,54 @@
     <button id="check-btn">Check</button>
     <button id="download-btn">⬇️ Download full list</button>
 
-    <pre id="result">Enter a part number and click Check</pre>
+    <div id="result">Enter a part number and click Check</div>
   </div>
 
   <script>
-    const DATA_URL = "https://raw.githubusercontent.com/manelzz/eos-agent/data-publish/data/eos_data.json";
+    const JSON_URL = "https://raw.githubusercontent.com/manelzz/eos-agent/data-publish/data/eos_data.json";
     const CSV_URL = "https://raw.githubusercontent.com/manelzz/eos-agent/data-publish/data/eos_data.csv";
+    const LAST_CHECK_URL = "https://raw.githubusercontent.com/manelzz/eos-agent/data-publish/data/last-check.json";
 
+    // Mostrar fecha de última actualización
+    fetch(LAST_CHECK_URL)
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById("last-updated").textContent = `📅 Last updated: ${data.lastCheck}`;
+      })
+      .catch(() => {
+        document.getElementById("last-updated").textContent = "⚠️ Unable to load last update date.";
+      });
+
+    // Botón de Check
     document.getElementById("check-btn").addEventListener("click", function () {
       const partNumber = document.getElementById("part_number").value.trim();
+      const resultEl = document.getElementById("result");
+      resultEl.innerHTML = "";
+
       if (!partNumber) {
-        alert("Please enter a part number.");
+        resultEl.innerHTML = `<div class="error">Please enter a part number.</div>`;
         return;
       }
 
-      fetch(DATA_URL)
+      fetch(JSON_URL)
         .then(response => {
           if (!response.ok) throw new Error("Unable to load EOS data");
           return response.json();
         })
-        .then(allData => {
-          const result = allData.find(item => item.part_number.toLowerCase() === partNumber.toLowerCase());
+        .then(data => {
+          const result = data.find(item => item.part_number.toLowerCase() === partNumber.toLowerCase());
           if (!result) {
-            document.getElementById("result").textContent = "No results found.";
+            resultEl.innerHTML = `<div class="error">❌ No results found.</div>`;
           } else {
-            document.getElementById("result").textContent = JSON.stringify(result, null, 2);
+            renderResult(result);
           }
         })
         .catch(err => {
-          document.getElementById("result").textContent = "Error: " + err.message;
+          resultEl.innerHTML = `<div class="error">Error: ${err.message}</div>`;
         });
     });
 
+    // Botón de descarga
     document.getElementById("download-btn").addEventListener("click", function () {
       fetch(CSV_URL)
         .then(response => {
@@ -114,9 +158,31 @@
           a.remove();
         })
         .catch(error => {
-          alert(error.message);
+          document.getElementById("result").innerHTML = `<div class="error">❌ ${error.message}</div>`;
         });
     });
+
+    // Mostrar resultado
+    function renderResult(data) {
+      const fields = [
+        { label: "Vendor", key: "vendor" },
+        { label: "Part Number", key: "part_number" },
+        { label: "Software Support", key: "software_support" },
+        { label: "Hardware Support", key: "hardware_support" },
+        { label: "Last Checked", key: "last_checked" },
+        { label: "Announcement URL", key: "url_to_announcement" }
+      ];
+
+      const html = fields.map(f => {
+        const val = data[f.key];
+        if (f.key === "url_to_announcement") {
+          return `<p><strong>${f.label}:</strong> <a href="${val}" target="_blank" style="color:#90caf9;">${val}</a></p>`;
+        }
+        return `<p><strong>${f.label}:</strong> ${val}</p>`;
+      }).join("");
+
+      document.getElementById("result").innerHTML = `<div class="card">${html}</div>`;
+    }
   </script>
 </body>
 </html>
