@@ -20,7 +20,7 @@
       border-radius: 10px;
       box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
     }
-    h1, h2 {
+    h1 {
       color: #90caf9;
     }
     label {
@@ -29,7 +29,7 @@
       margin-bottom: 0.5rem;
       font-weight: bold;
     }
-    input, button, textarea {
+    input, button {
       width: 100%;
       padding: 0.5rem;
       margin-top: 0.25rem;
@@ -48,18 +48,11 @@
     button:hover {
       background-color: #1565c0;
     }
-    .message {
-      margin-top: 1rem;
-      padding: 0.75rem;
+    pre {
+      background-color: #2e2e2e;
+      padding: 1rem;
       border-radius: 5px;
-    }
-    .error {
-      background-color: #b71c1c;
-      color: white;
-    }
-    .success {
-      background-color: #1b5e20;
-      color: white;
+      overflow-x: auto;
     }
   </style>
 </head>
@@ -67,11 +60,8 @@
   <div class="container">
     <h1>🔍 End of Support Status</h1>
 
-    <label for="vendor">Vendor:</label>
-    <input type="text" id="vendor" placeholder="e.g. Cisco" />
-
-    <label for="model">Model / Part Number:</label>
-    <input type="text" id="model" placeholder="e.g. ASA 5506-X" />
+    <label for="part-number">Part Number:</label>
+    <input type="text" id="part-number" placeholder="e.g. FPR-4120-K9" />
 
     <button id="check-btn">Check</button>
     <button id="download-btn">⬇️ Download full list</button>
@@ -81,15 +71,14 @@
 
   <script>
     document.getElementById("check-btn").addEventListener("click", function () {
-      const vendor = document.getElementById("vendor").value.trim();
-      const model = document.getElementById("model").value.trim();
+      const partNumber = document.getElementById("part-number").value.trim();
 
-      if (!vendor || !model) {
-        alert("Please enter both vendor and model.");
+      if (!partNumber) {
+        alert("Please enter a part number.");
         return;
       }
 
-      fetch(`/eos?vendor=${encodeURIComponent(vendor)}&model=${encodeURIComponent(model)}`)
+      fetch(`/eos?part-number=${encodeURIComponent(partNumber)}`)
         .then(response => {
           if (!response.ok) throw new Error("No data found.");
           return response.json();
