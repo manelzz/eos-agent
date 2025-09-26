@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>End of Support Status</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>End of Support Status</h1>
+
+    <p>Check if a device is still supported.</p>
+
+    <form id="single-check-form">
+      <label for="vendor">Vendor:</label>
+      <select id="vendor" name="vendor">
+        <option value="Cisco">Cisco</option>
+        <option value="Fortinet">Fortinet</option>
+        <option value="CheckPoint">Check Point</option>
+        <option value="Bluecoat">Bluecoat</option>
+      </select>
+
+      <label for="model">Model:</label>
+      <input type="text" id="model" name="model" placeholder="Enter part number" />
+
+      <button type="submit">Check</button>
+    </form>
+
+    <hr />
+
+    <form id="batch-check-form">
+      <label for="batch-input">Batch Check (one part number per line):</label>
+      <textarea id="batch-input" rows="5" placeholder="e.g.
+FPR-CH-9300-AC
+ASA5506-X"></textarea>
+      <button type="submit">Check Multiple</button>
+    </form>
+
+    <div id="results"></div>
+
+    <div class="download-section">
+      <button id="download-csv">Download All as CSV</button>
+      <p id="last-checked">Last checked: --</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
