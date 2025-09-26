@@ -1,25 +1,26 @@
 #!/bin/bash
 
-# Configuración
-REPO_DIR="/home/mannel/eos-agent"
-BRANCH="data-publish"
-FILES_TO_COMMIT="data/eos_data.json data/eos_data.csv"
-COMMIT_MSG="Update EOS data ($(date +'%Y-%m-%d %H:%M:%S'))"
+# Ruta absoluta del directorio del script (por si se ejecuta desde otro sitio)
+cd "$(dirname "$0")"
 
-cd "$REPO_DIR" || exit 1
+# 1. Actualizar fecha actual en UTC en last-check.json
+echo "{\"lastCheck\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"}" > ./data/last-check.json
+echo "✔️ Fecha actualizada en data/last-check.json"
 
-# Asegura que estamos en el repositorio correcto
-git checkout "$BRANCH" 2>/dev/null || git checkout -b "$BRANCH"
+# 2. Añadir archivos a git
+git add ./data/eos_data.json ./data/eos_data.csv ./data/last-check.json
 
-# Verifica si hay cambios en los ficheros
-if git diff --quiet -- $FILES_TO_COMMIT; then
-  echo "No hay cambios para publicar."
+# 3. Comprobar si hay cambios antes de hacer commit
+if git diff --cached --quiet; then
+  echo "⚠️ No hay cambios para hacer commit. Nada que subir."
   exit 0
 fi
 
-# Añadir, hacer commit y push
-git add $FILES_TO_COMMIT
+# 4. Hacer commit con mensaje automático
+COMMIT_MSG="📦 Publicar datos EOS actualizados ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
 git commit -m "$COMMIT_MSG"
-git push origin "$BRANCH"
+echo "✅ Commit creado: $COMMIT_MSG"
 
-echo "✔ Datos publicados en la rama $BRANCH."
+# 5. Hacer push a la rama data-publish
+git push origin data-publish
+echo "🚀 Push a GitHub completado en rama data-publish"
