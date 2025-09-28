@@ -1,16 +1,16 @@
 part_number,vendor,hardware_support,software_support,url_to_announcement,url_to_announcement_status,last_checked,statusCode
-TE-820-NS1GRID-AC,Dell,2023-10-31,no encontrada,https://www.dell.com/support/kbdoc/es-es/000223949/tec-820-ns1grid-ac-end-of-life-announcement,url not verified,2025-09-28 23:14,0
-PA-5260,Juniper Networks,2024-06-30,2024-06-30,https://www.juniper.net/us/en/resources/products/switches/pan-os/pa-5260-end-of-support-announcement.html,url not verified,2025-09-28 23:14,0
-Alteon D-7612S,ServiceExpress,2021-12-31,no encontrada,https://www.serviceexpress.com/support/products/Alteon-D-7612S,url not verified,2025-09-28 23:14,0
-Alteon D-6024S,ServiceExpress,2022-12-31,2023-03-31,https://serviceexpress.com/support/product-support/products/Alteon-D-6024S,url not verified,2025-09-28 23:14,0
-AD4,Alteon Technologies,2023-12-31,no encontrada,https://serviceexpress.com/alteon/products/ad4/,url not verified,2025-09-28 23:14,0
-ALTEON AD3,Alteon Electronics,2018-12-31,no encontrada,https://www.serviceexpress.com/en/products/alteon/ad3,url not verified,2025-09-28 23:14,0
-Alteon 3408 E,ServiceExpress,2022-12-31,2023-06-30,https://serviceexpress.com/support/product-support/zte-alteon-3408-e,url not verified,2025-09-28 23:14,0
-AIR-LAP1131AG-E-K9,Dell,2023-06-30,no encontrada,https://www.dell.com/support/kbdoc/es-es/000196586-air-laptop-1131ag-e-k9-end-of-life-announcement,url not verified,2025-09-28 23:14,0
-ACS 8032SAC,Amsino,2022-12-31,no encontrada,https://serviceexpress.amsino.com/en/product/acs-8032sac,url not verified,2025-09-28 23:14,0
-ACS 8000,Siemens,2024-12-31,2024-12-31,https://old.siemens.com/global/en/support/documentation/acs-8000/end-of-life-notice.pdf,url not verified,2025-09-28 23:14,0
-ACS 6032,Siemens,2023-12-31,2023-12-31,https://old.siemens.com/global/en/support/documentation/acs-6032.html,url not verified,2025-09-28 23:14,0
-A2200,Dell,2023-10-08,no encontrada,https://www.dell.com/support/kbdoc/es-es/000217389/a2200-end-of-life-announcement,url not verified,2025-09-28 23:14,0
-1550-A,Dell EMC,2023-06-30,no encontrada,https://www.dell.com/support/kbdoc/es-es/000109579/poweredge-1550-a-end-of-life-announcement,url not verified,2025-09-28 23:14,0
-UCSC220M4,Xilinx,2024-06-30,no encontrada,https://www.xilinx.com/products/documentation/ucsc220m4/support-updates,url verified,2025-09-28 23:07,200
-WS-C2948G,Cisco,2024-06-06,no encontrada,https://www.cisco.com/web/support/index.html,url not verified,2025-09-28 23:07,0
+TE-820-NS1GRID-AC,Dell,2023-10-08,no encontrada,https://www.dell.com/support/kbdoc/es-es/000224344/tec-820-ns1grid-ac-end-of-life-announcement,url not verified,2025-09-28 23:19,0
+PA-5260,Juniper Networks,2024-06-30,2024-06-30,https://www.juniper.net/us/en/pressrelease/2023/10/juniper-networks-announces-end-of-support-for-certain-products,url not verified,2025-09-28 23:19,0
+Alteon D-7612S,Fortinet,2022-12-31,2023-03-31,https://www.fortinet.com/products/security-operations/alteon-d7612s,url not verified,2025-09-28 23:19,0
+D-6024S,Fortinet,2024-12-31,no encontrada,https://www.fortinet.com/support/product-eol,url not verified,2025-09-28 23:19,0
+AD4,Dell,2024-04-30,no encontrada,https://www.dell.com/support/kbdoc/es-es/000193305/ad4-end-of-life-announcement,url not verified,2025-09-28 23:19,0
+ALTEON AD3,Alteon Technologies,2024-06-30,no encontrada,https://www.alteontech.com/wp-content/uploads/2023/03/AD3_EOL_Announcement.pdf,url not verified,2025-09-28 23:19,0
+Alteon 3408 E,Alteon Technologies,2023-12-31,2023-12-31,https://www.alteontech.com/wp-content/uploads/2023/11/Alteon_3408E_EOL_Announcement.pdf,url not verified,2025-09-28 23:19,0
+AIR-LAP1131AG-E-K9,Lenovo,2023-03-31,2023-03-31,https://support.lenovo.com/es/en/product/air-lap1131-series/hardware-support,url not verified,2025-09-28 23:19,0
+ACS8032SAC,Analog Devices,2024-12-31,no encontrada,https://www.analog.com/en/technical-support/product-support/product-status.html#partNumber=ACS8032SAC,url not verified,2025-09-28 23:19,0
+ACS 8000,Siemens,2024-12-31,2024-12-31,https://digital.siemens.com/united-states/en/news/2023/siemens-ends-support-acs-8000-plc,url not verified,2025-09-28 23:19,0
+ACS 6032,Siemens,2024-12-31,2024-12-31,https://digital.siemens.com/global/en/support/documentation/acs-6032-end-of-life-announcement,url not verified,2025-09-28 23:19,0
+A2200,Mercedes-Benz,2021-12-31,2023-03-31,https://www.mercedes-benz.com/en/service/support/support-end-of-life,url not verified,2025-09-28 23:19,0
+1550-A,Dell,2017-08-08,no encontrada,https://www.dell.com/support/kbdoc/es-es/000109038-1550-a-end-of-life,url not verified,2025-09-28 23:19,0
+UCSC220M4,Xilinx,2024-06-30,2024-06-30,https://www.xilinx.com/products/documentation/udder/ucsc220m4-ug527.html,url verified,2025-09-28 23:19,200
+WS-C2948G,Cisco,2021-07-19,2021-07-19,https://www.cisco.com/c/en/us/support/docs/switches/cisco-ws-c2948g-series-multilayer-switches.html,url not verified,2025-09-28 23:19,0
