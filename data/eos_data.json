@@ -2,13 +2,13 @@
   {
     "vendor": "HP",
     "part_number": "R1V82A",
-    "software_support": "EOD 2022-12-31",
-    "hardware_support": "EOD 2027-12-31",
-    "url_to_announcement": "https://support.hp.com/es-es/product/mobile-workstations-hp-z-series/mobile-workstation-800-series/hp-z800-workstation-system-notes#release-notes",
+    "software_support": "December 31, 2023",
+    "hardware_support": "December 31, 2023",
+    "url_to_announcement": "https://support.hp.com/es-es/document/c04692499",
     "url_to_announcement_status": "url not verified",
     "url_check_status_code": null,
     "url_check_error": "timeout of 30000ms exceeded",
-    "last_checked": "2025-09-28T18:41:55.224Z"
+    "last_checked": "2025-09-28T18:51:55.990Z"
   },
   {
     "vendor": "Cisco",
