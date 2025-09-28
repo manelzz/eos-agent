@@ -1,8 +1,8 @@
 part_number,vendor,hardware_support,software_support,url_to_announcement,url_to_announcement_status,last_checked,statusCode
-unknown,,,,,url not verified,2025-09-28 23:01,0
-UCSC220M4,Dell EMC,2025-09-28,no encontrada,https://www.dell.com/support/kbdoc/es-es/000103782/ucs220m4-end-of-life-announcement,url not verified,2025-09-28 23:01,0
-WS-C2948G,Cisco,2021-08-31,no encontrada,https://serviceexpress.com/eol-eosl-database/model/WS-C2948G,url not verified,2025-09-28 23:01,0
-Trinzic 800,Trinnov,2025-09-28,no encontrada,https://serviceexpress.com/eol-eosl-database/trinnov/trinzic-800/,url not verified,2025-09-28 23:01,0
-SNS-3695-K9,HP,2019-01-31,no encontrada,https://serviceexpress.com/eol-eosl-database/part_number/SNS-3695-K9,url not verified,2025-09-28 23:01,0
-R1V82A,Hitachi Vantara,2025-09-28,no encontrada,https://serviceexpress.com/eol-eosl-database/part_number/R1V82A,url not verified,2025-09-28 23:01,0
-07C897,Dell,2025-09-28,no encontrada,https://serviceexpress.com/eol-eosl-database/product/07C897,url not verified,2025-09-28 23:01,0
+unknown,Dell,2023-03-31,2023-03-31,https://www.dell.com/support/kbdoc/es-es/000208565/poweredge-r740-end-of-life-and-support-roadmap,url not verified,2025-09-28 23:07,0
+UCSC220M4,Cisco,2023-06-30,no encontrada,https://www.cisco.com/c/en/us/support/tsd/cs_ucc220m4.html,url not verified,2025-09-28 23:07,0
+WS-C2948G,Cisco,2021-06-08,no encontrada,https://www.cisco.com/web/support/index.html,url not verified,2025-09-28 23:07,0
+Trinzic 800,TranzAct Technologies,2023-12-31,no encontrada,https://www.tranzact.com/blog/trinzic-800-end-of-life-notice,url not verified,2025-09-28 23:07,0
+SNS-3695-K9,Dell EMC,2023-03-31,no encontrada,https://support.dell.com/kb/kbarticle?kbarticleid=nuo8073,url not verified,2025-09-28 23:07,0
+R1V82A,Dell EMC,2023-12-31,no encontrada,https://www.dell.com/support/kbdoc/es-es/000278740/r1v82a-end-of-life-announcement,url not verified,2025-09-28 23:07,0
+07C897,Dell,2023-03-31,2023-03-31,https://www.dell.com/support/kbdoc/es-es/000213037-07c897-end-of-life,url not verified,2025-09-28 23:07,0
