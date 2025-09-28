@@ -17,6 +17,12 @@ def load_data():
     with open(DATA_FILE, 'r') as f:
         return json.load(f)
 
+def update_last_check():
+    """Guarda la fecha de última actualización en formato YYYY-MM-DD HH:MM"""
+    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M")
+    with open(LAST_CHECK_FILE, 'w') as f:
+        json.dump({"lastCheck": now}, f)
+
 def save_data(data):
     for entry in data:
         entry["last_checked"] = datetime.utcnow().isoformat() + "Z"
@@ -24,6 +30,7 @@ def save_data(data):
     with open(DATA_FILE, 'w') as f:
         json.dump(data, f, indent=2)
     generate_csv(data)
+    update_last_check()
 
 def generate_csv(data):
     if not data:

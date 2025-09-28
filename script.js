@@ -33,15 +33,29 @@ Hardware EOS: ${record.hardware_eos}`;
     window.location.href = '/eos/csv';
   });
 
-  async function loadLastCheck() {
-    try {
-      const res = await fetch('/data/last-check.json');
-      const json = await res.json();
-      lastCheck.textContent = json.lastCheck || 'Unknown';
-    } catch {
-      lastCheck.textContent = 'Unavailable';
+async function loadLastCheck() {
+  try {
+    const res = await fetch('/data/last-check.json');
+    const json = await res.json();
+
+    if (json.lastCheck) {
+      let formatted = json.lastCheck;
+
+      // Intentar parsear si parece una fecha ISO
+      const d = new Date(json.lastCheck);
+      if (!isNaN(d.getTime())) {
+        const pad = (n) => String(n).padStart(2, '0');
+        formatted = `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+      }
+
+      lastCheck.textContent = formatted;
+    } else {
+      lastCheck.textContent = 'Unknown';
     }
+  } catch {
+    lastCheck.textContent = 'Unavailable';
   }
+}
 
   loadLastCheck();
 });
