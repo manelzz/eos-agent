@@ -1,11 +1,11 @@
 [
   {
-    "vendor": "HP",
+    "vendor": "Hitachi Astera Technologies",
     "part_number": "R1V82A",
-    "hardware_support": "2024-06-30",
-    "software_support": "2024-06-30",
-    "url_to_announcement": "https://support.hp.com/es-es/product/hp-probook-450-g8/hardware-software-support",
+    "hardware_support": "2023-12-31",
+    "software_support": "2023-12-31",
+    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/product-details?product_id=44471",
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-28 19:50"
+    "last_checked": "2025-09-28 20:07"
   }
 ]
