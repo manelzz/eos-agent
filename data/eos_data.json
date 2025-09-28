@@ -1,7 +1,17 @@
 [
   {
-    "part_number": "unknown",
-    "status": "not_found"
+    "vendor": "Dell",
+    "part_number": "R1V82A",
+    "software_support": "End of Life (EOS) - September 2021",
+    "hardware_support": "End of Life (EOS) - September 2021",
+    "url_to_announcement": "https://support.dell.com/kbdoc/sln391324/r1v82a-end-of-life-announcement"
+  },
+  {
+    "vendor": "Dell",
+    "part_number": "JZ509A",
+    "software_support": "October 2021",
+    "hardware_support": "October 2026",
+    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000232267/j-series-support-end-dates"
   },
   {
     "vendor": "Cisco",
