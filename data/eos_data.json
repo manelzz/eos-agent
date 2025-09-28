@@ -1,45 +1,68 @@
 [
   {
-    "vendor": "HP",
+    "vendor": "Dell",
     "part_number": "R1V82A",
-    "software_support": "December 31, 2023",
-    "hardware_support": "December 31, 2023",
-    "url_to_announcement": "https://support.hp.com/es-es/document/c04692499",
+    "software_support": "January 2023",
+    "hardware_support": "January 2028",
+    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000205843_1",
     "url_to_announcement_status": "url not verified",
     "url_check_status_code": null,
-    "url_check_error": "timeout of 30000ms exceeded",
-    "last_checked": "2025-09-28T18:51:55.990Z"
+    "url_check_error": "403 - \"<HTML><HEAD>\\n<TITLE>Access Denied</TITLE>\\n</HEAD><BODY>\\n<H1>Access Denied</H1>\\n \\nYou don't have permission to access \\\"http&#58;&#47;&#47;www&#46;dell&#46;com&#47;support&#47;kbdoc&#47;es&#45;es&#47;000205843&#95;1\\\" on this server.<P>\\nReference&#32;&#35;18&#46;52d73b17&#46;1759085619&#46;41c5c128\\n<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;52d73b17&#46;1759085619&#46;41c5c128</P>\\n</BODY>\\n</HTML>\\n\"",
+    "last_checked": "2025-09-28T18:53:40.078Z"
   },
   {
-    "vendor": "Cisco",
-    "part_number": "ASA 5506-X",
-    "software_support": "2024-08-31",
-    "hardware_support": "2025-08-31",
-    "last_checked": "2025-09-26T16:18:25.085233Z",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/products/eos-eol-policy.html"
+    "hardware_support": "\"December 31",
+    "last_checked": "2023\"",
+    "part_number": "\"2025-09-28T18:51:55.990Z\"",
+    "software_support": "\"R1V82A\"",
+    "url_check_error": "\"December 31",
+    "url_check_status_code": "2023\"",
+    "url_to_announcement": "\"timeout of 30000ms exceeded\"",
+    "url_to_announcement_status": "\"\"",
+    "vendor": "\"https://support.hp.com/es-es/document/c04692499\""
   },
   {
-    "vendor": "Fortinet",
-    "part_number": "FG-100F",
-    "software_support": "2025-06-30",
-    "hardware_support": "2026-06-30",
-    "last_checked": "2025-09-26T16:18:25.085244Z",
-    "url_to_announcement": "https://www.fortinet.com/support/product-life-cycle"
+    "hardware_support": "\"2025-08-31\"",
+    "last_checked": "\"2025-09-26T16:18:25.085233Z\"",
+    "part_number": "\"ASA 5506-X\"",
+    "software_support": "\"2024-08-31\"",
+    "url_check_error": "\"\"",
+    "url_check_status_code": "\"\"",
+    "url_to_announcement": "\"https://www.cisco.com/c/en/us/products/eos-eol-policy.html\"",
+    "url_to_announcement_status": "\"\"",
+    "vendor": "\"Cisco\""
   },
   {
-    "vendor": "Check Point",
-    "part_number": "CPAP-SG6200-NGTP",
-    "software_support": "2023-12-31",
-    "hardware_support": "2024-12-31",
-    "last_checked": "2025-09-26T16:18:25.085248Z",
-    "url_to_announcement": "https://support.checkpoint.com/results/products/"
+    "hardware_support": "\"2026-06-30\"",
+    "last_checked": "\"2025-09-26T16:18:25.085244Z\"",
+    "part_number": "\"FG-100F\"",
+    "software_support": "\"2025-06-30\"",
+    "url_check_error": "\"\"",
+    "url_check_status_code": "\"\"",
+    "url_to_announcement": "\"https://www.fortinet.com/support/product-life-cycle\"",
+    "url_to_announcement_status": "\"\"",
+    "vendor": "\"Fortinet\""
   },
   {
-    "vendor": "Bluecoat",
-    "part_number": "SG510-10",
-    "software_support": "2021-07-15",
-    "hardware_support": "2023-07-15",
-    "last_checked": "2025-09-26T16:18:25.085251Z",
-    "url_to_announcement": "https://techdocs.broadcom.com/"
+    "hardware_support": "\"2024-12-31\"",
+    "last_checked": "\"2025-09-26T16:18:25.085248Z\"",
+    "part_number": "\"CPAP-SG6200-NGTP\"",
+    "software_support": "\"2023-12-31\"",
+    "url_check_error": "\"\"",
+    "url_check_status_code": "\"\"",
+    "url_to_announcement": "\"https://support.checkpoint.com/results/products/\"",
+    "url_to_announcement_status": "\"\"",
+    "vendor": "\"Check Point\""
+  },
+  {
+    "hardware_support": "\"2023-07-15\"",
+    "last_checked": "\"2025-09-26T16:18:25.085251Z\"",
+    "part_number": "\"SG510-10\"",
+    "software_support": "\"2021-07-15\"",
+    "url_check_error": "\"\"",
+    "url_check_status_code": "\"\"",
+    "url_to_announcement": "\"https://techdocs.broadcom.com/\"",
+    "url_to_announcement_status": "\"\"",
+    "vendor": "\"Bluecoat\""
   }
 ]
