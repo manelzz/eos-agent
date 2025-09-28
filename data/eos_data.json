@@ -2,12 +2,12 @@
   {
     "vendor": "Dell EMC",
     "part_number": "UCSC220M4",
-    "hardware_support": "2023-10-08",
-    "software_support": "2023-10-08",
-    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/details/UCSC220M4",
+    "hardware_support": "2023-08-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000103782/ucs220m4-end-of-life-announcement",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-28 22:53"
+    "last_checked": "2025-09-28 22:56"
   },
   {
     "vendor": "Cisco",
