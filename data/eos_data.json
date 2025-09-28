@@ -1,17 +1,12 @@
 [
   {
-    "vendor": "Dell",
-    "part_number": "R1V82A",
-    "software_support": "End of Life (EOS) - September 2021",
-    "hardware_support": "End of Life (EOS) - September 2021",
-    "url_to_announcement": "https://support.dell.com/kbdoc/sln391324/r1v82a-end-of-life-announcement"
-  },
-  {
-    "vendor": "Dell",
-    "part_number": "JZ509A",
-    "software_support": "October 2021",
-    "hardware_support": "October 2026",
-    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000232267/j-series-support-end-dates"
+    "error": {
+      "message": "timeout of 30000ms exceeded",
+      "name": "AxiosError",
+      "stack": "AxiosError: timeout of 30000ms exceeded\n    at RedirectableRequest.handleRequestTimeout (/usr/lib/node_modules/n8n/node_modules/axios/lib/adapters/http.js:657:16)\n    at RedirectableRequest.emit (node:events:524:28)\n    at Timeout.<anonymous> (/usr/lib/node_modules/n8n/node_modules/follow-redirects/index.js:221:12)\n    at listOnTimeout (node:internal/timers:581:17)\n    at processTimers (node:internal/timers:519:7)\n    at Axios.request (/usr/lib/node_modules/n8n/node_modules/axios/lib/core/Axios.js:45:41)\n    at invokeAxios (/usr/lib/node_modules/n8n/node_modules/n8n-core/src/execution-engine/node-execution-context/utils/request-helper-functions.ts:313:10)\n    at proxyRequestToAxios (/usr/lib/node_modules/n8n/node_modules/n8n-core/src/execution-engine/node-execution-context/utils/request-helper-functions.ts:695:20)\n    at Object.request (/usr/lib/node_modules/n8n/node_modules/n8n-core/src/execution-engine/node-execution-context/utils/request-helper-functions.ts:1749:4)",
+      "code": "ECONNABORTED"
+    },
+    "url_to_announcement_status": "url not verified"
   },
   {
     "vendor": "Cisco",
