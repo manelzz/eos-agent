@@ -1,6 +1,6 @@
 part_number,vendor,hardware_support,software_support,url_to_announcement,url_to_announcement_status,last_checked,statusCode
-WS-C2948G,Cisco,2021-03-31,2021-03-31,https://serviceexpress.com/eol-eosl-database/product/Cisco-WS-C2948G,url not verified,2025-09-28 22:31,0
-Trinzic 800,Service Express,2017-12-31,2017-12-31,https://serviceexpress.com/eol-eosl-database/trinzic-800/,url not verified,2025-09-28 22:31,0
-SNS-3695-K9,HP,2018-08-03,2018-08-03,https://serviceexpress.com/eol-eosl-database/hardware-eol-details/hp-sns-3695-k9,url not verified,2025-09-28 22:31,0
+WS-C2948G,Cisco,2022-07-31,2022-07-31,https://serviceexpress.com/eol-eosl-database/search?q=WS-C2948G,url not verified,2025-09-28 22:36,0
+Trinzic 800,Tranzac,2018-12-31,2018-12-31,https://serviceexpress.com/eol-eosl-database/tranzic-800/,url not verified,2025-09-28 22:36,0
+SNS-3695-K9,HP,2017-08-06,2017-08-06,https://serviceexpress.com/eol-eosl-database/part-number/SNS-3695-K9,url not verified,2025-09-28 22:36,0
 R1V82A,Hitachi Vantara,2023-12-31,2023-12-31,https://serviceexpress.com/eol-eosl-database/part_number/R1V82A,url not verified,2025-09-28 20:49,200
 07C897,Dell,2023-10-31,2023-10-31,https://serviceexpress.com/eol-eosl-database/product/07C897,url not verified,2025-09-28 20:48,200
