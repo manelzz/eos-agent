@@ -2,32 +2,32 @@
   {
     "vendor": "Cisco",
     "part_number": "WS-C2948G",
-    "hardware_support": "2022-07-27",
-    "software_support": "2022-07-27",
-    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/product_details.php?product_id=1762",
+    "hardware_support": "2021-03-31",
+    "software_support": "2021-03-31",
+    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/product/WS-C2948G",
     "url_to_announcement_status": "url not verified",
     "statusCode": 0,
-    "last_checked": "2025-09-28 22:21"
+    "last_checked": "2025-09-28 22:27"
   },
   {
-    "vendor": "Siemens",
+    "vendor": "Service Express",
     "part_number": "Trinzic 800",
-    "hardware_support": "2024-12-31",
-    "software_support": "2024-12-31",
-    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/part_number/trinzic-800",
+    "hardware_support": "2018-12-31",
+    "software_support": "2018-12-31",
+    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/trinzic-800/",
     "url_to_announcement_status": "url not verified",
     "statusCode": 0,
-    "last_checked": "2025-09-28 22:21"
+    "last_checked": "2025-09-28 22:27"
   },
   {
     "vendor": "HP",
     "part_number": "SNS-3695-K9",
-    "hardware_support": "2019-01-31",
-    "software_support": "2019-01-31",
-    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/part_number/SNS-3695-K9",
+    "hardware_support": "2023-03-31",
+    "software_support": "2023-03-31",
+    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/hp/sns-3695-k9",
     "url_to_announcement_status": "url not verified",
     "statusCode": 0,
-    "last_checked": "2025-09-28 22:21"
+    "last_checked": "2025-09-28 22:27"
   },
   {
     "vendor": "Hitachi Vantara",
