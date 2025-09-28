@@ -2,22 +2,22 @@
   {
     "vendor": "Dell",
     "part_number": "TE-820-NS1GRID-AC",
-    "hardware_support": "2023-10-08",
+    "hardware_support": "2023-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000179736-te-820-ns1grid-ac-end-of-life",
+    "url_to_announcement": "https://www.dell.com/support/kb/articlenumber/st874480",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-28 23:09"
+    "last_checked": "2025-09-28 23:12"
   },
   {
-    "vendor": "Juniper Networks",
+    "vendor": "Palo Alto Networks",
     "part_number": "PA-5260",
     "hardware_support": "2024-12-31",
     "software_support": "2024-12-31",
-    "url_to_announcement": "https://www.juniper.net/us/en/resources/docs/legal/pa-5260-eol-announcement.pdf",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-28 23:09"
+    "url_to_announcement": "https://support.paloaltonetworks.com/hc/en-us/articles/220384188-PA-5260-End-of-Life-Notice",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-28 23:12"
   },
   {
     "vendor": "Xilinx",
