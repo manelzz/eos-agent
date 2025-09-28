@@ -2,12 +2,12 @@
   {
     "vendor": "Dell",
     "part_number": "R1V82A",
-    "software_support": "End of Life - September 2021",
-    "hardware_support": "End of Life - September 2021",
-    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000208391/r1v82a-end-of-life-announcement",
+    "software_support": "October 2023",
+    "hardware_support": "October 2023",
+    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000186314/r1v82a-support-information",
     "url_to_announcement_status": "url not verified",
     "url_check_status_code": null,
-    "url_check_error": "403 - \"<HTML><HEAD>\\n<TITLE>Access Denied</TITLE>\\n</HEAD><BODY>\\n<H1>Access Denied</H1>\\n \\nYou don't have permission to access \\\"http&#58;&#47;&#47;www&#46;dell&#46;com&#47;support&#47;kbdoc&#47;es&#45;es&#47;000208391&#47;r1v82a&#45;end&#45;of&#45;life&#45;announcement\\\" on this server.<P>\\nReference&#32;&#35;18&#46;d46d655f&#46;1759087863&#46;94ea9652\\n<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d46d655f&#46;1759087863&#46;94ea9652</P>\\n</BODY>\\n</HTML>\\n\"",
-    "last_checked": "2025-09-28T19:31:03.517Z"
+    "url_check_error": "403 - \"<HTML><HEAD>\\n<TITLE>Access Denied</TITLE>\\n</HEAD><BODY>\\n<H1>Access Denied</H1>\\n \\nYou don't have permission to access \\\"http&#58;&#47;&#47;www&#46;dell&#46;com&#47;support&#47;kbdoc&#47;es&#45;es&#47;000186314&#47;r1v82a&#45;support&#45;information\\\" on this server.<P>\\nReference&#32;&#35;18&#46;d86d655f&#46;1759088414&#46;39b6b09a\\n<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d86d655f&#46;1759088414&#46;39b6b09a</P>\\n</BODY>\\n</HTML>\\n\"",
+    "last_checked": "2025-09-28T19:40:14.107Z"
   }
 ]
