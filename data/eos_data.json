@@ -1,5 +1,14 @@
 [
   {
+    "vendor": "Cisco",
+    "part_number": "WS-C2948G",
+    "hardware_support": "2022-06-07",
+    "software_support": "2022-06-07",
+    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/product/Cisco-WS-C2948G",
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-28 20:53"
+  },
+  {
     "vendor": "Hitachi Vantara",
     "part_number": "R1V82A",
     "hardware_support": "2023-12-31",
