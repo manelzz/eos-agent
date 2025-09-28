@@ -6,6 +6,7 @@
     "software_support": "2022-06-07",
     "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/product/Cisco-WS-C2948G",
     "url_to_announcement_status": "url verified",
+    "statusCode": "200",
     "last_checked": "2025-09-28 20:53"
   },
   {
@@ -15,6 +16,7 @@
     "software_support": "2023-12-31",
     "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/part_number/R1V82A",
     "url_to_announcement_status": "url not verified",
+    "statusCode": "200",
     "last_checked": "2025-09-28 20:49"
   },
   {
@@ -24,6 +26,7 @@
     "software_support": "2023-10-31",
     "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/product/07C897",
     "url_to_announcement_status": "url not verified",
+    "statusCode": "200",
     "last_checked": "2025-09-28 20:48"
   }
 ]
