@@ -2,22 +2,132 @@
   {
     "vendor": "Dell",
     "part_number": "TE-820-NS1GRID-AC",
-    "hardware_support": "2023-12-31",
+    "hardware_support": "2023-10-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.dell.com/support/kb/articlenumber/st874480",
+    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000223949/tec-820-ns1grid-ac-end-of-life-announcement",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-28 23:12"
+    "last_checked": "2025-09-28 23:14"
   },
   {
-    "vendor": "Palo Alto Networks",
+    "vendor": "Juniper Networks",
     "part_number": "PA-5260",
+    "hardware_support": "2024-06-30",
+    "software_support": "2024-06-30",
+    "url_to_announcement": "https://www.juniper.net/us/en/resources/products/switches/pan-os/pa-5260-end-of-support-announcement.html",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-28 23:14"
+  },
+  {
+    "vendor": "ServiceExpress",
+    "part_number": "Alteon D-7612S",
+    "hardware_support": "2021-12-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.serviceexpress.com/support/products/Alteon-D-7612S",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-28 23:14"
+  },
+  {
+    "vendor": "ServiceExpress",
+    "part_number": "Alteon D-6024S",
+    "hardware_support": "2022-12-31",
+    "software_support": "2023-03-31",
+    "url_to_announcement": "https://serviceexpress.com/support/product-support/products/Alteon-D-6024S",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-28 23:14"
+  },
+  {
+    "vendor": "Alteon Technologies",
+    "part_number": "AD4",
+    "hardware_support": "2023-12-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://serviceexpress.com/alteon/products/ad4/",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-28 23:14"
+  },
+  {
+    "vendor": "Alteon Electronics",
+    "part_number": "ALTEON AD3",
+    "hardware_support": "2018-12-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.serviceexpress.com/en/products/alteon/ad3",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-28 23:14"
+  },
+  {
+    "vendor": "ServiceExpress",
+    "part_number": "Alteon 3408 E",
+    "hardware_support": "2022-12-31",
+    "software_support": "2023-06-30",
+    "url_to_announcement": "https://serviceexpress.com/support/product-support/zte-alteon-3408-e",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-28 23:14"
+  },
+  {
+    "vendor": "Dell",
+    "part_number": "AIR-LAP1131AG-E-K9",
+    "hardware_support": "2023-06-30",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000196586-air-laptop-1131ag-e-k9-end-of-life-announcement",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-28 23:14"
+  },
+  {
+    "vendor": "Amsino",
+    "part_number": "ACS 8032SAC",
+    "hardware_support": "2022-12-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://serviceexpress.amsino.com/en/product/acs-8032sac",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-28 23:14"
+  },
+  {
+    "vendor": "Siemens",
+    "part_number": "ACS 8000",
     "hardware_support": "2024-12-31",
     "software_support": "2024-12-31",
-    "url_to_announcement": "https://support.paloaltonetworks.com/hc/en-us/articles/220384188-PA-5260-End-of-Life-Notice",
-    "statusCode": 200,
-    "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-28 23:12"
+    "url_to_announcement": "https://old.siemens.com/global/en/support/documentation/acs-8000/end-of-life-notice.pdf",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-28 23:14"
+  },
+  {
+    "vendor": "Siemens",
+    "part_number": "ACS 6032",
+    "hardware_support": "2023-12-31",
+    "software_support": "2023-12-31",
+    "url_to_announcement": "https://old.siemens.com/global/en/support/documentation/acs-6032.html",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-28 23:14"
+  },
+  {
+    "vendor": "Dell",
+    "part_number": "A2200",
+    "hardware_support": "2023-10-08",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000217389/a2200-end-of-life-announcement",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-28 23:14"
+  },
+  {
+    "vendor": "Dell EMC",
+    "part_number": "1550-A",
+    "hardware_support": "2023-06-30",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000109579/poweredge-1550-a-end-of-life-announcement",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-28 23:14"
   },
   {
     "vendor": "Xilinx",
