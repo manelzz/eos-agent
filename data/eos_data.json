@@ -4,30 +4,30 @@
     "part_number": "WS-C2948G",
     "hardware_support": "2021-03-31",
     "software_support": "2021-03-31",
-    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/product/WS-C2948G",
+    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/product/Cisco-WS-C2948G",
     "url_to_announcement_status": "url not verified",
     "statusCode": 0,
-    "last_checked": "2025-09-28 22:27"
+    "last_checked": "2025-09-28 22:31"
   },
   {
     "vendor": "Service Express",
     "part_number": "Trinzic 800",
-    "hardware_support": "2018-12-31",
-    "software_support": "2018-12-31",
+    "hardware_support": "2017-12-31",
+    "software_support": "2017-12-31",
     "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/trinzic-800/",
     "url_to_announcement_status": "url not verified",
     "statusCode": 0,
-    "last_checked": "2025-09-28 22:27"
+    "last_checked": "2025-09-28 22:31"
   },
   {
     "vendor": "HP",
     "part_number": "SNS-3695-K9",
-    "hardware_support": "2023-03-31",
-    "software_support": "2023-03-31",
-    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/hp/sns-3695-k9",
+    "hardware_support": "2018-08-03",
+    "software_support": "2018-08-03",
+    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/hardware-eol-details/hp-sns-3695-k9",
     "url_to_announcement_status": "url not verified",
     "statusCode": 0,
-    "last_checked": "2025-09-28 22:27"
+    "last_checked": "2025-09-28 22:31"
   },
   {
     "vendor": "Hitachi Vantara",
