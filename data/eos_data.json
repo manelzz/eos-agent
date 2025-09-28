@@ -1,70 +1,40 @@
 [
   {
     "vendor": "Dell",
-    "part_number": "unknown",
-    "hardware_support": "2023-03-31",
-    "software_support": "2023-03-31",
-    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000208565/poweredge-r740-end-of-life-and-support-roadmap",
+    "part_number": "TE-820-NS1GRID-AC",
+    "hardware_support": "2023-10-08",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000179736-te-820-ns1grid-ac-end-of-life",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-28 23:07"
+    "last_checked": "2025-09-28 23:09"
   },
   {
-    "vendor": "Cisco",
-    "part_number": "UCSC220M4",
-    "hardware_support": "2023-06-30",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/tsd/cs_ucc220m4.html",
+    "vendor": "Juniper Networks",
+    "part_number": "PA-5260",
+    "hardware_support": "2024-12-31",
+    "software_support": "2024-12-31",
+    "url_to_announcement": "https://www.juniper.net/us/en/resources/docs/legal/pa-5260-eol-announcement.pdf",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-28 23:09"
+  },
+  {
+    "vendor": "Xilinx",
+    "part_number": "UCSC220M4",
+    "hardware_support": "2024-06-30",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.xilinx.com/products/documentation/ucsc220m4/support-updates",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
     "last_checked": "2025-09-28 23:07"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2948G",
-    "hardware_support": "2021-06-08",
+    "hardware_support": "2024-06-06",
     "software_support": "no encontrada",
     "url_to_announcement": "https://www.cisco.com/web/support/index.html",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-28 23:07"
-  },
-  {
-    "vendor": "TranzAct Technologies",
-    "part_number": "Trinzic 800",
-    "hardware_support": "2023-12-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.tranzact.com/blog/trinzic-800-end-of-life-notice",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-28 23:07"
-  },
-  {
-    "vendor": "Dell EMC",
-    "part_number": "SNS-3695-K9",
-    "hardware_support": "2023-03-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://support.dell.com/kb/kbarticle?kbarticleid=nuo8073",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-28 23:07"
-  },
-  {
-    "vendor": "Dell EMC",
-    "part_number": "R1V82A",
-    "hardware_support": "2023-12-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000278740/r1v82a-end-of-life-announcement",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-28 23:07"
-  },
-  {
-    "vendor": "Dell",
-    "part_number": "07C897",
-    "hardware_support": "2023-03-31",
-    "software_support": "2023-03-31",
-    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000213037-07c897-end-of-life",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
     "last_checked": "2025-09-28 23:07"

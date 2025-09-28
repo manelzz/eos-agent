@@ -1,8 +1,5 @@
 part_number,vendor,hardware_support,software_support,url_to_announcement,url_to_announcement_status,last_checked,statusCode
-unknown,Dell,2023-03-31,2023-03-31,https://www.dell.com/support/kbdoc/es-es/000208565/poweredge-r740-end-of-life-and-support-roadmap,url not verified,2025-09-28 23:07,0
-UCSC220M4,Cisco,2023-06-30,no encontrada,https://www.cisco.com/c/en/us/support/tsd/cs_ucc220m4.html,url not verified,2025-09-28 23:07,0
-WS-C2948G,Cisco,2021-06-08,no encontrada,https://www.cisco.com/web/support/index.html,url not verified,2025-09-28 23:07,0
-Trinzic 800,TranzAct Technologies,2023-12-31,no encontrada,https://www.tranzact.com/blog/trinzic-800-end-of-life-notice,url not verified,2025-09-28 23:07,0
-SNS-3695-K9,Dell EMC,2023-03-31,no encontrada,https://support.dell.com/kb/kbarticle?kbarticleid=nuo8073,url not verified,2025-09-28 23:07,0
-R1V82A,Dell EMC,2023-12-31,no encontrada,https://www.dell.com/support/kbdoc/es-es/000278740/r1v82a-end-of-life-announcement,url not verified,2025-09-28 23:07,0
-07C897,Dell,2023-03-31,2023-03-31,https://www.dell.com/support/kbdoc/es-es/000213037-07c897-end-of-life,url not verified,2025-09-28 23:07,0
+TE-820-NS1GRID-AC,Dell,2023-10-08,no encontrada,https://www.dell.com/support/kbdoc/es-es/000179736-te-820-ns1grid-ac-end-of-life,url not verified,2025-09-28 23:09,0
+PA-5260,Juniper Networks,2024-12-31,2024-12-31,https://www.juniper.net/us/en/resources/docs/legal/pa-5260-eol-announcement.pdf,url not verified,2025-09-28 23:09,0
+UCSC220M4,Xilinx,2024-06-30,no encontrada,https://www.xilinx.com/products/documentation/ucsc220m4/support-updates,url verified,2025-09-28 23:07,200
+WS-C2948G,Cisco,2024-06-06,no encontrada,https://www.cisco.com/web/support/index.html,url not verified,2025-09-28 23:07,0
