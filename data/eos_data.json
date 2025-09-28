@@ -1,11 +1,11 @@
 [
   {
-    "vendor": "HP",
-    "part_number": "R1V82A",
-    "hardware_support": "2023-03-31",
-    "software_support": "2023-03-31",
-    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/hp-r1v82a/",
+    "vendor": "Dell",
+    "part_number": "07C897",
+    "hardware_support": "2023-10-31",
+    "software_support": "2023-10-31",
+    "url_to_announcement": "https://serviceexpress.com/eol-eosl-database/product/07C897",
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-28 20:41"
+    "last_checked": "2025-09-28 20:48"
   }
 ]
