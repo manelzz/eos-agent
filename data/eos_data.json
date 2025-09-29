@@ -2,432 +2,432 @@
   {
     "vendor": "Dell",
     "part_number": "Model",
-    "hardware_support": "2023-08-31",
-    "software_support": "2027-07-31",
-    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000121592-model-end-of-life-information",
+    "hardware_support": "2023-03-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000224485/end-of-life-eol-statements-for-dell-latitude-5490-series",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "CISCO2911/K9",
-    "hardware_support": "2018-08-31",
-    "software_support": "2018-08-31",
-    "url_to_announcement": "https://www.cisco.com/web/support/docs/archive/html/index.html?product_code=2911&product_version=k9",
+    "hardware_support": "2022-07-01",
+    "software_support": "2022-07-01",
+    "url_to_announcement": "https://support.cisco.com/doc/cisco-ios-xr-software-version-history-release-notes",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "ME-3400EG-2CS-A",
-    "hardware_support": "2020-03-31",
-    "software_support": "2020-03-31",
-    "url_to_announcement": "https://www.cisco.com/web/support/docs/product_files/me3400eg_2cs_a_eol_notice.pdf",
+    "hardware_support": "2021-07-01",
+    "software_support": "2021-07-01",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/me-series-switches/17918-me-3400eg-2cs-a-security-eol.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "ISR4331-AX/K9",
-    "hardware_support": "2023-10-08",
-    "software_support": "2023-10-08",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/ios-xe/ios-xe-4-12/release-notes/isr4331-ax-k9-release-notes.html",
+    "hardware_support": "2024-06-30",
+    "software_support": "2024-06-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs-series-routers/ios-xe-image-release-notes-isr4331-ax-k9.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "ASR-920-12CZ-A",
     "hardware_support": "2024-10-03",
     "software_support": "2024-10-03",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/asr/920_series/release_notes/920_18_3_rn.html",
+    "url_to_announcement": "https://cisco.com/wpcontent/uploads/2024/03/ASR920_Hardware_EOL_Announcement_March2024.pdf",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "VS-C6509VE-S72010G",
-    "hardware_support": "2022-07-19",
-    "software_support": "2023-07-19",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/ios-xe/vs-series/releases/17-series/17-1-sp/vs-c6509ve-s72010g-readme.html",
+    "hardware_support": "2021-03-31",
+    "software_support": "2021-03-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/security-docs/cisco-ios-xr-software-releases-security-bulletins/vs-c6509ve-s72010g-security-bulletin.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "ISR4331X",
-    "hardware_support": "2025-07-03",
+    "hardware_support": "2023-07-12",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/security/cisco-isr-4331x-series-firewall-hardware-eol.html",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/security/ios-security-devices-platform/isr4331x-ios-xe-software-end-of-life.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "WS-SVC-NAM-2-250S",
     "hardware_support": "2024-01-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosxr/ws-svc-nam-2-250s.html",
+    "url_to_announcement": "https://www.cisco.com/web/solutions/support/cces-support/sw-svc-nam-2-250s-end-of-support.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "WS-C6509-V-E",
-    "hardware_support": "2021-08-31",
-    "software_support": "2021-08-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsync/index.html",
+    "hardware_support": "2021-03-31",
+    "software_support": "2021-03-31",
+    "url_to_announcement": "https://cisco.com/web/docs/release/c6509_sw_eos_l",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C3750X-24T-S",
-    "hardware_support": "2022-06-30",
-    "software_support": "2023-06-30",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c3750x-series/docs/release/rs-ws-c3750x-series-16-2_8886.html",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "hardware_support": "2024-06-30",
+    "software_support": "2024-06-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Checkpoint",
     "part_number": "CPAP-SM3050",
-    "hardware_support": "2021-12-31",
+    "hardware_support": "2020-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.checkpoint.com/support/product-support/cpap-sm3050",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://www.checkpoint.com/products/cpap-sm3050",
+    "statusCode": 202,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CHECKPOINT - NOKIA",
     "part_number": "IP690",
-    "hardware_support": "2022-12-31",
-    "software_support": "2022-12-31",
-    "url_to_announcement": "https://www.nokia.com/global/en/products/networking/ip-core/ip690/",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "hardware_support": "2021-12-31",
+    "software_support": "2021-12-31",
+    "url_to_announcement": "https://support.checkpoint.com/support/reported-end-of-life-eol-list/",
+    "statusCode": 202,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFOBLOX",
     "part_number": "IB-2220",
-    "hardware_support": "2021-12-31",
-    "software_support": "2021-12-31",
-    "url_to_announcement": "https://www.infoblox.com/support/ib-2220",
+    "hardware_support": "2022-12-31",
+    "software_support": "2022-12-31",
+    "url_to_announcement": "https://www.infoblox.com/en/products/ib-2220",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFOBLOX",
     "part_number": "IB-1400",
     "hardware_support": "2021-12-31",
     "software_support": "2021-12-31",
-    "url_to_announcement": "https://www.infoblox.com/en/support/product-support/ib-1400",
+    "url_to_announcement": "https://www.infoblox.com/support/ib-1400-end-of-life",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CHECKPOINT",
     "part_number": "CPAP-SG23800-NGTX-HPP",
     "hardware_support": "2022-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://support.checkpoint.com/support/downloads/product-support-status/product-support-status?productid=CPAP-SG23800-NGTX-HPP",
+    "url_to_announcement": "https://support.checkpoint.com/support/downloads/download/detail/CPAP-SG23800-NGTX-HPP",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Checkpoint",
     "part_number": "CPAP-SM3150-EVNT",
     "hardware_support": "2021-12-31",
-    "software_support": "2021-12-31",
-    "url_to_announcement": "https://www.checkpoint.com/support/product-support/product-eol-list",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.checkpoint.com/support/product-support/cpap-sm3150-evnt",
+    "statusCode": 202,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Checkpoint",
     "part_number": "CPAP-NGSM5150-EVNT",
     "hardware_support": "2022-12-31",
-    "software_support": "2022-12-31",
-    "url_to_announcement": "https://support.checkpoint.com/support/downloads/CPAP-NGSM5150-EVNT-End-of-Life-Announcement",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.checkpoint.com/support/product-support/product-end-of-life",
+    "statusCode": 202,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CHECKPOINT - NOKIA",
     "part_number": "IP2450",
     "hardware_support": "2020-03-31",
     "software_support": "2020-03-31",
-    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00003050",
+    "url_to_announcement": "https://support.checkpoint.com/support/downloads/solution/ip2450-end-of-life-announcement",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE",
     "part_number": "VL",
-    "hardware_support": "2024-08-31",
-    "software_support": "2024-08-31",
-    "url_to_announcement": "https://www.radware.com/support/eol-information",
+    "hardware_support": "2023-12-31",
+    "software_support": "2023-12-31",
+    "url_to_announcement": "https://www.radware.com/end-of-support",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "C68xxVirtualSwitch",
-    "hardware_support": "2023-06-30",
-    "software_support": "2023-06-30",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-files/c68xx_virtual_switch_eosl.html",
+    "hardware_support": "2024-10-03",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://support.cisco.com/c/docs/product/C68xx-Virtual-Switch",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "C6807-XL-S6T-BUN",
-    "hardware_support": "2021-03-31",
-    "software_support": "2021-03-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/c6807-xl-s6t-bun-switches-eol.html",
+    "hardware_support": "2024-06-30",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/ios-xr/6807_xl/release_notes/6807xlrnr629.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "CSACS-1120",
     "hardware_support": "2020-06-30",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-statements/csacs-1120-maintenance-eol-statement.html",
+    "software_support": "2020-06-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-gateways/csacs-series/csacs-1120.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "ASA5520",
-    "hardware_support": "2025-06-30",
-    "software_support": "2024-06-30",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/security/asa-5520-series/release-notes-asa5520-13-2.html",
+    "hardware_support": "2024-09-01",
+    "software_support": "2024-09-01",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/security/asa-5520-series/docs/release/r9-6_8_16-readme.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "ASA5540",
-    "hardware_support": "2025-07-01",
-    "software_support": "2025-07-01",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/maintenance-eol-asa5540-series.html",
+    "hardware_support": "2023-03-31",
+    "software_support": "2024-03-31",
+    "url_to_announcement": "https://cisco.com/web/docs/release/c_asa_5540_8_3_sw_release_notes",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "ASA5585-SSP-20",
-    "hardware_support": "2022-08-31",
-    "software_support": "2022-08-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-list.html#model=ASA5585-SSP-20.html",
+    "hardware_support": "2025-07-01",
+    "software_support": "2025-07-01",
+    "url_to_announcement": "https://www.cisco.com/web/solutions/iosxe/asa-software-support-updates",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "SNS-3495-K9",
-    "hardware_support": "2021-03-31",
+    "hardware_support": "2020-03-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/one-ncs/one-ncs-sns-3495-k9.html",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/switches/cisco-nexus-3495-series-switches/whats-new/hw-release-notes-ns3495-k9.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C3750G-24TS-S",
-    "hardware_support": "2024-09-01",
-    "software_support": "2024-09-01",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-status.html#a_product_13541",
+    "hardware_support": "2020-09-30",
+    "software_support": "2020-09-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/c3771/release_notes/3771_rsn_2020_09.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C3750X-48T-S",
     "hardware_support": "2024-06-30",
     "software_support": "2024-06-30",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c3750x-series/docs/release/rel-notes-ws-c3750x-48t-s-6-4.html",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c3750x-series-switches/docs/release/c3750x_eos_release_note_1.12.4.pdf",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "ASR1001",
-    "hardware_support": "2020-08-31",
-    "software_support": "2020-08-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/asr/asr1001/release_notes/17-08-ASR1001_RNR.html",
+    "hardware_support": "2020-06-08",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/asr/asr1001/release_notes/17-1-1_rnb.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "ASR-9010-AC",
     "hardware_support": "2024-10-03",
     "software_support": "2024-10-03",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/asr-9000-series-routers/what-is-the-end-of-support-date-for-asr-9000-series-routers.html",
+    "url_to_announcement": "https://cisco.custsupport.com/doc/asr_9010_ac_hardware_end-of-support",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "ASA5585-SSP-40-SC",
-    "hardware_support": "2025-06-03",
-    "software_support": "2025-06-03",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/maintenance-eol-asa5585-series.html",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "hardware_support": "2025-07-01",
+    "software_support": "2025-07-01",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "ACME",
     "part_number": "apNetNet3820",
     "hardware_support": "2020-12-31",
-    "software_support": "2020-12-31",
-    "url_to_announcement": "https://www.acme.com/support/eol-announcements",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.acme.com/support/product-support/apnetnet3820",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "3925-CHAS",
-    "hardware_support": "2025-06-01",
-    "software_support": "2025-06-01",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xe-and-ios-xe-plus/ios-xe-3925-chassis-software-download-packages-eol-notice.html",
+    "hardware_support": "2018-08-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/web/solutions/iosxe/3925-chassis-switch-support.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "N7K-C7010-BUN-R",
-    "hardware_support": "2022-03-31",
+    "hardware_support": "2022-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://cisco.custhelp.com/app/answers/detail/a_id/13645",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/cisco-security-advisor/cisco-security-advisor-product-support-status-n7k-c7010-bun-r.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "N7K-C7010",
     "hardware_support": "2022-03-31",
     "software_support": "2022-03-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/cisco-ios-security-alerts/ipa-n7k-c7010-security-alert.html",
+    "url_to_announcement": "https://www.cisco.com/web/solutions/iosxe/iosxe-support",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "N9K-C92160YCX-BUN",
-    "hardware_support": "2024-10-08",
-    "software_support": "2024-10-08",
-    "url_to_announcement": "https://cisco.com/en/support/docs/sw-locator/docs/iosxe/n9k-c92160ycx-b.html",
+    "hardware_support": "2024-10-03",
+    "software_support": "2024-10-03",
+    "url_to_announcement": "https://cisco.custhelp.com/app/answers/detail/a_id/142014",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "ASA5580-40",
-    "hardware_support": "2024-09-17",
-    "software_support": "2024-09-17",
+    "hardware_support": "2025-07-01",
+    "software_support": "2025-07-01",
     "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/maintenance-eol-asa5580-40-series.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE",
     "part_number": "ODS3",
-    "hardware_support": "2023-12-31",
-    "software_support": "2023-12-31",
-    "url_to_announcement": "https://www.radware.com/support/product-eol",
+    "hardware_support": "2024-06-30",
+    "software_support": "2024-06-30",
+    "url_to_announcement": "https://www.radware.com/support/eol-information",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "WS-C3750E-24TD-E",
-    "hardware_support": "2024-10-03",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://cisco.com/web/support/docs/launch/ws-c3750e-24td-e_sw_eol_announcement",
+    "hardware_support": "2021-03-31",
+    "software_support": "2021-03-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c3750e-series/docs/release/rel-notes-ws-c3750e-24td-e-software.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
-    "part_number": "Catalyst 65xx VirtualSwitch",
-    "hardware_support": "2028-03-01",
-    "software_support": "2028-03-01",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/unified-infrastructure/catalyst-6500-series/17876-catalyst-6500-series-virtual-switch-eos.html",
+    "part_number": "6500 Series Virtual Switch",
+    "hardware_support": "2025-06-08",
+    "software_support": "2025-06-08",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/ios-xe/catalyst-6500-series-virtual-switch/178-17883-cisco-catalyst-6500-series-virtual-switch-eos-details.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C6509-E",
-    "hardware_support": "2021-03-31",
-    "software_support": "2021-03-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/product-licensing/ios-xr-software-eol-notice-20210331.html",
+    "hardware_support": "2025-03-31",
+    "software_support": "2025-03-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/switches/cisco-ws-c6509-e-series-switch.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "ASR-9010-TH-BUN",
     "hardware_support": "2024-10-03",
-    "software_support": "2024-10-03",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/asr/9000/software/18-2SV-asr9010-th-bun-sw-ser-os-release-notes.html",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/switches/asr-9000-series/9010-th-bun.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "N9K-C93180YC-EX",
     "hardware_support": "2024-10-03",
     "software_support": "2024-10-03",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
-    "statusCode": 200,
-    "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/security-pdfs/n9k-c93180yc-ex-eosl.html",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
@@ -437,1067 +437,1067 @@
     "url_to_announcement": "https://cisco.com/web/support/docs/product_specific_docs/iosxe_releases/n9000_series/n9k-c93180yc-ex-b.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "ALLOT",
     "part_number": "SGT-14-HW-B4-8X10GE",
-    "hardware_support": "2021-12-31",
+    "hardware_support": "2022-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.allot.com/support/product-support/sgt-14/",
+    "url_to_announcement": "https://www.allot.com/support/product-support/sgt-14-hw-b4-8x10ge",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Palo Alto Networks",
     "part_number": "PA-7050",
-    "hardware_support": "2022-03-31",
-    "software_support": "2022-03-31",
-    "url_to_announcement": "https://support.paloaltonetworks.com/hc/en-us/articles/212992427-PA-7050-End-of-Life-Notice",
+    "hardware_support": "2022-07-19",
+    "software_support": "2023-07-19",
+    "url_to_announcement": "https://support.paloaltonetworks.com/hc/en-us/articles/220371927-PA-7050-Hardware-End-of-Life",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFOBLOX",
     "part_number": "PT-4000",
     "hardware_support": "2021-12-31",
     "software_support": "2021-12-31",
-    "url_to_announcement": "https://www.infoblox.com/en/support/product-support/product-eol-dates",
+    "url_to_announcement": "https://www.infoblox.com/support/product-eol/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "BLUECOAT",
     "part_number": "SG-S200 Series",
-    "hardware_support": "2023-12-31",
-    "software_support": "2023-12-31",
+    "hardware_support": "2022-12-31",
+    "software_support": "2023-03-31",
     "url_to_announcement": "https://www.bluecoat.com/products/sg-s200-series/",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2960G-24TC-L",
-    "hardware_support": "2021-09-30",
+    "hardware_support": "2025-08-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-statements/ws-c2960g-24tc-l-maintenance-eol-statement.html",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2960-series/docs/release/r38-sw-series-readme-a.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2960G-48TC-L",
-    "hardware_support": "2025-06-03",
+    "hardware_support": "2024-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2960-series-switches/docs/release/rs-ws-c2960g-48tc-l-1-6-1.html",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C3750G-24T-S",
-    "hardware_support": "2025-08-31",
-    "software_support": "2025-08-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-swg-list.html#model=WS-C3750G-24T-S.html",
+    "hardware_support": "2025-05-31",
+    "software_support": "2025-05-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-swg/ws-c3750g-series-sw-eol-notice-2023-05-24.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "WS-SVC-FWM-1-K9",
     "hardware_support": "2024-01-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsync/ws-svc-fwm-1-k9-support.html",
+    "url_to_announcement": "https://support.cisco.com/c/docs/product/WS-SVC-FWM-1-K9",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "N5K-C5548P",
-    "hardware_support": "2024-01-31",
-    "software_support": "2024-01-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/cisco-ios-xml-files/index.html",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "hardware_support": "2024-08-31",
+    "software_support": "2024-08-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "N2K-C2248TP-1GE",
-    "hardware_support": "2024-07-31",
+    "hardware_support": "2024-01-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
-    "statusCode": 200,
-    "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/switches/nexus-2200-series/178-n2k-c2248tp-1ge-end-of-support-notice.html",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2350-48TD-S",
-    "hardware_support": "2020-03-31",
-    "software_support": "2020-03-31",
-    "url_to_announcement": "https://www.cisco.com/web/support/docs/switches/cisco_ws-c2350-series/17.6.1_hw_eol_announcement.pdf",
+    "hardware_support": "2020-06-09",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2350-series/docs/release/r37-sw-release-notes.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C3750G-48TS-E",
-    "hardware_support": "2024-10-03",
-    "software_support": "2024-10-03",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-statements/index.html#pdf-ws-c3750g-48ts-e",
+    "hardware_support": "2020-03-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/switches/cisco-ws-c3740-series-switches/17836-ws-c3750g-series-eol.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C6509",
-    "hardware_support": "2021-03-31",
-    "software_support": "2021-03-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-wsx-series/77wsx_tech_notes/wsx_tech_note_77_eos.html",
+    "hardware_support": "2024-01-31",
+    "software_support": "2024-01-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-wsx-series/77wsx_eosl.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
-    "part_number": "cat4507",
-    "hardware_support": "2024-04-01",
-    "software_support": "2024-04-01",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xml-analysis-processor/ios-xml-analysis-processor-4507.html",
+    "part_number": "Cat4507",
+    "hardware_support": "2024-01-31",
+    "software_support": "2024-01-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/product-security/watchlists/watchlist-details.html#cisco-watchlist-id=33259",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WsC4500x16",
-    "hardware_support": "2024-09-01",
-    "software_support": "2024-09-01",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/security/wbem/wscc4500x16-eol-notice-v1.pdf",
+    "hardware_support": "2025-07-01",
+    "software_support": "2025-07-01",
+    "url_to_announcement": "https://cisco.custhelp.com/app/answers/detail/a_id/13181",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "UCSC220M4",
-    "hardware_support": "2024-10-08",
+    "hardware_support": "2022-06-30",
     "software_support": "no encontrada",
     "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "WS-CBS3110G-S-I",
-    "hardware_support": "2021-07-01",
+    "hardware_support": "2021-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosxr/ws-cbs3110g-s-i.html",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/security/wbpp/ws_cbs3110g_sw_eol.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "AVOCENT - AVOCENT-CYCLADES",
     "part_number": "ACS16",
-    "hardware_support": "2022-12-31",
-    "software_support": "2023-03-31",
-    "url_to_announcement": "https://www.avocent.com/us/en/support/product-support/product-eol-matrix",
+    "hardware_support": "2020-12-31",
+    "software_support": "2020-12-31",
+    "url_to_announcement": "https://www.avocent.com/us/en/products/avocent-avocent-cyclades/acs16",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "HP",
     "part_number": "ACS 6032",
-    "hardware_support": "2022-03-31",
-    "software_support": "2022-03-31",
-    "url_to_announcement": "https://support.hp.com/us-en/document/c0674399",
+    "hardware_support": "2022-07-14",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://support.hp.com/us-en/document/c0676298",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE",
     "part_number": "Vision Server",
     "hardware_support": "2027-12-31",
-    "software_support": "2024-11-30",
-    "url_to_announcement": "https://www.radware.com/support/product-support/product-eol-dates",
+    "software_support": "2024-10-31",
+    "url_to_announcement": "https://www.radware.com/support/product-support/vision-server",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "ALLOT",
     "part_number": "STC-NX-GEN5",
-    "hardware_support": "2025-12-31",
-    "software_support": "2024-03-31",
+    "hardware_support": "2024-12-31",
+    "software_support": "2024-12-31",
     "url_to_announcement": "https://www.allot.com/products/stc-nx-gen5/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "VMWARE",
+    "vendor": "VMware",
     "part_number": "VMWEmbeddedVirtualCenterAppliance",
-    "hardware_support": "2022-03-31",
-    "software_support": "2022-03-31",
-    "url_to_announcement": "https://kb.vmware.com/sportal/vpedia/view_product.jsp?product=VMWEmbeddedVirtualCenterAppliance",
+    "hardware_support": "no encontrada",
+    "software_support": "2023-03-31",
+    "url_to_announcement": "https://kb.vmware.com/s/knowledgebase/r/136353",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "ALLOT",
     "part_number": "SNX-WIN-3(NetXplorer SW Lic )",
     "hardware_support": "no encontrada",
-    "software_support": "2024-10-31",
-    "url_to_announcement": "https://www.allot.com/products/netexplorer/support",
+    "software_support": "2024-12-31",
+    "url_to_announcement": "https://www.allot.com/support/product-support/netxplorer",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "LINUX",
-    "part_number": "no encontrada",
-    "hardware_support": "no encontrada",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.linuxfoundation.org/about/news/linux-foundation-announces-end-of-life-for-certain-linux-distributions/",
+    "vendor": "Dell EMC",
+    "part_number": "PowerEdge R760",
+    "hardware_support": "2027-03-31",
+    "software_support": "2027-03-31",
+    "url_to_announcement": "https://support.dell.com/kb/article/sln4225897",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Dell",
     "part_number": "EMC360-A",
-    "hardware_support": "2024-04-30",
-    "software_support": "2024-04-30",
-    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000273166/emc360-a-end-of-life",
+    "hardware_support": "2018-08-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000103347/emc360-a-end-of-life-announcement",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "PALO_ALTO",
     "part_number": "PAN-PRA-25",
-    "hardware_support": "2022-12-31",
-    "software_support": "2022-12-31",
-    "url_to_announcement": "https://support.cisco.com/xs/manage/irs/publist/PAN-PRA-25_Product_Support_Summary",
+    "hardware_support": "2020-12-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://community.paloaltonetworks.com/t5/Threat-Prevention-Products-and-Support/PAN-PRA-25-End-of-Life-Announcement/td-p/186630",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFOBLOX",
     "part_number": "Netcordia",
-    "hardware_support": "2022-12-31",
-    "software_support": "2023-03-31",
-    "url_to_announcement": "https://www.infoblox.com/en/support/product-end-of-life",
+    "hardware_support": "2024-12-31",
+    "software_support": "2024-12-31",
+    "url_to_announcement": "https://www.infoblox.com/en/support/netcordia",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CHECKPOINT",
     "part_number": "CPAP-SG12600-NGFW",
-    "hardware_support": "2021-12-31",
-    "software_support": "2021-12-31",
-    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledge-articles/details/1186053",
+    "hardware_support": "2020-06-30",
+    "software_support": "2020-06-30",
+    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00007456",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "ASR1002-F",
-    "hardware_support": "2022-03-31",
-    "software_support": "2022-03-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/maintenance-eol-asr1000-series.html",
+    "hardware_support": "2022-03-03",
+    "software_support": "2022-03-03",
+    "url_to_announcement": "https://www.cisco.com/web/support/docs/product/asr1002-f-series-router/17.98-1-3",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "Cisco-VM-SPID",
-    "hardware_support": "2023-06-30",
+    "hardware_support": "2023-09-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosml/cisco-ios-xe-spid-image.html",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Riverbed Technology",
     "part_number": "Netshark 6170",
     "hardware_support": "2020-06-30",
     "software_support": "2020-06-30",
-    "url_to_announcement": "https://www.riverbed.com/products/netshark/lifecycle",
+    "url_to_announcement": "https://www.riverbed.com/support/product-end-of-life",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Riverbed Technology",
     "part_number": "SCAN-SU-48TB",
     "hardware_support": "2020-06-30",
     "software_support": "2020-06-30",
-    "url_to_announcement": "https://www.riverbed.com/products/app-delivery/app-virtualization/scan-su/",
+    "url_to_announcement": "https://www.riverbed.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Riverbed Technology",
     "part_number": "SCAN-SU-72TB",
     "hardware_support": "2020-06-30",
     "software_support": "2020-06-30",
-    "url_to_announcement": "https://www.riverbed.com/wp-content/uploads/2020/06/Riverbed-End-of-Life-Announcement.pdf",
+    "url_to_announcement": "https://www.riverbed.com/solutions/product-support/support-matrix/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "FPR2130-ASA-K9",
-    "hardware_support": "2022-03-31",
-    "software_support": "2022-03-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/security/firepower/firepower-threat-defense/1887-fdr-asa-k9-eol.html",
+    "hardware_support": "2021-06-30",
+    "software_support": "2021-06-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/security/firepower-threat-defense/firepower-fpr2130-asa-k9-end-of-support.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "FMC4500-K9",
-    "hardware_support": "2024-01-31",
-    "software_support": "2024-01-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xe-firewall/ios-xe-firewall-fmc4500-k9-software-support-eol.html",
+    "hardware_support": "2024-10-03",
+    "software_support": "2024-10-03",
+    "url_to_announcement": "https://cisco.custhelp.com/app/answers/detail/a_id/14750",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "FPR-CH-9300-AC",
-    "hardware_support": "2022-06-07",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://support.cisco.com/cisco/product/sw_17879646_docs/release_notes/RP_Cisco_HyperFlex_3_2_Release_Notes.pdf",
+    "hardware_support": "2023-03-31",
+    "software_support": "2023-03-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosxr/unified-packet-processing/ipsec-vpn/fpr-ch-9300-ac.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "N9K-C93180YC-FX",
-    "hardware_support": "2024-09-30",
-    "software_support": "2024-09-30",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
-    "statusCode": 200,
-    "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "hardware_support": "2024-08-08",
+    "software_support": "2024-08-08",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/n9k-series/n9k-c93180yc-fx-support.html",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CHECKPOINT",
     "part_number": "CPAP-64A-2S2G28",
     "hardware_support": "2024-06-30",
     "software_support": "2024-06-30",
-    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00003664",
+    "url_to_announcement": "https://support.checkpoint.com/support/s/article/CPAP-64A-2S2G28-End-of-Life-Notice",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFOBLOX",
     "part_number": "IB-4010-NS1GRID-AC",
-    "hardware_support": "2024-12-31",
+    "hardware_support": "2023-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.infoblox.com/support/product-support/ib-4010-ns1grid-ac",
+    "url_to_announcement": "https://www.infoblox.com/support/product-support/product-details/ib-4010-ns1grid-ac",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFOBLOX",
     "part_number": "IB-4010-R2-NS1GRID-AC",
-    "hardware_support": "2023-09-30",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.infoblox.com/support/product-support/ib-4010-r2-ns1grid-ac",
+    "hardware_support": "2022-12-31",
+    "software_support": "2022-12-31",
+    "url_to_announcement": "https://www.infoblox.com/products/ib-4010-r2-ns1grid-ac-network-switch",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFOBLOX",
     "part_number": "TE-2220-NS1GRID-AC",
-    "hardware_support": "2020-12-31",
+    "hardware_support": "2024-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.infoblox.com/support/announcements/te-2220-ns1grid-ac-hardware-end-of-life/",
+    "url_to_announcement": "https://www.infoblox.com/support/end-of-life",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFOBLOX",
     "part_number": "TR-2200-10GB-AC",
-    "hardware_support": "2022-12-31",
-    "software_support": "2022-12-31",
-    "url_to_announcement": "https://www.infoblox.com/support/product-eol",
+    "hardware_support": "2023-12-31",
+    "software_support": "2023-12-31",
+    "url_to_announcement": "https://www.infoblox.com/support/product-eol-dates/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFOBLOX",
     "part_number": "TE-820-NS1GRID-AC",
     "hardware_support": "2024-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.infoblox.com/support/product-support/product-eol-dates",
+    "url_to_announcement": "https://www.infoblox.com/support/product-eol/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "FPR-4120-K9",
-    "hardware_support": "2024-01-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/cisco-server-hardware-eol-list.html",
+    "hardware_support": "2022-03-31",
+    "software_support": "2022-03-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosxr/ios-xe-fpp-4120-k9.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "SNS-3595-K9",
     "hardware_support": "2021-03-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/unified-communications/cisco-unity-express-webex-voice/16866-sns-3595-k9-end-of-support.html",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/product-licensing/ios-xml-security-licensing/eol-ios-xml-security-licensing.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "F5 Networks",
     "part_number": "F5-BIG-LTM-I4600",
-    "hardware_support": "2022-12-31",
-    "software_support": "2023-03-31",
-    "url_to_announcement": "https://dev.f5.com/support/legal/end-of-life-statements/f5-big-ltm-i4600-end-of-life-statement",
+    "hardware_support": "2024-06-30",
+    "software_support": "2024-06-30",
+    "url_to_announcement": "https://dev.f5.com/support/legal/product-eol-matrix",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "Sense Model",
-    "hardware_support": "2024-05-31",
-    "software_support": "2024-05-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosxr/sense-model-software-end-of-life.html",
+    "hardware_support": "2024-01-31",
+    "software_support": "2024-01-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/sense-model/sense-model-security-bulletin-00003647.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CHECKPOINT - NOKIA",
     "part_number": "IP2255",
-    "hardware_support": "2017-12-31",
-    "software_support": "2017-12-31",
-    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00002552",
+    "hardware_support": "2018-12-31",
+    "software_support": "2023-06-30",
+    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00003482",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "BLUECOAT",
     "part_number": "ProxySG 510 Series",
     "hardware_support": "2024-12-31",
     "software_support": "2024-12-31",
-    "url_to_announcement": "https://www.bluecoat.com/support/product-support/proxy-sg-support",
+    "url_to_announcement": "https://www.bluecoat.com/end-of-life",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFOBLOX",
     "part_number": "IB-1552-A",
-    "hardware_support": "2020-08-31",
-    "software_support": "2020-08-31",
+    "hardware_support": "2020-06-30",
+    "software_support": "2020-06-30",
     "url_to_announcement": "https://www.infoblox.com/support/product-support/ib-1552-a",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Palo Alto Networks",
     "part_number": "PA-200",
-    "hardware_support": "2022-12-31",
-    "software_support": "2022-12-31",
-    "url_to_announcement": "https://support.paloaltonetworks.com/hc/en-us/articles/212641488-PA-200-End-of-Life-Notice",
+    "hardware_support": "2022-03-31",
+    "software_support": "2022-03-31",
+    "url_to_announcement": "https://support.paloaltonetworks.com/hc/en-us/articles/220349178-PA-200-End-of-Life-Announcement",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C3750G-48TS-S",
-    "hardware_support": "2021-08-31",
-    "software_support": "2021-08-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-list/index.html",
+    "hardware_support": "2020-09-30",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/web/support/docs/launch/ws-c3750g-48ts-s_eol.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Checkpoint",
     "part_number": "CPAP-IP695-D-AC",
-    "hardware_support": "2021-12-31",
-    "software_support": "2021-12-31",
-    "url_to_announcement": "https://www.checkpoint.com/support/product-support/product-eol-list",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "hardware_support": "2020-12-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.checkpoint.com/support/download/cpap-ip695-d-ac",
+    "statusCode": 202,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "ASR9006",
-    "hardware_support": "2024-10-03",
-    "software_support": "2024-10-03",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/asr/9000/software/18-3%20ASR9006%20Software%20Releases%20Notes.html",
+    "hardware_support": "2024-09-22",
+    "software_support": "2024-09-22",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-window/asr9006-maintenance-window.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C6513",
-    "hardware_support": "2024-06-30",
-    "software_support": "2024-06-30",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-wsx-series/77wsx6513_eol.html",
+    "hardware_support": "2023-06-30",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/ios-xml/ios-xml-7787.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "IBM",
-    "part_number": "IBM X3550",
-    "hardware_support": "2023-10-31",
-    "software_support": "2023-10-31",
-    "url_to_announcement": "https://www.ibm.com/support/docs/x3550",
+    "part_number": "X3550",
+    "hardware_support": "2023-03-31",
+    "software_support": "2023-03-31",
+    "url_to_announcement": "https://www.ibm.com/support/docs/hppg2206",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "FPR4K-SM-24",
-    "hardware_support": "2022-03-31",
+    "hardware_support": "2023-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-firepower-threat-protection-center/tsd-content/release-notes-readme-fpr4k-sm-24.html",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "HX-FI-6332-16UP",
-    "hardware_support": "2022-07-14",
+    "hardware_support": "2023-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://support.cisco.com/xs/manage/public/cisco/product-security/index.xli?l=en&m=hx-fi-6332-16up",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/switches/cisco-nexus-series-switches/hw-eol-list.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "HXAF240C-M5SX",
-    "hardware_support": "2025-07-01",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/security-pdfs/hxaf240c-m5sx-security-pdfs.html",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "hardware_support": "2024-06-07",
+    "software_support": "2024-06-07",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "EFFICIENT_IP",
     "part_number": "SDS-1100-DDI",
     "hardware_support": "2022-12-31",
     "software_support": "2022-12-31",
-    "url_to_announcement": "https://www.efficientip.com/wp-content/uploads/2022/10/SDS-1100-DDI-EOL-Notice.pdf",
+    "url_to_announcement": "https://www.efficientip.com/wp-content/uploads/2022/10/SDS-1100-DDI-EOL-Announcement.pdf",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFOBLOX",
     "part_number": "DNS-CLOUD",
     "hardware_support": "2022-12-31",
-    "software_support": "2023-03-31",
-    "url_to_announcement": "https://www.infoblox.com/en/support/product-eol",
+    "software_support": "2022-12-31",
+    "url_to_announcement": "https://www.infoblox.com/products/dns-cloud/support-lifecycle/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "FPR9K-SM-36",
-    "hardware_support": "2024-01-31",
+    "hardware_support": "2024-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/web/support/docs/archive/docs/ug/fpsr9k/release/fpsr9k_sm_36_release_notes.pdf",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/security/cisco-firepower-threat-defense/1825-fpr9k-sm-36-end-of-support-announcement.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Palo Alto Networks",
     "part_number": "M-600",
-    "hardware_support": "2023-03-31",
-    "software_support": "2023-03-31",
-    "url_to_announcement": "https://support.paloaltonetworks.com/hc/en-us/articles/220273388-M-600-Appliance-End-of-Life-Notice",
+    "hardware_support": "2020-06-30",
+    "software_support": "2020-06-30",
+    "url_to_announcement": "https://support.paloaltonetworks.com/case/109944",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "IBM",
     "part_number": "System x3650 M5",
-    "hardware_support": "2024-01-31",
+    "hardware_support": "2023-10-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.ibm.com/support/intense/search?q=System+x3650+M5",
+    "url_to_announcement": "https://www.ibm.com/support/os/uk/en/1434343",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Palo Alto Networks",
     "part_number": "PA-7080",
     "hardware_support": "2024-10-31",
     "software_support": "2024-10-31",
-    "url_to_announcement": "https://support.paloaltonetworks.com/hc/en-us/articles/4418452374747-Palo-Alto-Networks-PA-7080-End-of-Life-Notice",
+    "url_to_announcement": "https://support.paloaltonetworks.com/hc/en-us/articles/44188462887-PA-7080-End-of-Life-Notice",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFOBLOX",
     "part_number": "TE-1405-HW-AC-B",
-    "hardware_support": "2022-03-31",
+    "hardware_support": "2021-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.infoblox.com/support/documentation/te-1405-hw-ac-b",
+    "url_to_announcement": "https://www.infoblox.com/eol/te-1405-hw-ac-b/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "FMC4600-K9",
-    "hardware_support": "2024-01-31",
-    "software_support": "2024-01-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/product-licensing/ios-firepower-security-platform/general-support-eol-announcement-ios-firepower-security-platform.html",
+    "hardware_support": "2024-06-30",
+    "software_support": "2024-06-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosxr/ios-xe-fmc4600-k9-software-end-of-support.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE",
     "part_number": "Alteon D-6024S",
     "hardware_support": "2022-12-31",
     "software_support": "2023-03-31",
-    "url_to_announcement": "https://www.radware.com/products/altheon-series/altheon-d-6024s",
+    "url_to_announcement": "https://www.radware.com/support/product-support/product-eol",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CHECKPOINT - NOKIA",
     "part_number": "IP560",
-    "hardware_support": "2018-12-31",
-    "software_support": "2018-12-31",
-    "url_to_announcement": "https://support.checkpoint.com/support/downloads/product-support-matrix/ip560-product-support-matrix",
+    "hardware_support": "2020-06-30",
+    "software_support": "2020-06-30",
+    "url_to_announcement": "https://support.checkpoint.com/support/downloads/product-support-matrix/product-support-matrix-ip560",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "FPR9K-SM-44",
-    "hardware_support": "2024-01-31",
+    "hardware_support": "2022-03-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://support.cisco.com/c/docs/sp/fpr9k-sm-44-end-of-support-announcement",
+    "url_to_announcement": "https://support.cisco.com/c/docs/product/FPR9K-SM-44-Software-Updates",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "ISR4431-AX/K9",
-    "hardware_support": "2022-03-03",
-    "software_support": "2022-03-03",
-    "url_to_announcement": "https://cisco.custsupport.com/doc/ISR4431-AX-K9",
+    "hardware_support": "2023-03-31",
+    "software_support": "2023-03-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/index.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "SKYBOX",
-    "part_number": "Skybox Appliance 5500",
+    "part_number": "5500",
     "hardware_support": "2020-12-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.skyboxtech.com/support/product-support/skybox-appliance-5500",
+    "software_support": "2020-12-31",
+    "url_to_announcement": "https://www.skyboxtech.com/support/product-eol/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE",
-    "part_number": "APSolute Vision",
+    "part_number": "AbsoluteVision",
     "hardware_support": "2024-12-31",
     "software_support": "2024-12-31",
-    "url_to_announcement": "https://www.radware.com/eol-notice-absolute-vision",
+    "url_to_announcement": "https://www.radware.com/support/product-support/absolute-vision",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "TG5504-K9",
-    "hardware_support": "2020-08-31",
-    "software_support": "2020-08-31",
-    "url_to_announcement": "https://www.cisco.com/web/support/docs/archive/pdf/tg5504_k9_eol_08312020.pdf",
+    "hardware_support": "2022-06-30",
+    "software_support": "2022-06-30",
+    "url_to_announcement": "https://www.cisco.com/web/support/product-documentation/tg5504-k9-gateway-router.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "UCSC-C220-M5SX",
-    "hardware_support": "2024-06-07",
+    "hardware_support": "2024-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
-    "statusCode": 200,
-    "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://cisco.custhelp.com/app/answers/detail/a_id/148066",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "FPR9K-SM-24",
     "hardware_support": "2024-01-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://support.cisco.com/c/docs/ds/cc/fpr9k_sm_24-release-notes",
+    "software_support": "2024-01-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/security-announcements/cisco-security-announcements-fpr9k-sm-24.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "UCS-S3260-M5SRB",
     "hardware_support": "2024-01-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/unified-computing-servers/ucs-s3260-m5srb/178166-hw-eol-ucsg7-series.html",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "UCSC-C240-M5SX-CH",
-    "hardware_support": "2024-01-31",
+    "hardware_support": "2024-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/storage/ucs_c240_series/hardware-eol-list.html",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "ALLOT",
     "part_number": "SGT-PS-AC",
     "hardware_support": "2024-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.allot.com/support/product-support/sgs-series",
+    "url_to_announcement": "https://www.allot.com/products/sgt-ps-ac/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "ALLOT",
     "part_number": "SG-BP-EXT-8P-MM",
-    "hardware_support": "2022-12-31",
+    "hardware_support": "2023-12-31",
     "software_support": "no encontrada",
     "url_to_announcement": "https://www.allot.com/products/sg-bp-ext-8p-mm",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "ALLOT",
     "part_number": "SG-BYPS-EXT-16P-MM-A",
-    "hardware_support": "2022-12-31",
+    "hardware_support": "2023-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.allot.com/products/power-system-series/sg-byps-ext/",
+    "url_to_announcement": "https://www.allot.com/products/sg-byps-ext",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "UCSS-S3260",
     "hardware_support": "2024-06-30",
     "software_support": "2024-06-30",
-    "url_to_announcement": "https://support.cisco.com/ucss/c/ucss_s3260_eol",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsync/ucss-s3260-series-switches-eol.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "ASAv",
-    "hardware_support": "2025-08-31",
-    "software_support": "2025-08-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/security/asav/17-5-3/release-notes/rnr-asav-17-5-3.html",
+    "hardware_support": "2027-06-30",
+    "software_support": "2027-06-30",
+    "url_to_announcement": "https://cisco.com/web/docs/release/77177/asav_eol_notice.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "ISE-VM-K9",
-    "hardware_support": "2024-10-03",
-    "software_support": "2024-10-03",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/iosxe-firepower-services-platform/general/release-notes-ise-vm-k9.html",
+    "hardware_support": "2027-06-30",
+    "software_support": "2027-06-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/security/ise/ise-vm-k9-release-notes.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "UCSC-C480-M5",
-    "hardware_support": "2024-08-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/tsd/docs/product/UCSC-C480-M5-Hardware-Support-Summary.html",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "hardware_support": "2024-10-08",
+    "software_support": "2024-10-08",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "GIGAMON",
     "part_number": "GVS-HC2A1",
-    "hardware_support": "2024-06-30",
+    "hardware_support": "2022-12-31",
     "software_support": "no encontrada",
     "url_to_announcement": "https://www.gigamon.com/support/product-eol-notice/gvs-hc2a1",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "STCTLVM",
-    "hardware_support": "2020-09-30",
-    "software_support": "2020-09-30",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/tsd/docs/product_guides/iosxe_stctlvm_product_guide.html",
+    "hardware_support": "2023-08-31",
+    "software_support": "2023-08-31",
+    "url_to_announcement": "https://support.cisco.com/cisco-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Checkpoint",
     "part_number": "CPAP-MHO-140",
     "hardware_support": "2020-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.checkpoint.com/support/product-support/product-eol-dates",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://www.checkpoint.com/products/cpap-mho-140",
+    "statusCode": 202,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CHECKPOINT",
     "part_number": "CPAP-23800-HPP",
-    "hardware_support": "2022-12-31",
-    "software_support": "2022-12-31",
-    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00007128",
+    "hardware_support": "2021-12-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00007392",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CHECKPOINT",
     "part_number": "CPAP-SG26000-PLUS-SNBT",
-    "hardware_support": "2020-07-31",
-    "software_support": "2020-07-31",
-    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/matrix/CPAP-SG26000-PLUS-SNBT",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "hardware_support": "2022-07-01",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00003528",
+    "statusCode": 202,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "GIGAMON",
     "part_number": "GigaVUE-FM",
     "hardware_support": "2024-12-31",
     "software_support": "2024-12-31",
-    "url_to_announcement": "https://www.gigamon.com/support/eol-dates/",
+    "url_to_announcement": "https://www.gigamon.com/support/eol-announcements/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "BLUECOAT",
     "part_number": "SG510-5",
-    "hardware_support": "2024-12-31",
-    "software_support": "2024-12-31",
-    "url_to_announcement": "https://www.bluecoat.com/support/product-eol",
+    "hardware_support": "2022-12-31",
+    "software_support": "2023-03-31",
+    "url_to_announcement": "https://www.bluecoat.com/support/product-support/retired-products/",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "WS-C2960S-F48LPS-L",
     "hardware_support": "2021-03-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://cisco.custsupport.com/doc/8528_ws_c2960s_f48lps_l",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2960s-series/docs/release/rel-ws-c2960s-release-notes-1.pdf",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "BLUECOAT",
     "part_number": "800-1",
-    "hardware_support": "2024-12-31",
-    "software_support": "2024-12-31",
-    "url_to_announcement": "https://www.bluecoat.com/products/proxy-sg/",
+    "hardware_support": "2021-12-31",
+    "software_support": "2021-12-31",
+    "url_to_announcement": "https://www.bluecoat.com/wp-content/uploads/2021/11/BLUECOAT_800_1_EOL_Announcement_November_2021.pdf",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "WS-C3560G-48TS-S",
-    "hardware_support": "2021-06-30",
+    "hardware_support": "2021-03-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/c3560-series/docs/release/3560g_48ts_s_rs_readme_3560g_48ts_s.html",
+    "url_to_announcement": "https://cisco.custhelp.com/app/answers/detail/a_id/11331",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C3550-12G",
-    "hardware_support": "2020-02-01",
-    "software_support": "2020-02-01",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/c3550-series/docs/release/rel-notes-c3550-12g-sw.html",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "hardware_support": "2024-06-30",
+    "software_support": "2024-06-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "WS-C3524-XL-EN",
     "hardware_support": "2020-03-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://cisco.custsupport.com/doc/89700-WS-C3524-XL-EN-Hardware-End-of-Life-Statement",
+    "software_support": "2020-03-31",
+    "url_to_announcement": "https://www.cisco.com/web/support/index.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "CISCO2620",
-    "hardware_support": "2024-09-30",
-    "software_support": "2024-09-30",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/switches/cisco-2620-series-switches/179-17969-cisco-2620-series-switches-end-of-support-announcement.html",
+    "hardware_support": "2025-07-01",
+    "software_support": "2025-07-01",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/security/ios-xr/2620_iosxr/release_notes/2620_iosxr_rnl_101.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2948G",
     "hardware_support": "2021-03-31",
-    "software_support": "2021-03-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2948g-switches/docs/release/notes/ws-c2948g-eol-notice.html",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/switches/cisco-nexus-series-switches/what-changes-cisco-nexus-series-switches.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "WS-C3750G-24TS-S1U",
-    "hardware_support": "2024-10-08",
-    "software_support": "2024-10-08",
-    "url_to_announcement": "https://cisco.com/web/support/docs/product_files/switch_iosxe/3750x/release_notes/3750x_rs_3750x_19_2_se_release_note.pdf",
+    "hardware_support": "2024-08-08",
+    "software_support": "2024-08-08",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c3750-series/docs/release/3750_sw_release_notes_1_12_1.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFOBLOX",
     "part_number": "1550-A",
-    "hardware_support": "2020-12-31",
-    "software_support": "2020-12-31",
+    "hardware_support": "2021-12-31",
+    "software_support": "no encontrada",
     "url_to_announcement": "https://www.infoblox.com/en/products/1550-a",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C6503-E",
-    "hardware_support": "2024-09-30",
-    "software_support": "2024-09-30",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/ios-xml/ws-c6503-e-sw_bgos-8-4_8-5_8_5_8-5-8-5-8-5-8-5-8-5-8-5.html",
+    "hardware_support": "2024-08-08",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-wsx-6500-series/docs/release/6503_eos_release.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE",
     "part_number": "ODS1",
-    "hardware_support": "2023-12-31",
-    "software_support": "2023-12-31",
-    "url_to_announcement": "https://www.radware.com/newsroom/radware-announces-end-of-support-for-ods1",
+    "hardware_support": "2024-06-30",
+    "software_support": "2024-06-30",
+    "url_to_announcement": "https://www.radware.com/support/product-eol",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "CISCO2901-SEC/K9",
-    "hardware_support": "2021-03-31",
-    "software_support": "2021-03-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/security/ios-firewall-2901/release-notes-1286.html",
+    "hardware_support": "2023-03-31",
+    "software_support": "2023-03-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/security/cisco-ios-firepower-threat-analyzer/16-1-sec/end-of-support-tables.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "VS-C6509E-S720-10G",
     "hardware_support": "2024-10-03",
     "software_support": "2024-10-03",
-    "url_to_announcement": "https://cisco.custsupport.com/doc/VS-C6509E-S720-10G",
+    "url_to_announcement": "https://support.cisco.com/c/docs/product/VS-C6509E-S720-10G-Software-Release-Notes",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "DELL",
+    "vendor": "Dell",
     "part_number": "PowerEdge R710",
-    "hardware_support": "2023-10-31",
+    "hardware_support": "2023-08-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000106646/poweredge-r710-end-of-life-eol",
+    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000142843/poweredge-r710-end-of-life-announcement",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE",
@@ -1507,87 +1507,87 @@
     "url_to_announcement": "https://www.radware.com/support/product-support/alteon-3408-e",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "Sun Microsystems",
-    "part_number": "SUNFIRE v100",
-    "hardware_support": "2023-08-31",
-    "software_support": "2023-08-31",
-    "url_to_announcement": "https://support.oracle.com/epmos/faces/javase-cs.jsp?pageId=CS%2FView%2FEndofLifeAnnouncement&id=1.3.3.20230831180000%2E1",
-    "statusCode": 200,
-    "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "vendor": "Oracle",
+    "part_number": "SUNW721-SUNFIRE-V100",
+    "hardware_support": "2023-03-31",
+    "software_support": "2023-03-31",
+    "url_to_announcement": "https://www.oracle.com/support/hot-line/discontinued-products.html#sunfire",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "PACKETWISE",
     "part_number": "PACKETEER 8500 series",
-    "hardware_support": "2024-10-31",
-    "software_support": "2024-10-31",
-    "url_to_announcement": "https://www.packetwise.com/support/product-eol-dates",
+    "hardware_support": "2024-12-31",
+    "software_support": "2024-12-31",
+    "url_to_announcement": "https://www.packetwise.com/end-of-life/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "PACKETWISE",
     "part_number": "PACKETEER 10000 series",
     "hardware_support": "2024-10-31",
     "software_support": "2024-10-31",
-    "url_to_announcement": "https://www.packetwise.com/news/packetwise-announces-end-of-life-for-packeteteer-10000-series",
+    "url_to_announcement": "https://www.packetwise.com/end-of-life/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE",
     "part_number": "ALTEON AD3",
     "hardware_support": "2018-12-31",
     "software_support": "2018-12-31",
-    "url_to_announcement": "https://www.radware.com/support/product-eol",
+    "url_to_announcement": "https://www.radware.com/support/product-support/product-eol-dates",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE",
     "part_number": "ALTEON AD4",
     "hardware_support": "2021-12-31",
     "software_support": "2021-12-31",
-    "url_to_announcement": "https://www.radware.com/products/alteon-ad4",
+    "url_to_announcement": "https://www.radware.com/support/product-support/product-eol-dates",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "HP",
     "part_number": "DL380 G6",
-    "hardware_support": "2023-10-31",
-    "software_support": "2024-03-31",
-    "url_to_announcement": "https://support.hp.com/es-es/document/c0643679",
+    "hardware_support": "2024-10-31",
+    "software_support": "2027-07-31",
+    "url_to_announcement": "https://support.hp.com/es-es/document/c0579885",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FG-1500D",
     "hardware_support": "2024-12-31",
     "software_support": "2024-12-31",
-    "url_to_announcement": "https://www.fortinet.com/support/product-eol",
+    "url_to_announcement": "https://docs.fortinet.com/support/eol-support-product-status/product-status-table",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FMG-300F",
     "hardware_support": "2022-12-31",
-    "software_support": "2023-03-31",
+    "software_support": "2024-05-31",
     "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
@@ -1597,477 +1597,477 @@
     "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FG-2201E",
-    "hardware_support": "2022-07-31",
-    "software_support": "2023-07-31",
+    "hardware_support": "2021-12-31",
+    "software_support": "2021-12-31",
     "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "HP",
     "part_number": "DL360 G7",
-    "hardware_support": "2028-01-31",
+    "hardware_support": "2027-01-31",
     "software_support": "2027-01-31",
-    "url_to_announcement": "https://support.hp.com/es-es/document/c0679949",
+    "url_to_announcement": "https://support.hp.com/es-es/product/hp-proliant-gen-7-servers-dl360-g7/hardware-maintenance-manual",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "ASR1002-HX",
     "hardware_support": "2024-10-03",
-    "software_support": "2024-10-03",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/maintenance-eol-asr1000v2.html",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/asr/asr1002hx/release_notes/rsn_asr1002hx_1903_03.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE",
     "part_number": "DefensePro 110-40S",
     "hardware_support": "2024-12-31",
-    "software_support": "2024-12-31",
+    "software_support": "no encontrada",
     "url_to_announcement": "https://www.radware.com/products/defensepro/defensepro-110-40s",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "N9K-C93240YC-FX2",
-    "hardware_support": "2024-10-03",
+    "hardware_support": "2024-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
-    "statusCode": 200,
-    "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://support.cisco.com/c/docs/product/N9000-SERIES/N9K-C93240YC-FX2",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "HP",
     "part_number": "869121-B21",
-    "hardware_support": "2027-01-31",
-    "software_support": "2027-01-31",
-    "url_to_announcement": "https://www.hp.com/us-en/support/document/869121-B21-hardware-end-of-life-notice",
+    "hardware_support": "2023-07-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://support.hp.com/us-en/product/869121-B21",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "ARUBA",
     "part_number": "JZ508A",
     "hardware_support": "2023-12-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.arubacdn.com/support/product-status/item/JZ508A",
+    "software_support": "2023-12-31",
+    "url_to_announcement": "https://support.arubacommunition.com/s/article/AR8618",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "C8500-12X",
-    "hardware_support": "2025-06-01",
-    "software_support": "2025-06-01",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/c8500-series-switches-security-advices.html",
+    "hardware_support": "2022-08-31",
+    "software_support": "2022-08-31",
+    "url_to_announcement": "https://cisco.com/web/docs/release/c8500_eos",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "UCS C200 M1",
-    "hardware_support": "2028-03-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/cisco-uc-series-ucs-c200-m1-hardware-eol-notice.html",
+    "hardware_support": "2023-06-30",
+    "software_support": "2023-06-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/security/ucs-c200-m1/release_notes/UCS_C200M1_Release_Notes_v1-2.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "C7613",
-    "hardware_support": "2024-01-31",
-    "software_support": "2024-01-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/iosxe-firepower-services-platform/releases/c7613-sw-releasing-notes.html",
+    "hardware_support": "2020-06-30",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosxr/c7613-iosxe-software-end-of-life.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C4507R",
-    "hardware_support": "2021-08-31",
-    "software_support": "2021-08-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/c4507r/eos_c4507r.html",
+    "hardware_support": "2020-06-07",
+    "software_support": "2020-06-07",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/ios-xml/ios-15-3_router_sw_upgrade_guide.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "CSACSE-1112-K9",
-    "hardware_support": "2023-03-31",
+    "hardware_support": "2022-03-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/csa_support_eol_status.html#CSACSE-1112-K9.html",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/cisco-security-advisor/csac-csacse-1112-k9.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Sun Microsystems",
     "part_number": "SUNFIRE V480",
-    "hardware_support": "2017-08-31",
-    "software_support": "2017-08-31",
-    "url_to_announcement": "https://support.solarwinds.com/s/case/0000000143697029850",
+    "hardware_support": "2013-06-30",
+    "software_support": "2013-06-30",
+    "url_to_announcement": "https://support.solarwinds.com/s/case/00000001737573218243818",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "HP",
     "part_number": "DL380 G5",
-    "hardware_support": "2028-03-31",
-    "software_support": "2027-03-31",
-    "url_to_announcement": "https://support.hp.com/es-es/product/hp-proliant-gen10-dl380-g5-server",
+    "hardware_support": "2027-10-31",
+    "software_support": "2027-10-31",
+    "url_to_announcement": "https://support.hp.com/es-es/document/c0649993",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2970G-24T-E",
-    "hardware_support": "2024-06-06",
-    "software_support": "2024-06-06",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2970g-series-switches/docs/release/releases_note_c2970g_6-4-1_release_note.html",
+    "hardware_support": "2025-06-09",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/ios-xr/ws-c2970g-24t-e/release_notes/rs-ws-c2970g-24t-e-12.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2950T-24",
-    "hardware_support": "2020-06-30",
-    "software_support": "2020-06-30",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2950-series/docs/release/notes/wscc2950t-24_eos_16-2_20200630.html",
+    "hardware_support": "2020-09-30",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/web/docs/switch/cisco_ws-c2950t-24.pdf",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "WS-C3750G-12S-S",
     "hardware_support": "2021-03-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/c3750-series/docs/release/3750g_3750gx_sw_eos_release_notes.html",
+    "software_support": "2021-03-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-list/ws-c3750g-12s-s-maintenance-eol-notice-list.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2950G-48-EI",
-    "hardware_support": "2020-06-30",
-    "software_support": "2020-06-30",
-    "url_to_announcement": "https://cisco.secure.force.com/r/MediaServer/SingleDocument?docId=000000000000001053&repoId=public",
+    "hardware_support": "2024-07-01",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/switches/cisco-ws-c2950-series-multilayer-switches/17876-eos-ws-c2950g-series.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "WS-C3550-12T",
-    "hardware_support": "2021-06-30",
-    "software_support": "2021-06-30",
-    "url_to_announcement": "https://cisco.com/web/support/docs/archive/pdf/ws_c3550_series_hardware_eol_january_2021.pdf",
+    "hardware_support": "2021-03-31",
+    "software_support": "2021-03-31",
+    "url_to_announcement": "https://www.cisco.com/web/support/docs/switches/c3550/release/3550-12t-eos-notice.pdf",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "WS-C6504-E",
-    "hardware_support": "2024-07-01",
-    "software_support": "2024-07-01",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-statements/index.html#product=WS-C6504-E.html",
+    "hardware_support": "2022-09-29",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/product-licensing/ios-xr-software-support-index.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "DUO-CLOUD",
-    "hardware_support": "2023-12-31",
+    "hardware_support": "2023-09-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/support/product-responsive-pages/dual-cloud-series.html",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xe-native/duo-cloud-software-eol-notice.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "AIR-LAP1131AG-E-K9",
-    "hardware_support": "2021-07-15",
-    "software_support": "2021-07-15",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xml-analysis-processor/ios-xml-analysis-processor-1987.html",
+    "hardware_support": "2024-10-03",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://cisco.custhelp.com/app/answers/detail/a_id/144853",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2924-XL",
-    "hardware_support": "2020-07-01",
-    "software_support": "2020-07-01",
-    "url_to_announcement": "https://cisco.com/web/docs/release/c2924xl_sw_eos_20200701",
+    "hardware_support": "2024-06-07",
+    "software_support": "2024-06-07",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2924-xl/eos-ws-c2924-xl-eol-statement.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C1924F-A",
-    "hardware_support": "2025-07-06",
-    "software_support": "2025-07-06",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-statements/index.html#product=WS-C1924F-A.html",
+    "hardware_support": "2024-10-03",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c1924f-a-switch/release_notes_c1924f_a.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "WS-C1924-EN",
-    "hardware_support": "2024-10-08",
+    "hardware_support": "2022-07-15",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c1924-en/docs/product-specific-guides/eol-ws-c1924-en.html",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2960-24-S",
-    "hardware_support": "2020-05-31",
+    "hardware_support": "2024-09-01",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2960-series-switches/docs/release/c2960_sw_eos_202005.html",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2960-series-switches/docs/release/rs-ws-c2960-24-s-readme-v1.pdf",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2960-24TT-L",
-    "hardware_support": "2025-07-08",
+    "hardware_support": "2020-09-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2960-series-switches/docs/release/rs-ws-c2960-24tt-l-readme-1.pdf",
+    "url_to_announcement": "https://cisco.custsupport.com/doc/WS-C2960-24TT-L",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2924M-XL-EN",
-    "hardware_support": "2020-03-31",
+    "hardware_support": "2024-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-statements/index.html#product=2924M-XL-EN",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2924m-series/eosl-ws-c2924m-series.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2950-24",
-    "hardware_support": "2020-06-30",
-    "software_support": "2020-06-30",
-    "url_to_announcement": "https://www.cisco.com/web/support/docs/switches/cisco_wsx_series/cisco_wsx_2950_series/general/cisco-wsx-2950-series-end-of-life-statement",
+    "hardware_support": "2024-06-30",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-statements/ws-c2950-series-maintenance-eol.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "WS-C2960-24PC-S",
-    "hardware_support": "2020-08-31",
+    "hardware_support": "2020-09-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-2960-series-switches/docs/eos/ws-c2960-24pc-s.html",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/security-pdfs/wsc2960-24pc-s-security-pdfs.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2924-XL-A",
-    "hardware_support": "2020-03-31",
-    "software_support": "2020-03-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2924-xl-a/eos-ws-c2924-xl-a.html",
+    "hardware_support": "2024-06-30",
+    "software_support": "2024-06-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2924-xl-a/eos-c2924xl-a-eos-notice.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C3560X-48P-S",
-    "hardware_support": "2021-03-31",
-    "software_support": "2021-03-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c3560-x-series-switches/docs/release/notes/ws3560x_37_relnotes.pdf",
+    "hardware_support": "2024-06-30",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://cisco.com/web/docs/release/c3560x_sw_eos_list.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Juniper Networks",
     "part_number": "MX240",
-    "hardware_support": "2023-12-31",
-    "software_support": "2023-12-31",
-    "url_to_announcement": "https://www.juniper.net/us/en/press-releases/2023/december/juniper-networks-announces-end-of-support-for-certain-products",
+    "hardware_support": "2022-06-30",
+    "software_support": "2022-06-30",
+    "url_to_announcement": "https://www.juniper.net/us/en/pressrelease/2022/06/jun-announces-end-of-support-for-certain-products",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "ALLOT",
     "part_number": "SERVICES GATEWAY SIGMA",
-    "hardware_support": "2022-12-31",
-    "software_support": "2022-12-31",
+    "hardware_support": "2024-12-31",
+    "software_support": "2024-12-31",
     "url_to_announcement": "https://www.allot.com/products/services-gateway-sigma/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE",
     "part_number": "ALTEON SSL 410",
-    "hardware_support": "2019-12-31",
-    "software_support": "2023-06-30",
-    "url_to_announcement": "https://www.radware.com/support/product-support/product-eol-dates",
+    "hardware_support": "2017-09-30",
+    "software_support": "2017-09-30",
+    "url_to_announcement": "https://www.radware.com/support/product-support/product-eol",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Sun Microsystems",
     "part_number": "ULTRA ENTERPRISE 450",
     "hardware_support": "2017-08-31",
     "software_support": "2017-08-31",
-    "url_to_announcement": "https://support.solarwinds.com/s/case/0000000390687027087",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://support.oracle.com/epmos/faces/javaseppage/productsupportdetails?product=ULTRA%20ENTERPRISE%20450",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "BLUECOAT",
     "part_number": "ProxySG 6000 Series",
     "hardware_support": "2024-12-31",
     "software_support": "2024-12-31",
-    "url_to_announcement": "https://www.bluecoat.com/support/product-support/proxy-sg-support",
+    "url_to_announcement": "https://www.bluecoat.com/support/product-eol-dates",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "HP",
     "part_number": "ML530",
-    "hardware_support": "2023-10-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://support.hp.com/es-es/product/hp-proliant-ml530-servidor-rack-1u-con-procesador-intel-xeon-pro-series-hasta-12-2-ghz-con-hasta-2-tb-de-memoria-ddr4-y-soporte-para-hasta-4-discos-sata-6-3-rpm-hasta-2-tb-con-soporte-para-sas-6-g",
+    "hardware_support": "2023-03-31",
+    "software_support": "2021-03-31",
+    "url_to_announcement": "https://support.hp.com/es-es/product/hp-ml530-laptop",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE - SILICOM",
     "part_number": "IS100G",
-    "hardware_support": "2023-12-31",
-    "software_support": "2023-12-31",
-    "url_to_announcement": "https://www.radware.com/wp-content/uploads/2023/03/RADWARE_IS100G_EOL_Notice_v1.0.pdf",
+    "hardware_support": "2024-10-31",
+    "software_support": "2024-10-31",
+    "url_to_announcement": "https://www.radware.com/support/product-support/is100g",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFINERA",
     "part_number": "GQS-G30CHASZ-00",
-    "hardware_support": "2024-10-31",
+    "hardware_support": "2024-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.infinera.com/support/product-support/product-eol",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://www.infera.net/support/product-support/product-eol",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FMG-VM",
-    "hardware_support": "2022-06-30",
+    "hardware_support": "2021-03-31",
     "software_support": "no encontrada",
     "url_to_announcement": "https://www.fortinet.com/products/firewalls/fmg-vm",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FAZ-VM",
     "hardware_support": "2022-12-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.fortinet.com/products/firewalls/fortinet-fa-series-firewalls/fa-vm-virtual-firewall",
+    "software_support": "2023-03-31",
+    "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco - Viptela",
     "part_number": "Cisco-SDWAN-vManage",
-    "hardware_support": "2027-06-30",
-    "software_support": "2026-06-30",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/switches/cisco-viptela-sd-wan/release-notes/cisco-vmanage-release-notes.html",
+    "hardware_support": "2027-03-31",
+    "software_support": "2027-03-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/whats-new-security-adv/vmanage-eol-notice.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "Cisco-SDWAN-vEdgeCloud",
-    "hardware_support": "2027-08-31",
-    "software_support": "2027-08-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/vedge-cloud/vedge-cloud-eol-announcement.html",
+    "hardware_support": "2027-07-01",
+    "software_support": "2027-07-01",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/sd-wan/cisco-sd-wan-vedgecloud-security-updates.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO - VIPTELA",
     "part_number": "Cisco-SDWAN-vSmart",
-    "hardware_support": "2027-06-30",
-    "software_support": "2027-06-30",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/vsmart/vsmart-eol-notice-2023-03-28.html",
+    "hardware_support": "2027-12-31",
+    "software_support": "2027-12-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/tsd/docs/product-files/cisco-sdwan-vsmart-eol-announcement.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "SYNOLOGY",
     "part_number": "DS418",
     "hardware_support": "2023-06-30",
     "software_support": "2023-06-30",
-    "url_to_announcement": "https://www.synology.com/es-lat/support/announcement/2023/22",
+    "url_to_announcement": "https://www.synology.com/es-es/support/announcement/mark_download_update_ds418_nas",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FGT-4201F",
-    "hardware_support": "2022-07-01",
-    "software_support": "2022-07-01",
+    "hardware_support": "2022-12-31",
+    "software_support": "2023-03-31",
     "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
@@ -2077,137 +2077,137 @@
     "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FGT_200F",
-    "hardware_support": "2022-06-30",
-    "software_support": "2022-06-30",
-    "url_to_announcement": "https://www.fortinet.com/support/product-eol",
+    "hardware_support": "2022-07-31",
+    "software_support": "2023-07-31",
+    "url_to_announcement": "https://www.fortinet.com/products/firewalls/ftg200f",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FMG-VM64-AWS",
     "hardware_support": "2024-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://support.fortinet.com/support/product-support/product-details/fmg-vm64-aws",
+    "url_to_announcement": "https://www.fortinet.com/products/firewalls/fortigate-vmg-series/fmg-vm64-aws",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CHECK POINT",
     "part_number": "Cloud Guard Infinity GW",
-    "hardware_support": "2023-12-31",
-    "software_support": "2024-03-31",
-    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00003875",
+    "hardware_support": "2024-12-31",
+    "software_support": "2024-12-31",
+    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00003414",
     "statusCode": 202,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "FORTINET",
+    "vendor": "Fortinet",
     "part_number": "FortiGate-VM64-AWS",
     "hardware_support": "2027-12-31",
     "software_support": "2027-12-31",
-    "url_to_announcement": "https://www.fortinet.com/products/fortigate/fortigate-vm64-aws",
+    "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "ARUBA",
     "part_number": "JZ509A",
-    "hardware_support": "2023-08-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://support.arubacommunition.com/s/article/AR89089",
+    "hardware_support": "2022-12-31",
+    "software_support": "2022-12-31",
+    "url_to_announcement": "https://www.arubacommunition.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "ARUBA",
     "part_number": "C3010DL360 G10 HW Appl (R1V82A)",
     "hardware_support": "2022-12-31",
-    "software_support": "2022-12-31",
-    "url_to_announcement": "https://support.arubanetworks.com/suppportal/article/C3010DL360_G10_HW_Appl_R1V82A_End-of-Life-Notice",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://support.arubacommunition.com/s/case/1000003261/view?instanceID=1000003261&pdf=true",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE",
     "part_number": "Alteon D-7612S",
     "hardware_support": "2022-12-31",
     "software_support": "2023-03-31",
-    "url_to_announcement": "https://www.radware.com/support/product-support/product-eol-dates",
+    "url_to_announcement": "https://www.radware.com/products/server-virtualization/alteon-series/alteon-d-7612s",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "HP",
     "part_number": "ProLiant DL580 G7",
-    "hardware_support": "2023-10-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://support.hp.com/us-en/document/c0646489",
+    "hardware_support": "2028-10-31",
+    "software_support": "2024-06-30",
+    "url_to_announcement": "https://support.hp.com/es-es/product/proliant-dl580-g7/hardware-and-software-support",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "INFOBLOX",
     "part_number": "Trinzic 800",
-    "hardware_support": "2024-12-31",
-    "software_support": "2024-12-31",
+    "hardware_support": "2023-12-31",
+    "software_support": "no encontrada",
     "url_to_announcement": "https://www.infoblox.com/en/products/trinzic-800",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CHECKPOINT",
+    "vendor": "Checkpoint",
     "part_number": "A2200 ET",
-    "hardware_support": "2018-12-31",
-    "software_support": "2023-06-30",
-    "url_to_announcement": "https://support.checkpoint.com/support/downloads/end-of-life-information",
+    "hardware_support": "2023-12-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.checkpoint.com/support/security-products/firewall-products/ap-a2200-et",
     "statusCode": 202,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FG-4401F",
-    "hardware_support": "2024-12-31",
-    "software_support": "2024-12-31",
+    "hardware_support": "2022-12-31",
+    "software_support": "2023-03-31",
     "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FMG-1000F",
-    "hardware_support": "2022-06-30",
-    "software_support": "2022-06-30",
+    "hardware_support": "2021-10-31",
+    "software_support": "2021-10-31",
     "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "ASR-920-12SZ-IM",
-    "hardware_support": "2024-10-03",
-    "software_support": "2024-10-03",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/switches/asr-9200-series/17823-asr-9200-series-hardware-end-of-support-dates.html",
+    "hardware_support": "2024-09-30",
+    "software_support": "2024-09-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/asr/920_series/release_notes/920-12SZ-IM-RN-v1-0.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
@@ -2217,767 +2217,767 @@
     "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "AMAZON",
     "part_number": "AMAZON",
     "hardware_support": "2023-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://aws.amazon.com/blogs/aws/2023/11/16/amazon-observer-nvidia-rtx-4080-gpu-support-ends-december-31-2023/",
+    "url_to_announcement": "https://aws.amazon.com/de/announcements/amazon-observer-series-devices-end-of-life",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "N9K-C93108TC-FX",
-    "hardware_support": "2024-10-08",
-    "software_support": "2024-10-08",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/security-docs/cisco-security-iosxe-17-6-3-security-bulletin.html",
+    "hardware_support": "2024-10-03",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/security-docs/cisco-ios-xml/N9K-C93108TC-FX-Security-Alert.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Palo Alto Networks",
     "part_number": "PA-5260",
     "hardware_support": "2024-12-31",
     "software_support": "2024-12-31",
-    "url_to_announcement": "https://support.paloaltonetworks.com/hc/en-us/articles/44199188-PA-5260-End-of-Life-Notice",
+    "url_to_announcement": "https://support.paloaltonetworks.com/case/133846",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "ARUBA",
     "part_number": "CP-SW-EVAL",
     "hardware_support": "2024-12-31",
-    "software_support": "2024-12-31",
-    "url_to_announcement": "https://support.arubacommunitions.com/s/case-details/10300027318",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.arubacorp.com/support/product-support/sw-eval",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "GIGAMON",
     "part_number": "GVS-HC3A1",
-    "hardware_support": "2024-06-30",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.gigamon.com/support/product-support/product-eol/",
+    "hardware_support": "2022-12-31",
+    "software_support": "2023-03-31",
+    "url_to_announcement": "https://www.gigamon.com/support/product-eol-notice/gvs-hc3a1",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "N9K-C93180YC-FX3",
     "hardware_support": "2024-10-03",
-    "software_support": "2024-10-03",
+    "software_support": "no encontrada",
     "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "WS-C3750-48TS-E",
-    "hardware_support": "2020-05-31",
-    "software_support": "2020-05-31",
-    "url_to_announcement": "https://cisco.com/web/support/docs/launch/ws-c3750-48ts-e_eol_announcement",
+    "hardware_support": "2020-08-31",
+    "software_support": "2020-08-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-status.html#a_product_6487&a_product_platform_6487&a_product_series_6487",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "WS-C2960-48TT-L",
-    "hardware_support": "2025-07-08",
+    "hardware_support": "2021-06-09",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2960-series-switches/docs/release/rel-ws-c2960-48tt-l-12-6-1.html",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/switches/cisco-catalyst-2960-series/whats-new-releases.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CHECKPOINT - NOKIA",
     "part_number": "IP2250",
     "hardware_support": "2019-12-31",
-    "software_support": "2020-06-30",
-    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00005793",
+    "software_support": "2021-03-31",
+    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00002344",
     "statusCode": 202,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "UCS C210 M2",
-    "hardware_support": "2028-03-31",
-    "software_support": "2028-03-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/security/unified-computing-servers/ucs-c210-m2/hw_eol_announcement_2028_03_31.html",
+    "hardware_support": "2023-08-31",
+    "software_support": "2023-08-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/unified-computing-video-engine/ucs-c210-m2-product-support-eol.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "SNS-3695-K9",
-    "hardware_support": "2022-03-31",
+    "hardware_support": "2021-03-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://support.cisco.com/docs/product/SNS-3695-K9",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-switches-products-list.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FAZ-VM64-AZ",
-    "hardware_support": "2024-12-31",
-    "software_support": "no encontrada",
+    "hardware_support": "2025-10-31",
+    "software_support": "2025-10-31",
     "url_to_announcement": "https://support.fortinet.com/faqs/faz-vm64-az-end-of-life",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FMG-VM64-AZ",
     "hardware_support": "2024-12-31",
     "software_support": "2024-12-31",
-    "url_to_announcement": "https://www.fortinet.com/products/firewalls/fmg-vm",
+    "url_to_announcement": "https://support.fortinet.com/support/product-support/product-status/product-status-details?productid=FMG-VM64-AZ",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Checkpoint",
     "part_number": "CPAP-MHO-175-AC-BUNDLE",
-    "hardware_support": "2020-07-31",
+    "hardware_support": "2022-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.checkpoint.com/support/product-support/product-eol-dates",
+    "url_to_announcement": "https://www.checkpoint.com/support/product-support/cpap-mho-175",
     "statusCode": 202,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Checkpoint",
     "part_number": "CPAP-SG28600-HS-MHS-SNBT",
-    "hardware_support": "2021-12-31",
+    "hardware_support": "2022-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://support.checkpoint.com/support/s/article/CPAP-SG28600-HS-MHS-SNBT-End-of-Life-EOL",
+    "url_to_announcement": "https://www.checkpoint.com/support/product-support/product-eol-status",
     "statusCode": 202,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CHECKPOINT",
     "part_number": "CPAP-SG28600-HS-SNBT",
-    "hardware_support": "2023-03-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00005746",
+    "hardware_support": "2022-12-31",
+    "software_support": "2023-03-31",
+    "url_to_announcement": "https://support.checkpoint.com/support/swdes/13675",
     "statusCode": 202,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "HP",
     "part_number": "STORAGEWORKS MSA 2000",
     "hardware_support": "2022-03-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://support.hp.com/es-es/document/c0576439",
+    "url_to_announcement": "https://h20336. دریافت‌شده.com/hpub/21728/hppb_msa_2000_eol_details_en.pdf",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "CSACS-1112-K9",
-    "hardware_support": "2021-03-31",
+    "hardware_support": "2020-03-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/switches/cisco-nexus-1200-series-switches/whats-new/hw-release-notes-csacs-1112-k9.html",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/tsd/cs_eol.html#model=CSACS-1112-K9",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "AZURE",
-    "part_number": "Azure",
-    "hardware_support": "2026-10-31",
-    "software_support": "2026-10-31",
-    "url_to_announcement": "https://azure.microsoft.com/en-us/support/legal/service-level-agreements",
+    "vendor": "Microsoft",
+    "part_number": "AZURE",
+    "hardware_support": "2024-06-30",
+    "software_support": "2024-06-30",
+    "url_to_announcement": "https://azure.microsoft.com/en-us/support/legal/product-support-status/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "HUAWEI",
     "part_number": "OceanStor Dorado 5000",
     "hardware_support": "2027-12-31",
     "software_support": "2027-12-31",
-    "url_to_announcement": "https://support-en.huawei.com/ict/lifecycle/oceanstor-dorado",
+    "url_to_announcement": "https://www.huawei.com/es/support/oceanstor-dorado",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "LENOVO",
     "part_number": "ThinkSystem SR630",
     "hardware_support": "2023-10-31",
-    "software_support": "2024-03-31",
-    "url_to_announcement": "https://support.lenovo.com/es/en/subscriptions/product/thinksystem-sr630",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://support.lenovo.com/es/en/subscriptions/products/ThinkSystem-SR630",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "HUAWEI",
     "part_number": "CE6820-48S6CQ",
-    "hardware_support": "2022-12-31",
-    "software_support": "2023-03-31",
-    "url_to_announcement": "https://support.huawei.com/es/knowledge/memory/topic?title=HUAWEI%20CE6820-48S6CQ%20End%20of%20Life%20Notice",
+    "hardware_support": "2023-06-30",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://support.huawei.com/es/knowledge/doc/CE/general/CE6820-48S6CQ-End-of-Life-Notice",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Canon",
     "part_number": "ACS 8000",
-    "hardware_support": "2023-12-31",
-    "software_support": "2023-12-31",
-    "url_to_announcement": "https://solutions.canon/us/en/support/announcements/lp-oc-acs8000-end-of-life-notice",
+    "hardware_support": "2017-03-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://support.canon.com/en/discontinued-products/faq/4102902",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FGT_100F",
     "hardware_support": "2022-12-31",
-    "software_support": "2022-12-31",
-    "url_to_announcement": "https://www.fortinet.com/support/product-eol",
+    "software_support": "2023-03-31",
+    "url_to_announcement": "https://www.fortinet.com/products/firewalls/ftg100f",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FG-600F",
     "hardware_support": "2022-12-31",
-    "software_support": "2023-03-31",
+    "software_support": "2022-12-31",
     "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FPX-2000E",
-    "hardware_support": "2022-08-31",
-    "software_support": "2024-06-30",
+    "hardware_support": "2022-07-31",
+    "software_support": "2024-07-31",
     "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FAZ-800G",
-    "hardware_support": "2022-06-30",
-    "software_support": "2023-06-30",
-    "url_to_announcement": "https://www.fortinet.com/support/product-eol",
+    "hardware_support": "2024-06-30",
+    "software_support": "2024-06-30",
+    "url_to_announcement": "https://www.fortinet.com/products/firewalls/fa-800g",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FMG-200G",
-    "hardware_support": "2021-03-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://support.fortinet.com/ts/en/support-keys/products/FMG-200G",
+    "hardware_support": "2020-06-30",
+    "software_support": "2020-06-30",
+    "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "ARUBA",
     "part_number": "ClearPass Cx000V VM-Based Appliance E-LTU",
-    "hardware_support": "2024-10-31",
-    "software_support": "2024-10-31",
-    "url_to_announcement": "https://www.arubacenter.com/support/product-eol",
+    "hardware_support": "2024-12-31",
+    "software_support": "2024-12-31",
+    "url_to_announcement": "https://www.arubacenter.com/products/clearpass/clearpass-eol",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "C8300-1N1S-6T",
-    "hardware_support": "2025-07-08",
+    "hardware_support": "2021-07-19",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/product-licensing/ios-xe-image-support-details.html#model=C8300-1N1S-6T",
+    "url_to_announcement": "https://www.cisco.com/web/solutions/iosxe/c8300-series-switches/iosxe-c8300-series-release-notes-2021-07-19.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Fortinet",
     "part_number": "FortiGate-VM64-GCP",
-    "hardware_support": "2027-03-31",
-    "software_support": "2027-03-31",
-    "url_to_announcement": "https://www.fortinet.com/support/product-eol",
+    "hardware_support": "2027-12-31",
+    "software_support": "2027-12-31",
+    "url_to_announcement": "https://www.fortinet.com/products/fortigate/fortigate-vm-series",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "HP",
     "part_number": "ACS 8032SAC",
-    "hardware_support": "2022-06-30",
-    "software_support": "2022-06-30",
-    "url_to_announcement": "https://support.hp.com/us-en/document/c0673539",
+    "hardware_support": "2023-03-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://support.hp.com/es-es/document/c0669989",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Splunk",
     "part_number": "SPLUNK",
-    "hardware_support": "no encontrada",
-    "software_support": "2029-08-31",
-    "url_to_announcement": "https://status.splunk.com/announcement/2023/03/30/splunk-end-of-life-dates",
+    "hardware_support": "2024-10-31",
+    "software_support": "2024-10-31",
+    "url_to_announcement": "https://status.splunk.com/announcement/2023/10/31/splunk-enterprise-end-of-support-2024-10-31/",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FG-1801F",
-    "hardware_support": "2022-12-31",
-    "software_support": "2022-12-31",
-    "url_to_announcement": "https://support.fortinet.com/ts/en/support-for-products/product-vtl-firewalls/fortigate/fg-1801f",
+    "hardware_support": "2021-12-31",
+    "software_support": "2021-12-31",
+    "url_to_announcement": "https://www.fortinet.com/products/firewalls/fg-1801f",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "N9K-C93216TC-FX2",
-    "hardware_support": "2024-09-30",
-    "software_support": "2024-09-30",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/security-notes/ns-20240327-n9k-c93216tc-fx2.html",
+    "hardware_support": "2024-10-03",
+    "software_support": "2024-10-03",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-window/n9k-c93216tc-fx2-hardware-maintenance-window.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "CXCLOUD",
-    "hardware_support": "2024-05-31",
-    "software_support": "2024-05-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/support/product-security/cisco-security-cloud-platform.html",
+    "hardware_support": "2023-06-30",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/iosxe-image/cxcloud-iosxe-image-eol-notice.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FGT_80F",
     "hardware_support": "2022-12-31",
-    "software_support": "2023-03-31",
-    "url_to_announcement": "https://www.fortinet.com/support/product-eol",
+    "software_support": "2022-12-31",
+    "url_to_announcement": "https://www.fortinet.com/products/firewalls/ftg80f",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "PALO_ALTO",
     "part_number": "PAN-PA-5420-AC",
     "hardware_support": "2024-06-30",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://support.cisco.com/documentation/tech/PAN-PA-5420-AC",
+    "software_support": "2024-06-30",
+    "url_to_announcement": "https://support.cisco.com/tl/en/docs/product-security/PAN-PA-5420-AC-Security-Advisory",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CISCO",
+    "vendor": "Cisco",
     "part_number": "C9800-80-K9",
-    "hardware_support": "2021-03-31",
-    "software_support": "2021-03-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/product-licensing/c9800-series-switches/latest-software-releases.html",
+    "hardware_support": "2020-09-30",
+    "software_support": "2020-09-30",
+    "url_to_announcement": "https://www.cisco.com/web/support/docs/switches/c9800/release/c9800-80-k9-eos-notice.pdf",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "APIC-SERVER-L4",
-    "hardware_support": "2023-10-08",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/servers/aps/apic_server/l4/eol-apic-server-l4.html",
+    "hardware_support": "2023-06-30",
+    "software_support": "2023-06-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/servers/apsongaic/apic_server_l4_eol.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "N9K-C9364C-GX",
-    "hardware_support": "2024-10-03",
-    "software_support": "2024-10-03",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
-    "statusCode": 200,
-    "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "hardware_support": "2024-10-08",
+    "software_support": "2024-10-08",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/n9000-series/docs/release/n9364c-sw-releasing-notes-1.pdf",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "N9K-C9336C-FX2-E",
-    "hardware_support": "2024-10-08",
-    "software_support": "2024-10-08",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/ios-xe/n9k-series/release_notes/N9K-C9336C-FX2-E-RN.html",
+    "hardware_support": "2024-07-31",
+    "software_support": "2024-07-31",
+    "url_to_announcement": "https://cisco.com/en/support/docs/switches-datacenter/n9k-series/release-notes-n9k-c9336c-fx2-e.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "2CRSI",
     "part_number": "SYS-F619P2-FT",
-    "hardware_support": "2022-12-31",
+    "hardware_support": "2024-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.2crsi.com/wp-content/uploads/2022/06/2CRSI_SYS-F619P2-FT_EOL_Notice_v1.0.pdf",
+    "url_to_announcement": "https://www.2crsi.com/en/products/sys-f619p2-ft-industrial-gprs-tracker",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "C9500-48Y4C-A",
-    "hardware_support": "2020-07-15",
-    "software_support": "2020-07-15",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/switches/c9500-series/41578-cisco-end-of-life-support-cisco-iosxr-software.html",
+    "hardware_support": "2024-07-01",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/c9500-series/docs/release/c9500_sw_eos_20240701.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "N9K-C9348GC-FXP",
-    "hardware_support": "2024-10-03",
-    "software_support": "2024-10-03",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/security-pdfs/n9k-c9348gc-fxp-security-pdf.html",
+    "hardware_support": "2024-09-30",
+    "software_support": "2024-09-30",
+    "url_to_announcement": "https://cisco.com/en/support/docs/datasheets/N9K-C9348GC-FXP.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "TUFIN",
     "part_number": "TUFIN",
     "hardware_support": "2023-12-31",
     "software_support": "2023-12-31",
-    "url_to_announcement": "https://www.tufin.com/support/product-eol",
+    "url_to_announcement": "https://www.tufin.com/support/product-support/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "UCS-SP-C220M5-A2",
-    "hardware_support": "2024-06-30",
-    "software_support": "2024-06-30",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/unified-computing-servers/ucs-sp-c220m5-a2/eos-date-sheet.html",
+    "hardware_support": "2024-10-08",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/unified-computing-servers/ucs-sp-c220m5-a2/eos-dates.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "APIC-SERVER-L3",
-    "hardware_support": "2022-07-19",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/server-solutions/apsir/apic_server/l3/apic-server-l3-eol.html",
+    "hardware_support": "2023-06-30",
+    "software_support": "2023-06-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/servers/apic-series-switch/l3-apic-server-eol.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "N9K-C9364C",
-    "hardware_support": "2024-10-03",
-    "software_support": "2024-10-03",
-    "url_to_announcement": "https://cisco.custsupport.com/doc/N9K-C9364C",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "hardware_support": "2024-07-01",
+    "software_support": "2024-07-01",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/index.html",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FAC-3000F",
+    "hardware_support": "2022-12-31",
+    "software_support": "2022-12-31",
+    "url_to_announcement": "https://www.fortinet.com/support/product-eol",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-29 06:49"
+  },
+  {
+    "vendor": "FORTINET",
+    "part_number": "FAZ-810G",
     "hardware_support": "2021-12-31",
     "software_support": "2021-12-31",
     "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
-  },
-  {
-    "vendor": "FORTINET",
-    "part_number": "FAZ-810G",
-    "hardware_support": "2022-06-30",
-    "software_support": "2022-06-30",
-    "url_to_announcement": "https://support.fortinet.com/faqs/faz-810g-end-of-life",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FG-201G",
     "hardware_support": "2022-06-30",
-    "software_support": "2023-06-30",
-    "url_to_announcement": "https://docs.fortinet.com/support/product-support/end-of-support-matrix/product-end-of-support-matrix",
+    "software_support": "2022-06-30",
+    "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Checkpoint",
     "part_number": "CPAP-SG19200-PLUS-MHS-SNBT",
-    "hardware_support": "2021-12-31",
+    "hardware_support": "2020-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://support.checkpoint.com/support/s/article/CPAP-SG19200-PLUS-MHS-SNBT-End-of-Life-Announcement",
+    "url_to_announcement": "https://www.checkpoint.com/support/product-support/product-end-of-life",
     "statusCode": 202,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "EFFICIENT_IP",
     "part_number": "M5S-SMALL-HW-AC",
-    "hardware_support": "2024-06-30",
+    "hardware_support": "2024-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.efficientip.com/products/m5s-small-hw-ac",
+    "url_to_announcement": "https://www.efficientip.com/support/product-support",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "EFFICIENT_IP",
     "part_number": "M5S-XTRA-HW-AC",
     "hardware_support": "2024-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.efficientip.com/support/product-support/",
+    "url_to_announcement": "https://www.efficientip.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "EFFICIENT_IP",
     "part_number": "M5S-MEDIUM-HW-AC",
-    "hardware_support": "2024-10-31",
+    "hardware_support": "2024-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.efficientip.com/support/product-support",
+    "url_to_announcement": "https://www.efficientip.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Checkpoint",
     "part_number": "checkpoint_linux",
     "hardware_support": "2024-12-31",
     "software_support": "2024-12-31",
-    "url_to_announcement": "https://support.checkpoint.com/support/knowledge-base/article/156793/end-of-life-eol-support-for-linux-based-products/",
+    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/matrix/en/119953745",
     "statusCode": 202,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Checkpoint",
     "part_number": "CPAP-NGSM6000XL-PLUS-MLOG10",
-    "hardware_support": "2020-12-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/csp/index?id=cp_ngsm6000xl_plus_mlog10_eol",
+    "hardware_support": "2024-12-31",
+    "software_support": "2024-12-31",
+    "url_to_announcement": "https://www.checkpoint.com/support/product-support/product-eol-dates",
     "statusCode": 202,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "CHECKPOINT",
+    "vendor": "Checkpoint",
     "part_number": "CPAP-NGSM6000XL-PLUS-EVNT",
-    "hardware_support": "2023-12-31",
-    "software_support": "2023-12-31",
-    "url_to_announcement": "https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00007786",
+    "hardware_support": "2022-12-31",
+    "software_support": "2022-12-31",
+    "url_to_announcement": "https://support.checkpoint.com/support/s/article/CPAP-NGSM6000XL-PLUS-EVNT-End-of-Life-EOL",
     "statusCode": 202,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Checkpoint",
     "part_number": "CPAP-NGSM6000XL-PLUS",
-    "hardware_support": "2021-12-31",
-    "software_support": "2021-12-31",
-    "url_to_announcement": "https://support.checkpoint.com/support/s/article/CPAP-NGSM6000XL-PLUS-End-of-Life-Notice",
+    "hardware_support": "2022-12-31",
+    "software_support": "2022-12-31",
+    "url_to_announcement": "https://www.checkpoint.com/support/product-support/cpap-ngsm6000xl-plus",
     "statusCode": 202,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Microsoft",
     "part_number": "AZFW_VNet",
     "hardware_support": "no encontrada",
-    "software_support": "2026-11-30",
-    "url_to_announcement": "https://learn.microsoft.com/en-us/lifecycle/announcements/azure-switch-fabric-end-of-life",
+    "software_support": "2025-07-31",
+    "url_to_announcement": "https://support.microsoft.com/en-us/topic/azfw-vnet-end-of-life-9c60a5a0-3f00-476b-9017-d465906cf0c4",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "AZURE",
     "part_number": "AZLOG_Generic",
     "hardware_support": "no encontrada",
-    "software_support": "2025-06-30",
+    "software_support": "no encontrada",
     "url_to_announcement": "https://azure.microsoft.com/en-us/support/legal/support-software-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "AZURE",
     "part_number": "AZDNS_Generic",
     "hardware_support": "no encontrada",
-    "software_support": "2027-10-31",
-    "url_to_announcement": "https://azure.microsoft.com/en-us/support/legal/dns-services-eol/",
+    "software_support": "2025-06-30",
+    "url_to_announcement": "https://azure.microsoft.com/en-us/support/legal/support-software-lifecycle-notice/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "AZURE",
     "part_number": "AZKSR_Generic",
     "hardware_support": "no encontrada",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://azure.microsoft.com/en-us/support/legal/technology-agreement",
+    "url_to_announcement": "https://azure.microsoft.com/en-us/support/legal/product-support-status/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "AZURE",
     "part_number": "AZPRX_Generic",
-    "hardware_support": "2022-12-31",
-    "software_support": "2022-12-31",
-    "url_to_announcement": "https://learn.microsoft.com/en-us/lifecycle/announcements/azure-azprx-generic-support-end-date",
+    "hardware_support": "2022-10-31",
+    "software_support": "2022-10-31",
+    "url_to_announcement": "https://learn.microsoft.com/en-us/lifecycle/announcements/azure-vray-support-end-date",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "AZURE",
     "part_number": "AZIPS_Generic",
-    "hardware_support": "2023-03-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://azure.microsoft.com/en-us/support/legal/product-support-status/",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
-  },
-  {
-    "vendor": "AZURE",
-    "part_number": "AZWAF_Generic",
-    "hardware_support": "2023-03-31",
+    "hardware_support": "2023-10-31",
     "software_support": "no encontrada",
     "url_to_announcement": "https://azure.microsoft.com/en-us/support/legal/terms/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
+  },
+  {
+    "vendor": "AZURE",
+    "part_number": "AZWAF_Generic",
+    "hardware_support": "2024-06-30",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://support.microsoft.com/en-us/lifecycle/search?search term=AZWAF_Generic",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "FPR-2130-logic",
     "hardware_support": "2023-03-31",
     "software_support": "2023-03-31",
-    "url_to_announcement": "https://support.cisco.com/en/product/sw_18396c75-a039-411a-8d14-4109f9668c5a",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosml/fdr-2130-logic.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FAZ-300G",
-    "hardware_support": "2024-12-31",
-    "software_support": "2024-12-31",
-    "url_to_announcement": "https://www.fortinet.com/support/product-eol",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
-  },
-  {
-    "vendor": "CISCO",
-    "part_number": "HXAF240C-M6SX",
     "hardware_support": "2024-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://support.cisco.com/xs/manage/public/ciscolive/index?lang=es&mid=psd_live_support_mx",
+    "url_to_announcement": "https://support.fortinet.com/ts/en/support-solar-fa-300g",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "FORTINET",
+    "vendor": "Cisco",
+    "part_number": "HXAF240C-M6SX",
+    "hardware_support": "2024-06-30",
+    "software_support": "2024-06-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-list/hst-maintenance-eol-list.html",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-29 06:49"
+  },
+  {
+    "vendor": "Fortinet",
     "part_number": "FPX-400G",
     "hardware_support": "2027-12-31",
     "software_support": "2027-12-31",
-    "url_to_announcement": "https://www.fortinet.com/support/product-eol",
+    "url_to_announcement": "https://support.fortinet.com/en/faqs/fortinet-product-end-of-life-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "HCIAF240C-M7SX",
-    "hardware_support": "2024-05-31",
+    "hardware_support": "2022-03-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://support.cisco.com/uc/product-security-notices/product-security-notice-cisco-high-availability-integrated-appliance-hc-series-software-version-24-05-31",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ia-series/ia-4300-series/whats-new/hw-release-notes-ia4300-series-2-3-1.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "HCI-FI-6536",
-    "hardware_support": "2023-08-31",
+    "hardware_support": "2022-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/server-solutions/hci-fi/releases/HCI-FI-6536-readme.html",
+    "url_to_announcement": "https://cisco.custhelp.com/app/answers/detail/a_id/129748",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "EFFICIENT_IP",
     "part_number": "SDS-570",
-    "hardware_support": "2022-12-31",
-    "software_support": "2022-12-31",
-    "url_to_announcement": "https://www.efficientip.com/news/efficientip-announces-end-of-life-for-certain-products/",
+    "hardware_support": "2021-12-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.efficientip.com/news/efficientip-announces-end-of-life-for-sdsl-570-and-sdsl-571",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "EFFICIENT_IP",
     "part_number": "SOLIDserver-3370",
-    "hardware_support": "2024-06-30",
+    "hardware_support": "2024-10-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.efficientip.com/support/product-eol",
+    "url_to_announcement": "https://www.efficientip.com/support/product-support/solidserver-3370",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FG-901G",
     "hardware_support": "2021-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.fortinet.com/products/firewalls/fg-901g",
+    "url_to_announcement": "https://docs.fortinet.com/support/products/fortigate/fg-901g/eol-notice-fg-901g",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
@@ -2987,7 +2987,7 @@
     "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
@@ -2997,77 +2997,77 @@
     "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "IE-9320-24P4S-A",
-    "hardware_support": "2024-07-01",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosxr/ios-xe-security-package/whats-new/a22-march-09.html",
+    "hardware_support": "2022-06-30",
+    "software_support": "2022-06-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/iosxe-firepower-threat-defense/general/release-notes-ie9320.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "GIGAMON",
     "part_number": "GVS-TAC21",
     "hardware_support": "2022-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.gigamon.com/products/tac-series/tac21/",
+    "url_to_announcement": "https://www.gigamon.com/wp-content/uploads/2021/06/GVS-TAC21-EOL-Notice-v1.1.pdf",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "GIGAMON",
     "part_number": "GVS-TAX21",
-    "hardware_support": "2024-10-31",
+    "hardware_support": "2024-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.gigamon.com/support/product-support/product-eol-dates/",
+    "url_to_announcement": "https://www.gigamon.com/support/product-support/product-eol/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "AMAZON",
     "part_number": "AWSDNS_Generic",
     "hardware_support": "2021-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://aws.amazon.com/blogs/aws-k8s/amazon-ends-support-for-awsdns-generic/",
+    "url_to_announcement": "https://aws.amazon.com/de/blogs/general/end-of-life-notification-awsdns-generic/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "AMAZON",
     "part_number": "AWSFW_Generic",
-    "hardware_support": "2020-03-31",
+    "hardware_support": "2023-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://aws.amazon.com/de/systems-manager/faqs/aws-firmware-support/",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "url_to_announcement": "https://aws.amazon.com/support/term/AWSFW_Generic",
+    "statusCode": 200,
+    "url_to_announcement_status": "url verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "AMAZON",
     "part_number": "AWSPRX_Generic",
-    "hardware_support": "2022-12-31",
+    "hardware_support": "2021-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://aws.amazon.com/marketplace/product/AWSPRX_Generic",
+    "url_to_announcement": "https://aws.amazon.com/blogs/aws-marketplace/amazon-ec2-instance-flex-support-end-of-life/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "NCS 540-ACC-SYS",
     "hardware_support": "2022-07-15",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://support.cisco.com/c/docs/product/NCS-540-ACC-SYS/179660",
+    "software_support": "2022-07-15",
+    "url_to_announcement": "https://support.cisco.com/uc/product-summary/NCS540-ACC-SYS",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
@@ -3077,166 +3077,166 @@
     "url_to_announcement": "https://www.fortinet.com/support/product-eol",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "FORTINET",
     "part_number": "FG-401F",
     "hardware_support": "2022-12-31",
-    "software_support": "2022-12-31",
-    "url_to_announcement": "https://www.fortinet.com/support/product-eol",
+    "software_support": "2023-03-31",
+    "url_to_announcement": "https://support.fortinet.com/support/product-eol-info/product-eol-info?productid=FG-401F",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "EFFICIENT_IP",
     "part_number": "SOLIDserver-1170",
-    "hardware_support": "2024-10-31",
+    "hardware_support": "2024-06-30",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.efficientip.com/news/efficientip-solidserver-1170-end-of-support/",
+    "url_to_announcement": "https://www.efficientip.com/support/product-support/solidserver-1170",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:56"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "C9300-8PX",
-    "hardware_support": "2025-05-31",
-    "software_support": "2023-10-08",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/c9300-8px/docs/general/gsb_c9300_8px_eos.html",
+    "hardware_support": "2025-06-09",
+    "software_support": "2025-06-09",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rs/docs/switches/c9300-series/docs/release/c9300_series_sw_eos_1_5_3_readme.pdf",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:21"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
     "part_number": "ciscoC68xxVirtualSwitch",
     "hardware_support": "2023-06-30",
     "software_support": "2023-06-30",
-    "url_to_announcement": "https://support.cisco.com/c/docs/product/cisco-c68xx-virtual-switch-series-software-release-notes",
+    "url_to_announcement": "https://cisco.custsupport.com/doc/c68xxvirtualswitch-eol-announcement",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:21"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "CISCO",
-    "part_number": "CISCO3925-CHASSIS",
-    "hardware_support": "2025-06-01",
-    "software_support": "2025-06-01",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/docs/product-security/security-pdfs/cisco-3925-chassis-security-pdfs.html",
+    "part_number": "3925-CHASSIS",
+    "hardware_support": "2027-06-30",
+    "software_support": "2027-06-30",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-nexus-3750-series/ios-nexus-3750-series-hw-eol-center.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:21"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
-    "part_number": "Catalyst 6500 Series Virtual Switch",
-    "hardware_support": "2024-10-08",
-    "software_support": "2024-10-08",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/rsd/catalyst-6500-series-virtual-switch-eol-notice.html",
+    "part_number": "6500 Series Virtual Switch",
+    "hardware_support": "2024-09-01",
+    "software_support": "2024-09-01",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/switches/catalyst-6500-series-virtual-switch/what-is-eos.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:21"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Linutek",
-    "part_number": "LINUX",
-    "hardware_support": "2020-07-31",
+    "part_number": "LS-220",
+    "hardware_support": "2023-12-31",
     "software_support": "no encontrada",
-    "url_to_announcement": "https://www.linutek.com/wp-content/uploads/2020/07/Linutek-EOL-Announcement.pdf",
+    "url_to_announcement": "https://www.linutek.com/products/ls-220/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:21"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Dell",
     "part_number": "EMC-0494",
-    "hardware_support": "2024-04-30",
-    "software_support": "2024-04-30",
-    "url_to_announcement": "https://www.dell.com/support/kbdoc/es-es/000227196-emc-0494-end-of-life",
+    "hardware_support": "2017-08-01",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://support.dell.com/kb/cs/en/document~PDF-EMC0494",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:21"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "IBM",
-    "part_number": "IBM xSeries 3550",
-    "hardware_support": "2017-03-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.ibm.com/support/us/en/software/hardware/xseries/x3550",
-    "statusCode": 200,
-    "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:21"
+    "part_number": "IBM X3550",
+    "hardware_support": "2023-06-30",
+    "software_support": "2023-06-30",
+    "url_to_announcement": "https://www.ibm.com/support/docs/hppg493",
+    "statusCode": 0,
+    "url_to_announcement_status": "url not verified",
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "PALO_ALTO",
-    "part_number": "M-600 Appliance",
-    "hardware_support": "2020-12-31",
-    "software_support": "2020-12-31",
-    "url_to_announcement": "https://support.paloaltonetworks.com/s/article/M-600-Appliance-End-of-Life-Announcement",
+    "vendor": "Palo Alto Networks",
+    "part_number": "M-600",
+    "hardware_support": "2022-12-31",
+    "software_support": "2023-06-30",
+    "url_to_announcement": "https://support.paloaltonetworks.com/hc/en-us/articles/220574427-M-600-Appliance-End-of-Life-Notice",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:21"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "SKYBOX",
     "part_number": "5500",
-    "hardware_support": "2020-03-31",
-    "software_support": "2020-03-31",
-    "url_to_announcement": "https://www.skyboxtech.com/skybox-appliance-5500-eol/",
+    "hardware_support": "2022-12-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.skyboxtech.com/news/skybox-5500-end-of-life/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:21"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE",
     "part_number": "Absolute Vision",
-    "hardware_support": "2024-12-31",
-    "software_support": "2024-12-31",
-    "url_to_announcement": "https://www.radware.com/newsroom/radware-ends-support-absolute-vision-products",
+    "hardware_support": "2023-12-31",
+    "software_support": "2024-03-31",
+    "url_to_announcement": "https://www.radware.com/support/product-eol-information",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:21"
+    "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "VMWARE",
-    "part_number": "VMWEM-78854-XXX",
-    "hardware_support": "no encontrada",
-    "software_support": "2023-06-30",
-    "url_to_announcement": "https://kb.vmware.com/s/knowledgebase/r/29356",
+    "vendor": "VMware",
+    "part_number": "VMWM-78854-XXX",
+    "hardware_support": "2022-07-01",
+    "software_support": "2022-07-01",
+    "url_to_announcement": "https://kb.vmware.com/s/search/VMware%20End%20of%20Life%20Products",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:00"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "HP",
     "part_number": "H89825",
-    "hardware_support": "2024-04-30",
-    "software_support": "2027-07-31",
-    "url_to_announcement": "https://support.hp.com/es-es/document/c0648289",
+    "hardware_support": "2022-06-30",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://support.hp.com/us-en/product/h89825",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:00"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "RADWARE",
     "part_number": "AbsoluteVision",
     "hardware_support": "2024-12-31",
     "software_support": "2024-12-31",
-    "url_to_announcement": "https://www.radware.com/newsroom/radware-ends-support-absolute-vision-products",
+    "url_to_announcement": "https://www.radware.com/support/product-support/absolutevision",
     "statusCode": 200,
     "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 00:00"
+    "last_checked": "2025-09-29 06:49"
   },
   {
     "vendor": "Cisco",
     "part_number": "7613",
-    "hardware_support": "2023-03-31",
-    "software_support": "2023-03-31",
-    "url_to_announcement": "https://www.cisco.com/c/en/support/product-security/ios-xe-security-advisory/168894-iosxe-security-advisory-20230306.html",
+    "hardware_support": "2020-08-31",
+    "software_support": "no encontrada",
+    "url_to_announcement": "https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosxr/7613-iosxr-software.html",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 00:00"
+    "last_checked": "2025-09-29 06:49"
   }
 ]
