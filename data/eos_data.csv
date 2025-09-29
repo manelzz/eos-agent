@@ -1,16 +1,311 @@
 part_number,vendor,hardware_support,software_support,url_to_announcement,url_to_announcement_status,last_checked,statusCode
-TE-820-NS1GRID-AC,Dell,2023-10-08,no encontrada,https://www.dell.com/support/kbdoc/es-es/000224344/tec-820-ns1grid-ac-end-of-life-announcement,url not verified,2025-09-28 23:19,0
-PA-5260,Juniper Networks,2024-06-30,2024-06-30,https://www.juniper.net/us/en/pressrelease/2023/10/juniper-networks-announces-end-of-support-for-certain-products,url not verified,2025-09-28 23:19,0
-Alteon D-7612S,Fortinet,2022-12-31,2023-03-31,https://www.fortinet.com/products/security-operations/alteon-d7612s,url not verified,2025-09-28 23:19,0
-D-6024S,Fortinet,2024-12-31,no encontrada,https://www.fortinet.com/support/product-eol,url not verified,2025-09-28 23:19,0
-AD4,Dell,2024-04-30,no encontrada,https://www.dell.com/support/kbdoc/es-es/000193305/ad4-end-of-life-announcement,url not verified,2025-09-28 23:19,0
-ALTEON AD3,Alteon Technologies,2024-06-30,no encontrada,https://www.alteontech.com/wp-content/uploads/2023/03/AD3_EOL_Announcement.pdf,url not verified,2025-09-28 23:19,0
-Alteon 3408 E,Alteon Technologies,2023-12-31,2023-12-31,https://www.alteontech.com/wp-content/uploads/2023/11/Alteon_3408E_EOL_Announcement.pdf,url not verified,2025-09-28 23:19,0
-AIR-LAP1131AG-E-K9,Lenovo,2023-03-31,2023-03-31,https://support.lenovo.com/es/en/product/air-lap1131-series/hardware-support,url not verified,2025-09-28 23:19,0
-ACS8032SAC,Analog Devices,2024-12-31,no encontrada,https://www.analog.com/en/technical-support/product-support/product-status.html#partNumber=ACS8032SAC,url not verified,2025-09-28 23:19,0
-ACS 8000,Siemens,2024-12-31,2024-12-31,https://digital.siemens.com/united-states/en/news/2023/siemens-ends-support-acs-8000-plc,url not verified,2025-09-28 23:19,0
-ACS 6032,Siemens,2024-12-31,2024-12-31,https://digital.siemens.com/global/en/support/documentation/acs-6032-end-of-life-announcement,url not verified,2025-09-28 23:19,0
-A2200,Mercedes-Benz,2021-12-31,2023-03-31,https://www.mercedes-benz.com/en/service/support/support-end-of-life,url not verified,2025-09-28 23:19,0
-1550-A,Dell,2017-08-08,no encontrada,https://www.dell.com/support/kbdoc/es-es/000109038-1550-a-end-of-life,url not verified,2025-09-28 23:19,0
-UCSC220M4,Xilinx,2024-06-30,2024-06-30,https://www.xilinx.com/products/documentation/udder/ucsc220m4-ug527.html,url verified,2025-09-28 23:19,200
-WS-C2948G,Cisco,2021-07-19,2021-07-19,https://www.cisco.com/c/en/us/support/docs/switches/cisco-ws-c2948g-series-multilayer-switches.html,url not verified,2025-09-28 23:19,0
+Model,Dell,2023-03-31,2024-03-31,https://www.dell.com/support/kbdoc/es-es/000218701/end-of-life-eol-for-inspiron-15-3552-laptop-models,url not verified,2025-09-29 00:00,0
+CISCO2911/K9,Cisco,2023-03-31,2023-03-31,https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-statements/index.html#product=2911%2FK9,url not verified,2025-09-29 00:00,0
+ME-3400EG-2CS-A,CISCO,2022-08-31,2022-08-31,https://www.cisco.com/c/en/support/product-security/cisco-security-postings/index.html#product-view=ME-3400EG-2CS-A.html,url not verified,2025-09-29 00:00,0
+ISR4331-AX/K9,CISCO,2024-10-03,2024-10-03,https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-statements/index.html#product-details-table=ISR4331-AX-K9,url not verified,2025-09-29 00:00,0
+ASR-920-12CZ-A,CISCO,2024-10-03,2024-10-03,https://www.cisco.com/c/en/us/support/docs/switches/asr-9200-series/17826-asr-9200-series-hardware-end-of-support-dates.html,url not verified,2025-09-29 00:00,0
+VS-C6509VE-S72010G,Cisco,2024-07-17,2024-07-17,https://www.cisco.com/c/en/us/support/rs/docs/security/defense-services/vs-c6509ve-s72010g-eol-notice.html,url not verified,2025-09-29 00:00,0
+C9300-8PX,Cisco,2025-05-31,2024-10-01,https://cisco.com/web/support/docs/datasheets/c9300-8px-ds.html,url not verified,2025-09-29 00:00,0
+WS-SVC-NAM-2-250S,CISCO,2024-09-30,no encontrada,https://www.cisco.com/c/en/us/support/product-licensing/cisco-wscl-wscl-plus-software-licensing-module-wscl.html,url not verified,2025-09-29 00:00,0
+WS-C6509-V-E,Cisco,2021-03-31,2021-03-31,https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-list.html#a_25441,url not verified,2025-09-29 00:00,0
+WS-C3750X-24T-S,Cisco,2024-10-03,2024-10-03,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c3750x-series/docs/release/notes/ws_c3750x_eol.html,url not verified,2025-09-29 00:00,0
+CPAP-SM3050,Checkpoint,2020-12-31,2020-12-31,https://www.checkpoint.com/support/product-support/product-status,url not verified,2025-09-29 00:00,0
+IP690,CHECKPOINT - NOKIA,2020-12-31,2020-12-31,https://www.nokia.com/news/2020/06/nokia-ip690-next-generation-protection-against-harsh-environments/,url not verified,2025-09-29 00:00,0
+IB-2220,INFOBLOX,2022-12-31,2022-12-31,https://www.infoblox.com/en/support/product-support/ib-2220,url not verified,2025-09-29 00:00,0
+IB-1400,INFOBLOX,2021-12-31,2021-12-31,https://www.infoblox.com/support/ib-1400-end-of-life/,url not verified,2025-09-29 00:00,0
+CPAP-SG23800-NGTX-HPP,CHECKPOINT,2021-12-31,no encontrada,https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00003629,url not verified,2025-09-29 00:00,0
+CPAP-SM3150-EVNT,Checkpoint,2021-12-31,2021-12-31,https://support.checkpoint.com/support/downloads/download-details/CPAP-SM3150-EVNT,url not verified,2025-09-29 00:00,0
+CPAP-NGSM5150-EVNT,Checkpoint,2022-03-31,no encontrada,https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=000038458,url not verified,2025-09-29 00:00,0
+IP2450,CHECKPOINT - NOKIA,2020-07-31,2020-07-31,https://support.checkpoint.com/support/downloads/product-support-download/ip2450-end-of-life-announcement,url not verified,2025-09-29 00:00,0
+VL,RADWARE,2024-12-31,2024-12-31,https://www.radware.com/support/product-eol,url verified,2025-09-29 00:00,200
+ciscoC68xxVirtualSwitch,CISCO,2023-09-30,2024-03-31,https://cisco.custhelp.com/app/answers/detail/a_id/135856,url not verified,2025-09-29 00:00,0
+C6807-XL-S6T-BUN,CISCO,2024-01-31,no encontrada,https://www.cisco.com/c/en/us/support/product-licensing/ios-xe-image-support-eol-list.html,url not verified,2025-09-29 00:00,0
+CSACS-1120,CISCO,2022-03-31,no encontrada,https://www.cisco.com/c/en/us/support/products/switches/cisco-nexus-series-switches/csacs-1120.html,url not verified,2025-09-29 00:00,0
+ASA5520,CISCO,2025-06-30,2025-06-30,https://www.cisco.com/c/en/us/support/docs/security/asa-5520-series/release-notes-asa5520-12-3.html,url not verified,2025-09-29 00:00,0
+ASA5540,CISCO,2026-06-30,2026-06-30,https://cisco.custsupport.com/doc/83685,url not verified,2025-09-29 00:00,0
+ASA5585-SSP-20,CISCO,2024-06-07,2024-06-07,https://cisco.custsupport.com/doc/ASA5585-SSP-20,url not verified,2025-09-29 00:00,0
+SNS-3495-K9,CISCO,2022-03-31,2022-03-31,https://www.cisco.com/c/en/us/support/product-responsive-pages/sns-3495-k9-support.html,url not verified,2025-09-29 00:00,0
+WS-C3750G-24TS-S,Cisco,2021-08-31,2021-08-31,https://www.cisco.com/c/en/us/support/rsync/index.html#product-details-WS-C3750G-24TS-S.html,url not verified,2025-09-29 00:00,0
+WS-C3750X-48T-S,Cisco,2024-09-30,2024-09-30,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c3750x-series/docs/release/r38-sw-ls-sysconfig.html,url not verified,2025-09-29 00:00,0
+ASR1001,CISCO,2020-03-31,2020-03-31,https://cisco.custhelp.com/app/answers/detail/a_id/11544,url not verified,2025-09-29 00:00,0
+ASR-9010-AC,CISCO,2024-10-31,2024-10-31,https://www.cisco.com/c/en/us/support/rs-series-routers/asr-9010-ac-series/product-support-updates.html,url not verified,2025-09-29 00:00,0
+ASA5585-SSP-40-SC,CISCO,2022-07-15,2022-07-15,https://cisco.custhelp.com/app/answers/detail/a_id/14617,url not verified,2025-09-29 00:00,0
+apNetNet3820,ACME,2020-12-31,no encontrada,https://www.acme.com/support/product-support/apnetnet3820,url not verified,2025-09-29 00:00,0
+3925-CHAS,Cisco,2025-06-01,2025-06-01,https://www.cisco.com/c/en/us/support/tsd/cs_eos_3925_chassis.html,url not verified,2025-09-29 00:00,0
+N7K-C7010-BUN-R,CISCO,2022-03-31,no encontrada,https://www.cisco.com/c/en/us/support/rsd/maintenance-window/n7k-c7010-bun-r-maintenance-window.html,url not verified,2025-09-29 00:00,0
+N7K-C7010,CISCO,2023-06-30,no encontrada,https://www.cisco.com/c/en/us/support/rs/docs/security/ios-xe/ios-xe-7-3/release_notes/release_note_iosxe_73_c7010.html,url not verified,2025-09-29 00:00,0
+N9K-C92160YCX-BUN,CISCO,2024-10-03,2024-10-03,https://cisco.com/web/support/docs/product_docs/ios-xe/n900-series-universalkvm-switches/n9k-c92160ycx-bun.html,url not verified,2025-09-29 00:00,0
+ASA5580-40,Cisco,2022-03-31,2024-03-31,https://www.cisco.com/web/support/docs/product/asa/asa5580-series/eos_asa5580_series.html,url not verified,2025-09-29 00:00,0
+ODS3,RADWARE,2023-12-31,2023-12-31,https://www.radware.com/support/product-eol,url verified,2025-09-29 00:00,200
+WS-C3750E-24TD-E,CISCO,2021-03-31,2021-03-31,https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-statements/index.html#pdf-viewer,url not verified,2025-09-29 00:00,0
+Catalyst 6500 Series Virtual Switch,Cisco,2024-10-08,2024-10-08,https://www.cisco.com/c/en/us/support/docs/product-security/catalyst-6500-series-virtual-switch-security-advices.html,url not verified,2025-09-29 00:00,0
+WS-C6509-E,Cisco,2020-06-30,2020-06-30,https://www.cisco.com/c/en/us/support/rs/docs/io/iosxe/ips/ws-c6509-e-switches/release_notes-15-3M.html,url not verified,2025-09-29 00:00,0
+ASR-9010-TH-BUN,CISCO,2024-10-03,2024-10-03,https://www.cisco.com/c/en/us/support/rs/docs/asr/9000/software/18-6-4-sw-release-notes.html,url not verified,2025-09-29 00:00,0
+N9K-C93180YC-EX,CISCO,2024-10-03,2024-10-03,https://cisco.custhelp.com/app/answers/detail/a_html/N9K-C93180YC-EX-Hardware-Support,url not verified,2025-09-29 00:00,0
+N9K-C93180YC-EX-B,CISCO,2024-10-03,2024-10-03,https://cisco.com/web/support/docs/product_security/a-a-planning/n9k-c93180yc-ex-b-security-bulletin.html,url not verified,2025-09-29 00:00,0
+SGT-14-HW-B4-8X10GE,ALLOT,2022-06-30,no encontrada,https://www.allot.com/support/product-support/sgs-series,url not verified,2025-09-29 00:00,0
+PA-7050,Palo Alto Networks,2022-06-30,2022-06-30,https://support.paloaltonetworks.com/hc/en-us/articles/4418937678147-PA-7050-End-of-Life-Announcement,url verified,2025-09-29 00:00,200
+PT-4000,INFOBLOX,2020-12-31,2020-12-31,https://www.infoblox.com/support/product-support/pt4000,url not verified,2025-09-29 00:00,0
+SG-S200 Series,BLUECOAT,2023-12-31,2023-12-31,https://www.bluecoat.com/products/sg-s200-series/,url verified,2025-09-29 00:00,200
+WS-C2960G-24TC-L,CISCO,2020-03-31,no encontrada,https://www.cisco.com/web/support/docs/switches/cisco_2960_series/rel2.html,url not verified,2025-09-29 00:00,0
+WS-C2960G-48TC-L,CISCO,2025-06-30,2025-06-30,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2960-series-switches/docs/release/rs-ws-c2960g-48tc-l-readme-1.pdf,url not verified,2025-09-29 00:00,0
+WS-C3750G-24T-S,Cisco,2022-08-03,no encontrada,https://www.cisco.com/c/en/us/support/rsync/index.html#support-announcements,url not verified,2025-09-29 00:00,0
+WS-SVC-FWM-1-K9,CISCO,2024-06-30,no encontrada,https://support.cisco.com/cisco/product/ws-svc-fwm-1-k9,url not verified,2025-09-29 00:00,0
+N5K-C5548P,CISCO,2024-06-30,2024-06-30,https://cisco.custsupport.com/doc/N5K-C5548P,url not verified,2025-09-29 00:00,0
+N2K-C2248TP-1GE,CISCO,2024-07-31,no encontrada,https://support.cisco.com/c/docs/product/N2K-C2248TP-1GE,url not verified,2025-09-29 00:00,0
+WS-C2350-48TD-S,Cisco,2020-07-16,2020-07-16,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2350-series/docs/release/ws-c2350-48td-s-readme-v1-1.html,url not verified,2025-09-29 00:00,0
+WS-C3750G-48TS-E,Cisco,2024-10-03,no encontrada,https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-list/index.html#model=WS-C3750G-48TS-E.html,url not verified,2025-09-29 00:00,0
+WS-C6509,CISCO,2024-07-01,2024-07-01,https://cisco.com/web/support/docs/product_files/iosxe_6509_series_sw_eol_20240701.pdf,url not verified,2025-09-29 00:00,0
+Cat4507,CISCO,2024-01-31,2024-01-31,https://cisco.custsupport.com/doc/8535,url not verified,2025-09-29 00:00,0
+WsC4500x16,Cisco,2024-01-31,2024-01-31,https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosml/cws4500x-series/whats-new/ws_c4500x_eol.html,url not verified,2025-09-29 00:00,0
+UCSC220M4,CISCO,2023-10-31,no encontrada,https://www.cisco.com/c/en/us/support/index.html,url verified,2025-09-29 00:00,200
+WS-CBS3110G-S-I,CISCO,2021-12-31,no encontrada,https://www.cisco.com/c/en/us/support/products/switches/cbs3100-series-series/whats-new/hw_eol_jan2021.html,url not verified,2025-09-29 00:00,0
+ACS16,AVOCENT - AVOCENT-CYCLADES,2022-12-31,2023-03-31,https://www.avocent.com/products/avocent-cyclades/acs16,url not verified,2025-09-29 00:00,0
+ACS 6032,HP,2022-06-30,2022-06-30,https://support.hp.com/us-en/document/c0676314,url not verified,2025-09-29 00:00,0
+Vision Server,RADWARE,2027-12-31,2024-10-31,https://www.radware.com/support/product-support/vision-server,url verified,2025-09-29 00:00,200
+STC-NX-GEN5,ALLOT,2027-12-31,2027-12-31,https://www.allot.com/products/stc-nx-gen5/,url not verified,2025-09-29 00:00,0
+VMWEM-78854-XXX,VMWARE,no encontrada,2023-06-30,https://kb.vmware.com/s/knowledgebase/r/29356,url not verified,2025-09-29 00:00,0
+SNX-WIN-3(NetXplorer SW Lic ),ALLOT,no encontrada,2024-12-31,https://www.allot.com/products/netexplorer-sw,url not verified,2025-09-29 00:00,0
+LINUX,Linx Technologies,2020-12-31,2023-06-30,https://www.linxtech.com/wp-content/uploads/2023/03/EOL-LINUX.pdf,url not verified,2025-09-29 00:00,0
+H89825,HP,2024-04-30,2027-07-31,https://support.hp.com/es-es/document/c0648289,url not verified,2025-09-29 00:00,0
+PAN-PRA-25,PALO_ALTO,2024-06-30,no encontrada,https://community.paloaltonetworks.com/t5/product-support-pan-os/pan-pra-25-end-of-support-announcement/td-p/161775,url not verified,2025-09-29 00:00,0
+Netcordia,INFOBLOX,2024-12-31,2024-12-31,https://www.infoblox.com/en/support/product-support/netcordia,url not verified,2025-09-29 00:00,0
+CPAP-SG12600-NGFW,CHECKPOINT,2020-06-30,2020-06-30,https://support.checkpoint.com/support/swdes/legacy/1775703862_CPAP-SG12600-NGFW,url not verified,2025-09-29 00:00,0
+ASR1002-F,CISCO,2022-06-08,no encontrada,https://www.cisco.com/web/support/docs/product/asr1002-f/releases/18-2%20ReleaseNotes.pdf,url not verified,2025-09-29 00:00,0
+Cisco-VM-SPID,CISCO,2023-06-30,no encontrada,https://www.cisco.com/c/en/us/support/docs/product-files/cisco-vm-spid-product-overview.html,url not verified,2025-09-29 00:00,0
+Netshark 6170,RIVERBED,2020-06-30,2020-06-30,https://www.riverbed.com/wp-content/uploads/2020/06/Netshark_6170_EOL_Notice.pdf,url not verified,2025-09-29 00:00,0
+SCAN-SU-48TB,Riverbed Technology,2020-06-30,2020-06-30,https://www.riverbed.com/wp-content/uploads/2020/06/Riverbed-End-of-Life-June-2020.pdf,url not verified,2025-09-29 00:00,0
+SCAN-SU-72TB,RIVERBED,2021-03-31,2021-03-31,https://www.riverbed.com/support/product-support/product-eol-matrix,url not verified,2025-09-29 00:00,0
+FPR2130-ASA-K9,CISCO,2021-03-31,2021-03-31,https://support.cisco.com/c/docs/product/ASA-5500-SERIES/1898/assets/1898-asa-5500-series-end-of-support-details.pdf,url not verified,2025-09-29 00:00,0
+FMC4500-K9,CISCO,2024-06-30,2024-06-30,https://www.cisco.com/c/en/us/support/docs/product-security/security-pdfs/FMC4500-K9-security-pdfs.html,url not verified,2025-09-29 00:00,0
+FPR-CH-9300-AC,CISCO,2022-07-01,no encontrada,https://www.cisco.com/c/en/us/support/docs/server-solutions/cisco-hyperconverged-infrastructure/fpr-ch-9300-ac.html,url not verified,2025-09-29 00:00,0
+N9K-C93180YC-FX,Cisco,2024-07-31,2024-07-31,https://www.cisco.com/c/en/us/support/index.html,url verified,2025-09-29 00:00,200
+CPAP-64A-2S2G28,Checkpoint,2020-12-31,2020-12-31,https://www.checkpoint.com/products/cpap-64a-2s2g28,url not verified,2025-09-29 00:00,0
+IB-4010-NS1GRID-AC,INFOBLOX,2022-12-31,no encontrada,https://www.infoblox.com/support/product-support/ib-4010-ns1grid-ac,url not verified,2025-09-29 00:00,0
+IB-4010-R2-NS1GRID-AC,INFOBLOX,2022-12-31,no encontrada,https://www.infoblox.com/support/products/ib-4010-r2-ns1grid-ac,url not verified,2025-09-29 00:00,0
+TE-2220-NS1GRID-AC,INFOBLOX,2022-12-31,no encontrada,https://www.infoblox.com/support/product-eol,url not verified,2025-09-29 00:00,0
+TR-2200-10GB-AC,INFOBLOX,2022-12-31,2022-12-31,https://www.infoblox.com/support/product-support/product-eol/,url not verified,2025-09-29 00:00,0
+TE-820-NS1GRID-AC,INFOBLOX,2022-12-31,no encontrada,https://www.infoblox.com/wp-content/uploads/2022/10/TE-820-NS1GRID-AC-EOL-Notice.pdf,url not verified,2025-09-29 00:00,0
+FPR-4120-K9,CISCO,2024-01-31,no encontrada,https://www.cisco.com/c/en/us/support/docs/server-solutions/cisco-server-fs-series/4120-k9-eol-notice.html,url not verified,2025-09-29 00:00,0
+SNS-3595-K9,CISCO,2022-09-30,no encontrada,https://www.cisco.com/c/en/us/support/docs/product-security/security-notes/ns-3595-k9-security-note.html,url not verified,2025-09-29 00:00,0
+F5-BIG-LTM-I4600,F5 Networks,2024-06-30,2024-06-30,https://dev.f5.com/support/legal/lifecycle.jsp?product=F5-BIG-LTM-I4600,url not verified,2025-09-29 00:00,0
+Sense Model,CISCO,2024-06-30,2024-06-30,https://tools.cisco.com/doc/sense_model/sense_model_eol_announcement,url not verified,2025-09-29 00:00,0
+IP2255,CHECKPOINT - NOKIA,2018-12-31,2023-06-30,https://support.checkpoint.com/support/downloads/product-support-status/product-support-status?productID=1163,url not verified,2025-09-29 00:00,0
+ProxySG 510 Series,BLUECOAT,2024-12-31,2024-12-31,https://www.bluecoat.com/end-of-support,url verified,2025-09-29 00:00,200
+IB-1552-A,INFOBLOX,2020-07-31,2020-07-31,https://www.infoblox.com/products/ib-1552-a,url not verified,2025-09-29 00:00,0
+PA-200,Palo Alto Networks,2023-03-31,2023-03-31,https://support.paloaltonetworks.com/hc/en-us/articles/44181808-PA-200-End-of-Life-Announcement,url verified,2025-09-29 00:00,200
+WS-C3750G-48TS-S,Cisco,2020-03-31,2020-03-31,https://cisco.custsupport.com/doc/86108-ws-c3750g-48ts-s-end-of-support-announcement,url not verified,2025-09-29 00:00,0
+CPAP-IP695-D-AC,Checkpoint,2021-12-31,2021-12-31,https://www.checkpoint.com/support/product-support/product-eol-list,url not verified,2025-09-29 00:00,0
+ASR9006,CISCO,2024-10-08,2024-10-08,https://www.cisco.com/c/en/us/support/rs/docs/asr/asr9006/release_notes/rsn_asr9006_18_2_sp.html,url not verified,2025-09-29 00:00,0
+WS-C6513,Cisco,2024-10-08,2024-10-08,https://www.cisco.com/c/en/us/support/docs/product-security/security-pdfs/ws-c6513-security-pdf.html,url not verified,2025-09-29 00:00,0
+IBM xSeries 3550,IBM,2019-03-31,2019-03-31,https://www.ibm.com/support/intelligence/products/xseries/3550,url not verified,2025-09-29 00:00,0
+FPR4K-SM-24,Cisco,2023-06-30,no encontrada,https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosml/firepower-threat-defense/release-notes-firepower-threat-defense-fdr-360-380-series-fdr-400-series.html,url not verified,2025-09-29 00:00,0
+HX-FI-6332-16UP,CISCO,2022-03-31,no encontrada,https://support.cisco.com/cisco-support/c/a/product_end_of_life?productGroup=HX-FI-6332-16UP,url not verified,2025-09-29 00:00,0
+HXAF240C-M5SX,CISCO,2024-01-31,2024-01-31,https://www.cisco.com/c/en/support/product-responsive-pages/hxaf240c-m5sx-end-of-life.html,url not verified,2025-09-29 00:00,0
+SDS-1100-DDI,EFFICIENT_IP,2022-12-31,no encontrada,https://www.efficientip.com/news/efficientip-announces-end-of-support-for-sds-1100-ddi,url not verified,2025-09-29 00:00,0
+DNS-CLOUD,INFOBLOX,2022-12-31,2023-03-31,https://www.infoblox.com/support/product-eol,url not verified,2025-09-29 00:00,0
+FPR9K-SM-36,CISCO,2024-01-31,no encontrada,https://support.cisco.com/c/docs/product/cisco-firepower-threat-defense-security-management-system-fdr-series,url not verified,2025-09-29 00:00,0
+M-600 Appliance,PALO_ALTO,2020-03-31,2020-03-31,https://support.paloaltonetworks.com/s/article/M-600-Appliance-End-of-Life-Announcement,url verified,2025-09-29 00:00,200
+System x3650 M5,IBM,2023-10-31,no encontrada,https://www.ibm.com/support/docs/hppss/us/en/software/hppss/iseries/v85/hw-eol-202310,url not verified,2025-09-29 00:00,0
+PA-7080,PALO_ALTO,2023-12-31,2023-12-31,https://support.paloaltonetworks.com/hc/en-us/articles/220424627-PA-7080-End-of-Life-Notice,url verified,2025-09-29 00:00,200
+TE-1405-HW-AC-B,INFOBLOX,2021-12-31,no encontrada,https://www.infoblox.com/support/eol-info/,url not verified,2025-09-29 00:00,0
+FMC4600-K9,CISCO,2023-03-31,2023-03-31,https://www.cisco.com/c/en/us/support/products/ios-xe-firepower-services-platform/ios-xe-firepower-services-platform-4600-series/release-notes-4600-series.html,url not verified,2025-09-29 00:00,0
+Alteon D-6024S,RADWARE,2024-10-31,2024-10-31,https://www.radware.com/products/alteon-series/alteon-d-6024s,url verified,2025-09-29 00:00,200
+IP560,CHECKPOINT - NOKIA,2020-06-30,2020-06-30,https://support.checkpoint.com/support/downloads/release-notes/ip560-firmware-release-notes-v1-2-1,url not verified,2025-09-29 00:00,0
+FPR9K-SM-44,CISCO,2022-07-01,no encontrada,https://www.cisco.com/c/en/us/support/rsync/cisco-firepower-threat-defense-series-support.html,url not verified,2025-09-29 00:00,0
+ISR4431-AX/K9,CISCO,2023-06-30,2023-06-30,https://www.cisco.com/c/en/us/support/rsd/index.html,url not verified,2025-09-29 00:00,0
+5500,SKYBOX,2020-06-30,2020-06-30,https://www.skyboxtech.com/wp-content/uploads/2020/06/Skybox_EOL_Announcement.pdf,url not verified,2025-09-29 00:00,0
+AbsoluteVision,RADWARE,2024-12-31,2024-12-31,https://www.radware.com/newsroom/radware-ends-support-absolute-vision-products,url verified,2025-09-29 00:00,200
+TG5504-K9,CISCO,2020-08-31,2020-08-31,https://www.cisco.com/web/support/docs/product_files/tg5504_k9_eol_20200831.pdf,url not verified,2025-09-29 00:00,0
+UCSC-C220-M5SX,Cisco,2024-06-30,no encontrada,https://www.cisco.com/c/en/us/support/rsd/cuc-series/ucs-c220-m5sx-hardware-end-of-life.html,url not verified,2025-09-29 00:00,0
+FPR9K-SM-24,CISCO,2022-06-30,no encontrada,https://www.cisco.com/c/en/us/support/rs/docs/security/server/spc/fpr9k-sm-24-eol-announcement.html,url not verified,2025-09-29 00:00,0
+UCS-S3260-M5SRB,CISCO,2024-08-31,2024-08-31,https://www.cisco.com/c/en/us/support/docs/switches/ucs_s3260_series/17917/17917-eos-ucs-s3260-series.html,url not verified,2025-09-29 00:00,0
+UCSC-C240-M5SX-CH,CISCO,2024-01-31,no encontrada,https://support.cisco.com/c/docs/product/UCSC-C240-M5SX-CH-Software-Release-Notes,url not verified,2025-09-29 00:00,0
+SGT-PS-AC,ALLOT,2024-12-31,no encontrada,https://www.allot.com/support/product-eol-notice/,url not verified,2025-09-29 00:00,0
+SG-BP-EXT-8P-MM,ALLOT,2023-12-31,no encontrada,https://www.allot.com/products/sg-bp-ext-8p-mm,url not verified,2025-09-29 00:00,0
+SG-BYPS-EXT-16P-MM-A,ALLOT,2022-12-31,no encontrada,https://www.allot.com/products/sg-byps-ext-16p-mm-a,url not verified,2025-09-29 00:00,0
+UCSS-S3260,CISCO,2024-01-31,2024-01-31,https://www.cisco.com/c/en/us/support/products/switches/ucs3260-series-switches/whats-new-release-notes-ccx-3260-series.html,url not verified,2025-09-29 00:00,0
+ASAv,Cisco,2025-08-31,2025-08-31,https://www.cisco.com/c/en/support/docs/unified-session-control/asav-software-release-notes-1-6-release-notes.html,url not verified,2025-09-29 00:00,0
+ISE-VM-K9,Cisco,2024-06-30,2024-06-30,https://www.cisco.com/c/en/us/support/rsync/index.html,url not verified,2025-09-29 00:00,0
+UCSC-C480-M5,CISCO,2024-01-31,no encontrada,https://www.cisco.com/c/en/us/support/docs/security/ucs-c480-m5/c480m5-end-of-support.html,url not verified,2025-09-29 00:00,0
+GVS-HC2A1,GIGAMON,2024-12-31,no encontrada,https://www.gigamon.com/support/product-eol-dates,url not verified,2025-09-29 00:00,0
+STCTLVM,CISCO,2023-06-30,2023-06-30,https://www.cisco.com/c/en/us/support/tsd/docs/product-files/switch-stctlvm-sw-software-release-notes-1-2.html,url not verified,2025-09-29 00:00,0
+CPAP-MHO-140,Checkpoint Systems,2020-07-31,no encontrada,https://support.checkpoint.com/support/s/article/CPAP-MHO-140-End-of-Life-Notice,url not verified,2025-09-29 00:00,0
+CPAP-23800-HPP,Checkpoint,2021-12-31,2021-12-31,https://support.checkpoint.com/support/downloads/download-details/cpap-23800-hpp-end-of-support-announcement,url not verified,2025-09-29 00:00,0
+CPAP-SG26000-PLUS-SNBT,CHECKPOINT,2022-03-03,no encontrada,https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00003746,url not verified,2025-09-29 00:00,0
+GigaVUE-FM,GIGAMON,2023-12-31,2023-12-31,https://www.gigamon.com/support/eol-notice/,url not verified,2025-09-29 00:00,0
+SG510-5,BLUECOAT,2024-12-31,2024-12-31,https://www.bluecoat.com/products/proxy-sg/,url verified,2025-09-29 00:00,200
+WS-C2960S-F48LPS-L,Cisco,2021-08-31,2021-08-31,https://www.cisco.com/c/en/us/support/switches/cisco-nx-series-switches/general-support-nx-series-switches.html,url not verified,2025-09-29 00:00,0
+800-1,BLUECOAT,2024-12-31,2024-12-31,https://www.bluecoat.com/products/proxy-sg/,url verified,2025-09-29 00:00,200
+WS-C3560G-48TS-S,CISCO,2020-09-30,2020-09-30,https://www.cisco.com/c/en/us/support/rsync/index.html,url not verified,2025-09-29 00:00,0
+WS-C3550-12G,CISCO,2020-08-31,2020-08-31,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c3550-series/docs/release/notes/ws_c3550_12g_eos_release_note.html,url not verified,2025-09-29 00:00,0
+WS-C3524-XL-EN,CISCO,2020-06-30,2020-06-30,https://www.cisco.com/c/en/us/support/product-support/sw-releases/ccwa-3524-xl-en-sw-release-notes.html,url not verified,2025-09-29 00:00,0
+CISCO2620,Cisco,2025-06-30,2025-06-30,https://www.cisco.com/c/en/us/support/rs/docs/security/cisco-firepower-threat-defense/firepower-2620-eol-announcement.html,url not verified,2025-09-29 00:00,0
+WS-C2948G,Cisco,2021-03-31,2021-03-31,https://www.cisco.com/web/support/docs/launch/187463/ws-c2948g-sw-software-release-notes-1_1,url not verified,2025-09-29 00:00,0
+WS-C3750G-24TS-S1U,Cisco,2022-08-31,2022-08-31,https://www.cisco.com/c/en/us/support/rsync/index.html#support-announcements,url not verified,2025-09-29 00:00,0
+1550-A,INFOBLOX,2021-12-31,2021-12-31,https://www.infoblox.com/en/support/product-support/product-eol-info,url not verified,2025-09-29 00:00,0
+WS-C6503-E,CISCO,2023-06-30,2023-06-30,https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-statements/cw6503-e-maintenance-eol-statement.html,url not verified,2025-09-29 00:00,0
+ODS1,RADWARE,2024-06-30,2024-06-30,https://www.radware.com/support/product-support/ods,url verified,2025-09-29 00:00,200
+CISCO2901-SEC/K9,Cisco,2023-08-31,2023-08-31,https://www.cisco.com/c/en/us/support/products/switches/cisco-2901-series-multilayer-security-switch/eol-center.html,url not verified,2025-09-29 00:00,0
+VS-C6509E-S720-10G,CISCO,2024-10-03,2024-10-03,https://support.cisco.com/cisco-support/c/a/product_retirement,url not verified,2025-09-29 00:00,0
+PowerEdge R710,Dell,2023-10-31,no encontrada,https://www.dell.com/support/kbdoc/es-es/000187940/poweredge-r710-end-of-life-announcement,url not verified,2025-09-29 00:00,0
+Alteon 3408 E,RADWARE,2022-12-31,2023-06-30,https://www.radware.com/support/product-support/alteon-3408-e,url verified,2025-09-29 00:00,200
+SUNFIRE V100,Sun Microsystems,2023-03-31,2023-03-31,https://www.dell.com/support/kbdoc/es-es/000137618/sunfire-v100-end-of-life-announcement,url not verified,2025-09-29 00:00,0
+PACKETEER 8500 series,PACKETWISE,2024-12-31,2024-12-31,https://www.packetwise.com/wp-content/uploads/2023/08/PACKETEER-8500-Series-EOL-Notice.pdf,url not verified,2025-09-29 00:00,0
+PACKETEER 10000 series,PACKETWISE,2024-10-31,2024-10-31,https://www.packetwise.com/end-of-life,url not verified,2025-09-29 00:00,0
+ALTEON AD3,RADWARE,2020-06-30,2020-06-30,https://www.radware.com/products/altion-ad3,url verified,2025-09-29 00:00,200
+ALTEON AD4,RADWARE,2020-06-30,2020-06-30,https://www.radware.com/wp-content/uploads/2020/03/RADWARE_EOL_ALTEON_AD4_Hardware_Software.pdf,url verified,2025-09-29 00:00,200
+DL380 G6,HP,2028-07-31,2027-07-31,https://support.hp.com/es-es/product/hp-proliant-gen6-dl380-g6/hardware-and-drivers,url not verified,2025-09-29 00:00,0
+FG-1500D,FORTINET,2024-12-31,2024-12-31,https://support.fortinet.com/ts/en/support-solaris-firewall-products/fg-1500d,url not verified,2025-09-29 00:00,0
+FMG-300F,FORTINET,2022-12-31,2022-12-31,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+FAZ-1000E,FORTINET,2024-06-30,2024-06-30,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+FG-2201E,FORTINET,2021-12-31,2021-12-31,https://support.fortinet.com/ts/en/support-solaris-firewall-products/product-discontinuation,url not verified,2025-09-29 00:00,0
+DL360 G7,HP,2035-07-31,2033-07-31,https://support.hp.com/es-es/product/hp-proliant-gen7-servers-dl360-g7/hardware-maintenance-manual,url not verified,2025-09-29 00:00,0
+ASR1002-HX,Cisco,2023-08-18,2024-08-18,https://www.cisco.com/c/en/support/product-responsive-pages/asr1002-hx-end-of-life.html,url not verified,2025-09-29 00:00,0
+DefensePro 110-40S,RADWARE,2020-12-31,2020-12-31,https://www.radware.com/products/defensepro/defensepro-110-40s,url verified,2025-09-29 00:00,200
+N9K-C93240YC-FX2,Cisco,2024-10-08,no encontrada,https://www.cisco.com/c/en/us/support/docs/routers-nwds/n9k-series/17-1-1/n9k-c93240yc-fx2-end-of-support-announcement.html,url not verified,2025-09-29 00:00,0
+869121-B21,HP,2027-07-31,2027-07-31,https://www.hp.com/us-en/support/hardware-troubleshooting/result?q=869121-B21,url not verified,2025-09-29 00:00,0
+JZ508A,ARUBA,2024-12-31,2024-12-31,https://www.arubacenter.com/en/support/product-eol-information,url verified,2025-09-29 00:00,200
+C8500-12X,Cisco,2022-03-31,2022-03-31,https://www.cisco.com/c/en/us/support/products/switches/c8500-series-switches/what-changes-c8500-series.html,url not verified,2025-09-29 00:00,0
+UCS C200 M1,CISCO,2024-09-30,2024-09-30,https://www.cisco.com/c/en/us/support/rsd/cisco-uc-series-ucs-switches-eol-center.html,url not verified,2025-09-29 00:00,0
+7613,Cisco,2023-03-31,2023-03-31,https://www.cisco.com/c/en/support/product-security/ios-xe-security-advisory/168894-iosxe-security-advisory-20230306.html,url not verified,2025-09-29 00:00,0
+WS-C4507R,Cisco,2021-03-31,2021-03-31,https://www.cisco.com/c/en/us/support/rs/docs/switches/c4507r/eos_date_ws-c4507r.html,url not verified,2025-09-29 00:00,0
+CSACSE-1112-K9,CISCO,2023-06-30,no encontrada,https://www.cisco.com/c/en/us/support/products/ias-express/ias-express-csacse-1112-k9.html,url not verified,2025-09-29 00:00,0
+SUNFIRE V480,Sun Microsystems,2018-08-31,2018-08-31,https://support.solarwinds.com/s/case/0000000281094459855,url not verified,2025-09-29 00:00,0
+DL380 G5,HP,2028-03-31,2027-03-31,https://support.hp.com/es-es/product/hp-proliant-gen10-server-dl380-g5/hardware-and-drivers,url not verified,2025-09-29 00:00,0
+WS-C2970G-24T-E,Cisco,2024-10-31,2024-10-31,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2970g-series/docs/release/rel-notes-ws-c2970g-series-15.html,url not verified,2025-09-29 00:00,0
+WS-C2950T-24,Cisco,2020-06-30,2020-06-30,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2950t-series/docs/release/rel-ws-c2950t-series-17-2-1.html,url not verified,2025-09-29 00:00,0
+WS-C3750G-12S-S,Cisco,2021-03-31,2021-03-31,https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-statements/index.html#product=WS-C3750G-12S-S.html,url not verified,2025-09-29 00:00,0
+WS-C2950G-48-EI,Cisco,2020-06-30,2020-06-30,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2950-series-switches/docs/release/c2950_rs_eos_8366.html,url not verified,2025-09-29 00:00,0
+WS-C3550-12T,Cisco,2020-03-31,2020-03-31,https://www.cisco.com/web/support/docs/switches/cisco_ws-c3550-series/17.6.2_sw_eos.html,url not verified,2025-09-29 00:00,0
+WS-C6504-E,CISCO,2025-06-03,2025-06-03,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-wsx-6500-series/docs/release/6504_eos_release.html,url not verified,2025-09-29 00:00,0
+DUO-CLOUD,CISCO,2023-09-30,no encontrada,https://www.cisco.com/c/en/support/product-downloads/duo-cloud-product-support.html,url not verified,2025-09-29 00:00,0
+AIR-LAP1131AG-E-K9,CISCO,2021-08-31,2021-08-31,https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosxr/ios-xe-firmware-updates-and-updates-bulletin-list.html,url not verified,2025-09-29 00:00,0
+WS-C2924-XL,Cisco,2020-07-05,2020-07-05,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2924-xl/docs/general/gen_2924xl_eol.html,url not verified,2025-09-29 00:00,0
+WS-C1924F-A,Cisco,2020-05-31,2020-05-31,https://www.cisco.com/c/en/us/support/rsd/maintenance-switches/ws-c1924f-a-support-index.html,url not verified,2025-09-29 00:00,0
+WS-C1924-EN,CISCO,2022-07-13,2022-07-13,https://cisco.com/web/docs/release/c1924_eol,url not verified,2025-09-29 00:00,0
+WS-C2960-24-S,CISCO,2024-06-30,no encontrada,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2960-series-switches/docs/release/rs-ws-c2960-24-s-readme-v1.pdf,url not verified,2025-09-29 00:00,0
+WS-C2960-24TT-L,Cisco,2024-09-30,no encontrada,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2960-series/docs/release/r3687_c2960_sw_ops_guide_1.pdf,url not verified,2025-09-29 00:00,0
+WS-C2924M-XL-EN,Cisco,2021-08-31,no encontrada,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2924m-series/eos-ws-c2924m-series.html,url not verified,2025-09-29 00:00,0
+WS-C2950-24,Cisco,2020-06-30,2020-06-30,https://cisco.com/web/docs/release/c2950_sw_eos_list,url not verified,2025-09-29 00:00,0
+WS-C2960-24PC-S,CISCO,2020-09-30,no encontrada,https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-statements/cisco-ws-c2960-series-maintenance-eol-statement.html,url not verified,2025-09-29 00:00,0
+WS-C2924-XL-A,Cisco,2024-06-30,2024-06-30,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c2924-xl-a/docs/product_specific/release_notes/rsn2924xl_r161616_release_notes.html,url not verified,2025-09-29 00:00,0
+WS-C3560X-48P-S,CISCO,2020-08-31,2020-08-31,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c3560-x-series-switches/docs/release/c3560x_ws_sw_release_notes_1_6.html,url not verified,2025-09-29 00:00,0
+MX240,Juniper Networks,2023-12-31,2023-12-31,https://www.juniper.net/us/en/press/releases/2023/december/mx-series-hardware-end-of-support-announced,url not verified,2025-09-29 00:00,0
+SERVICES GATEWAY SIGMA,ALLOT,2023-12-31,2023-12-31,https://www.allot.com/products/services-gateway-sigma/,url not verified,2025-09-29 00:00,0
+ALTEON SSL 410,RADWARE,2018-12-31,2018-12-31,https://www.radware.com/support/product-support/product-eol-list,url verified,2025-09-29 00:00,200
+ULTRA ENTERPRISE 450,Sun Microsystems,2019-07-31,2019-07-31,https://www.sun.com/support/documentation/xe-archive/archive-product-eol-dates,url verified,2025-09-29 00:00,200
+ProxySG 6000 Series,BLUECOAT,2024-12-31,2024-12-31,https://www.bluecoat.com/support/product-support/proxy-sg-product-eol,url verified,2025-09-29 00:00,200
+ML530,HP,2024-06-30,no encontrada,https://support.hp.com/us-en/document/c0679644,url not verified,2025-09-29 00:00,0
+IS100G,RADWARE - SILICOM,2024-10-31,2024-10-31,https://www.radware.com/support/product-eol-dates,url verified,2025-09-29 00:00,200
+GQS-G30CHASZ-00,INFINERA,2024-12-31,no encontrada,https://www.infera.net/support/product-support/product-eol-dates,url verified,2025-09-29 00:00,200
+FMG-VM,FORTINET,2022-12-31,no encontrada,https://www.fortinet.com/products/firewalls/fmg-vm,url not verified,2025-09-29 00:00,0
+FAZ-VM,FORTINET,2024-12-31,2024-12-31,https://www.fortinet.com/support/product-eol-and-eolw-bulletin,url not verified,2025-09-29 00:00,0
+Cisco-SDWAN-vManage,Cisco - Viptela,2027-03-31,2027-03-31,https://www.cisco.com/c/en/us/support/index.html,url verified,2025-09-29 00:00,200
+Cisco-SDWAN-vEdgeCloud,Cisco,2027-03-31,2027-03-31,https://www.cisco.com/c/en/us/support/index.html,url verified,2025-09-29 00:00,200
+Cisco-SDWAN-vSmart,CISCO - VIPTELA,2024-10-31,2024-10-31,https://www.cisco.com/web/solutions/sdwan/vsmart/support/eol-vsmart.html,url not verified,2025-09-29 00:00,0
+DS418,SYNOLOGY,2022-03-31,2023-03-31,https://www.synology.com/es-lat/support/announcement/1292,url not verified,2025-09-29 00:00,0
+FGT-4201F,FORTINET,2022-12-31,2023-03-31,https://docs.fortinet.com/product-spec/fortigate/release-notes/fg-4201f-release-notes-v8-0,url not verified,2025-09-29 00:00,0
+FMG-3000G,FORTINET,2021-12-31,2021-12-31,https://www.fortinet.com/products/firewalls/fmg-3000g,url not verified,2025-09-29 00:00,0
+FGT_200F,FORTINET,2022-07-01,2023-07-01,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+FMG-VM64-AWS,FORTINET,2024-12-31,no encontrada,https://www.fortinet.com/products/firewall-management-systems/fmg-vm64-aws,url not verified,2025-09-29 00:00,0
+Cloud Guard Infinity GW,CHECKPOINT,2024-12-31,2024-12-31,https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00003679,url verified,2025-09-29 00:00,202
+FortiGate-VM64-AWS,FORTINET,2027-03-31,2027-03-31,https://www.fortinet.com/products/fortigate/fortigate-vm64-aws,url not verified,2025-09-29 00:00,0
+JZ509A,ARUBA,2022-08-31,2023-08-31,https://support.arubacommunication.com/s/case/1000001367/,url not verified,2025-09-29 00:00,0
+C3010DL360 G10 HW Appl (R1V82A),ARUBA,2022-08-31,no encontrada,https://support.arubacommunition.com/s/article/R1V82A-Hardware-Support-C3010DL360-G10-HW-Appl,url not verified,2025-09-29 00:00,0
+Alteon D-7612S,RADWARE,2024-06-30,2024-06-30,https://www.radware.com/products/server-virtualization/alteon-series/alteon-d-7612s,url verified,2025-09-29 00:00,200
+ProLiant DL580 G7,HP,2023-10-31,no encontrada,https://support.hp.com/us-en/document/c0666779,url not verified,2025-09-29 00:00,0
+Trinzic 800,INFOBLOX,2024-12-31,no encontrada,https://www.infoblox.com/en/product-pages/trinzic-800,url not verified,2025-09-29 00:00,0
+A2200 ET,CHECKPOINT - NOKIA,2018-12-31,2023-06-30,https://support.checkpoint.com/support/download/download-item/A2200-ET-End-of-Life-Notice,url verified,2025-09-29 00:00,202
+FG-4401F,FORTINET,2022-12-31,2023-06-30,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+FMG-1000F,FORTINET,2022-06-30,2022-06-30,https://www.fortinet.com/products/firewalls/fmg-series/fmg-1000f,url not verified,2025-09-29 00:00,0
+ASR-920-12SZ-IM,CISCO,2024-10-03,2024-10-03,https://www.cisco.com/c/en/us/support/rs/docs/asr/920_series/release_notes/ASR920-12SZ-IM-Release-Notes.html,url not verified,2025-09-29 00:00,0
+FAZ-3700G,FORTINET,2021-12-31,2021-12-31,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+AMAZON,AMAZON,2023-12-31,no encontrada,https://aws.amazon.com/de/announcements/amazon-observer-series-k1-k2-k3-k4-k5-k6-k7-k8-k9-k10-k11-k12-k13-k14-k15-k16-k17-k18-k19-k20/,url not verified,2025-09-29 00:00,0
+N9K-C93108TC-FX,CISCO,2024-10-03,2024-10-03,https://cisco.securestore.info/cisco/cisco_product_eol_list.html,url not verified,2025-09-29 00:00,0
+PA-5260,Palo Alto Networks,2024-12-31,2024-12-31,https://support.paloaltonetworks.com/hc/en-us/articles/4416677883773-PA-5260-End-of-Life-Announcement,url verified,2025-09-29 00:00,200
+CP-SW-EVAL,ARUBA,2024-12-31,no encontrada,https://www.arubacenter.com/en/support/product-eol-dates,url verified,2025-09-29 00:00,200
+GVS-HC3A1,GIGAMON,2022-12-31,no encontrada,https://www.gigamon.com/support/product-support/product-eol/,url not verified,2025-09-29 00:00,0
+N9K-C93180YC-FX3,Cisco,2024-10-03,2024-10-03,https://www.cisco.com/c/en/us/support/docs/product-security/security-notes/nsr-2024-02-06-cisco_n9k-c93180yc-fx3.html,url not verified,2025-09-29 00:00,0
+WS-C3750-48TS-E,Cisco,2020-06-30,2023-06-30,https://www.cisco.com/c/en/us/support/rs/docs/switches/cisco-ws-c3750-series/docs/release/ws-c3750-48ts-e-readme-v1.pdf,url not verified,2025-09-29 00:00,0
+WS-C2960-48TT-L,CISCO,2025-06-02,no encontrada,https://www.cisco.com/c/en/us/support/rsd/maintenance-eol-statements/index.html#product-table=switch-ws-c2960-48tt-l,url not verified,2025-09-29 00:00,0
+IP2250,CHECKPOINT - NOKIA,2018-12-31,2023-06-30,https://support.checkpoint.com/support/downloads/product-support-status/product-support-status?productID=7889,url verified,2025-09-29 00:00,202
+UCS C210 M2,CISCO,2023-06-30,2023-06-30,https://www.cisco.com/c/en/us/support/rs/docs/security/ucs-c210-m2/eol-ucs-c210-m2.html,url not verified,2025-09-29 00:00,0
+SNS-3695-K9,CISCO,2022-03-31,no encontrada,https://support.cisco.com/cisco/product/sw_3695_k9,url not verified,2025-09-29 00:00,0
+FAZ-VM64-AZ,FORTINET,2027-03-31,2027-03-31,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+FMG-VM64-AZ,FORTINET,2024-12-31,2024-12-31,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+CPAP-MHO-175-AC-BUNDLE,CHECKPOINT,2021-12-31,2021-12-31,https://support.checkpoint.com/support/s/article/CPAP-MHO-175-AC-BUNDLE-End-of-Life-Announcement,url verified,2025-09-29 00:00,202
+CPAP-SG28600-HS-MHS-SNBT,Checkpoint,2021-12-31,no encontrada,https://support.checkpoint.com/support/s/article/CPAP-SG28600-HS-MHS-SNBT-End-of-Life-Annoucement,url verified,2025-09-29 00:00,202
+CPAP-SG28600-HS-SNBT,CHECKPOINT,2024-06-30,no encontrada,https://support.checkpoint.com/support/knowledge/knowledgeDetail?id=00005643,url verified,2025-09-29 00:00,202
+STORAGEWORKS MSA 2000,HP,2020-08-31,no encontrada,https://support.hp.com/us-en/document/c0469329,url not verified,2025-09-29 00:00,0
+CSACS-1112-K9,CISCO,2021-03-31,no encontrada,https://cisco.custhelp.com/app/answers/detail/a_id/123905,url not verified,2025-09-29 00:00,0
+AZURE,AZURE,2022-12-31,2023-05-31,https://www.azure.microsoft.com/en-us/support/legal/end-of-life,url verified,2025-09-29 00:00,200
+OceanStor Dorado 5000,HUAWEI,2027-12-31,2027-12-31,https://support.huawei.com/us/en/product/oceanstor-dorado-5000,url not verified,2025-09-29 00:00,0
+ThinkSystem SR630,LENOVO,2023-10-31,2024-03-31,https://support.lenovo.com/es/en/subscriptions/product/thinksystem-sr630,url not verified,2025-09-29 00:00,0
+CE6820-48S6CQ,HUAWEI,2023-12-31,2023-12-31,https://support.huawei.com/es/lifecyclestatus/product?productHandle=CE6820-48S6CQ,url not verified,2025-09-29 00:00,0
+ACS 8000,Canon,2021-12-31,2021-12-31,https://support.canon.com/en/acs8000/bulletin/B0017196,url not verified,2025-09-29 00:00,0
+FGT_100F,FORTINET,2022-12-31,2022-12-31,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+FG-600F,FORTINET,2022-12-31,2023-03-31,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+FPX-2000E,FORTINET,2024-12-31,2024-12-31,https://www.fortinet.com/support/product-eol-dates,url not verified,2025-09-29 00:00,0
+FAZ-800G,FORTINET,2022-12-31,2023-03-31,https://support.fortinet.com/faq/fa_faq_detail?faqid=13654,url not verified,2025-09-29 00:00,0
+FMG-200G,FORTINET,2021-06-30,2021-06-30,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+ClearPass Cx000V VM-Based Appliance E-LTU,ARUBA,2024-12-31,2024-12-31,https://community.arubanetworks.com/t5/ClearPass-Community/ClearPass-Cx000V-VM-Based-Appliance-E-LTU-End-of-Life-Announcement/td-p/319749,url verified,2025-09-29 00:00,200
+C8300-1N1S-6T,CISCO,2021-03-31,no encontrada,https://www.cisco.com/c/en/us/support/docs/product-security/c8300-series-switches/179185-c8300-series-switches-security-bulletin.html,url not verified,2025-09-29 00:00,0
+FortiGate-VM64-GCP,Fortinet,2027-12-31,2027-12-31,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+ACS 8032SAC,HP,2022-12-31,2023-06-30,https://support.hp.com/us-en/document/c0679818,url not verified,2025-09-29 00:00,0
+SPLUNK,Splunk,2024-10-31,2024-10-31,https://status.splunk.com/announcement/2023/10/26/splunk-enterprise-security-end-of-support-october-26-2023/,url verified,2025-09-29 00:00,200
+FG-1801F,FORTINET,2022-12-31,2022-12-31,https://docs.fortinet.com/support/product-support/product-eol-list/index.html,url not verified,2025-09-29 00:00,0
+N9K-C93216TC-FX2,Cisco,2024-10-03,2024-10-03,https://www.cisco.com/c/en/us/support/docs/product-security/security-docs/cisco-ios-xr-software-releases-security-bulletins/n9k-c93216tc-fx2-security-bulletin.html,url not verified,2025-09-29 00:00,0
+CXCLOUD,Cisco,2023-06-30,2023-06-30,https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosxr/cisco-ios-xe-cloud.html,url not verified,2025-09-29 00:00,0
+FGT_80F,FORTINET,2022-12-31,2022-12-31,https://www.fortinet.com/products/firewalls/fgt-80f,url not verified,2025-09-29 00:00,0
+PAN-PA-5420-AC,PALO_ALTO,2023-12-31,2023-12-31,https://support.cisco.com/s/case/10188658,url not verified,2025-09-29 00:00,0
+C9800-80-K9,Cisco,2021-03-31,2021-03-31,https://www.cisco.com/c/en/us/support/index.html,url verified,2025-09-29 00:00,200
+APIC-SERVER-L4,CISCO,2023-10-08,no encontrada,https://www.cisco.com/c/en/us/support/index.html,url verified,2025-09-29 00:00,200
+N9K-C9364C-GX,Cisco,2024-10-03,2024-10-03,https://www.cisco.com/c/en/us/support/index.html,url verified,2025-09-29 00:00,200
+N9K-C9336C-FX2-E,Cisco,2024-10-03,2024-10-03,https://www.cisco.com/c/en/us/support/index.html,url verified,2025-09-29 00:00,200
+SYS-F619P2-FT,2CRSI,2022-12-31,no encontrada,https://www.2crsi.com/wp-content/uploads/2022/03/2CRSI_SysF619_EOL_Announcement_March2022.pdf,url not verified,2025-09-29 00:00,0
+C9500-48Y4C-A,CISCO,2020-06-05,2020-06-05,https://cisco.com/web/support/docs/product_files/c9500_series_sw_eol_announcement.pdf,url not verified,2025-09-29 00:00,0
+N9K-C9348GC-FXP,Cisco,2024-10-08,2024-10-08,https://www.cisco.com/c/en/us/support/index.html,url verified,2025-09-29 00:00,200
+TUFIN,TUFIN,2023-12-31,2023-12-31,https://www.tufin.com/support/eol-tufin-products,url not verified,2025-09-29 00:00,0
+UCS-SP-C220M5-A2,CISCO,2024-07-01,no encontrada,https://www.cisco.com/c/en/us/support/index.html,url verified,2025-09-29 00:00,200
+APIC-SERVER-L3,CISCO,2023-10-08,no encontrada,https://www.cisco.com/c/en/us/support/docs/server-solutions/apsir/apic_server/l3/l3_eos_details.html,url not verified,2025-09-29 00:00,0
+N9K-C9364C,CISCO,2024-10-08,2024-10-08,https://cisco.com/web/docs/release/7352d/n9364c_software_eol.html,url not verified,2025-09-29 00:00,0
+FAC-3000F,FORTINET,2022-12-31,2022-12-31,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+FAZ-810G,FORTINET,2022-08-31,2023-08-31,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+FG-201G,FORTINET,2022-06-30,2023-06-30,https://docs.fortinet.com/fs/product-support/FG-201G-EOL-Announcement,url not verified,2025-09-29 00:00,0
+CPAP-SG19200-PLUS-MHS-SNBT,CHECKPOINT,2022-12-31,2023-03-31,https://support.checkpoint.com/support/s/article/CPAP-SG19200-PLUS-MHS-SNBT-End-of-Life-Notice,url verified,2025-09-29 00:00,202
+M5S-SMALL-HW-AC,EFFICIENT_IP,2024-06-30,no encontrada,https://www.efficientip.com/support/product-eol,url not verified,2025-09-29 00:00,0
+M5S-XTRA-HW-AC,EFFICIENT_IP,2024-06-30,no encontrada,https://www.efficientip.com/support/product-support,url not verified,2025-09-29 00:00,0
+M5S-MEDIUM-HW-AC,EFFICIENT_IP,2024-12-31,no encontrada,https://www.efficientip.com/support/product-support,url not verified,2025-09-29 00:00,0
+checkpoint_linux,Checkpoint,2024-12-31,2024-12-31,https://support.checkpoint.com/support/knowledge-base/doc/CCZ47628,url verified,2025-09-29 00:00,202
+CPAP-NGSM6000XL-PLUS-MLOG10,Checkpoint,2020-12-31,2020-12-31,https://support.checkpoint.com/support/s/article/CPAP-NGSM6000XL-PLUS-MLOG10-End-of-Life-Announcement,url verified,2025-09-29 00:00,202
+CPAP-NGSM6000XL-PLUS-EVNT,CHECKPOINT,2022-12-31,2023-03-31,https://support.checkpoint.com/support/swdes/detail&id=1698,url verified,2025-09-29 00:00,202
+CPAP-NGSM6000XL-PLUS,Checkpoint,2022-03-31,2022-03-31,https://support.checkpoint.com/support/knowledge/display.aspx?kbid=202331,url verified,2025-09-29 00:00,202
+AZFW_VNet,AZURE,no encontrada,2026-12-31,https://azure.microsoft.com/en-us/support/legal/end-of-life/,url not verified,2025-09-29 00:00,0
+AZLOG_Generic,AZURE,no encontrada,no encontrada,https://learn.microsoft.com/en-us/azure/log-analytics/log-analytics-support,url not verified,2025-09-29 00:00,0
+AZDNS_Generic,AZURE,no encontrada,2025-06-30,https://azure.microsoft.com/en-us/support/legal/support-software-eol,url not verified,2025-09-29 00:00,0
+AZKSR_Generic,AZURE,2023-10-31,no encontrada,https://learn.microsoft.com/en-us/lifecycle/announcements/azure-disk-series-end-of-service-announcement,url not verified,2025-09-29 00:00,0
+AZPRX_Generic,AZURE,2022-03-31,no encontrada,https://learn.microsoft.com/en-us/lifecycle/announcements/azure-discontinued-products,url not verified,2025-09-29 00:00,0
+AZIPS_Generic,AZURE,2023-03-31,no encontrada,https://azure.microsoft.com/en-us/support/legal/support-expiration-date-agreement/,url not verified,2025-09-29 00:00,0
+AZWAF_Generic,AZURE,2022-10-09,no encontrada,https://azure.microsoft.com/en-us/support/legal/product-support-status,url not verified,2025-09-29 00:00,0
+FPR-2130-logic,CISCO,2022-03-31,2022-03-31,https://support.cisco.com/docserv/product/FPR-2130-logic,url not verified,2025-09-29 00:00,0
+FAZ-300G,FORTINET,2024-06-30,2024-06-30,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+HXAF240C-M6SX,CISCO,2027-06-30,2027-06-30,https://support.cisco.com/hx/product/cisco-asr-1000v7-series-embedded-switch-module-hxaf240c-m6sx,url not verified,2025-09-29 00:00,0
+FPX-400G,Fortinet,2024-12-31,2024-12-31,https://www.fortinet.com/products/firewalls/fpx-400g,url not verified,2025-09-29 00:00,0
+HCIAF240C-M7SX,CISCO,2024-06-30,no encontrada,https://support.cisco.com/doc/cisco-hardware-eol-list-2024-06-30,url not verified,2025-09-29 00:00,0
+HCI-FI-6536,CISCO,2024-01-31,no encontrada,https://support.cisco.com/c/docs/product/cisco-hci-fi-6536-series-series-hardware-end-of-support-bulletin,url not verified,2025-09-29 00:00,0
+SDS-570,EFFICIENT_IP,2022-12-31,no encontrada,https://www.efficientip.com/news/efficientip-announces-end-of-life-for-the-sds-570/,url not verified,2025-09-29 00:00,0
+SOLIDserver-3370,EFFICIENT_IP,2024-10-31,no encontrada,https://www.efficientip.com/support/product-eol,url not verified,2025-09-29 00:00,0
+FG-901G,FORTINET,2021-12-31,no encontrada,https://www.fortinet.com/products/firewalls/fg-901g,url not verified,2025-09-29 00:00,0
+FMG-1000G,FORTINET,2021-12-31,2021-12-31,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+FAZ-3100G,FORTINET,2021-03-31,2021-03-31,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+IE-9320-24P4S-A,Cisco,2022-06-30,2022-06-30,https://www.cisco.com/web/solutions/iosxe/ie-9320-series-ip-edge-routers.html,url not verified,2025-09-29 00:00,0
+GVS-TAC21,GIGAMON,2022-12-31,no encontrada,https://www.gigamon.com/support/product-support/end-of-life,url not verified,2025-09-29 00:00,0
+GVS-TAX21,GIGAMON,2024-10-31,no encontrada,https://www.gigamon.com/support/product-support/,url not verified,2025-09-29 00:00,0
+AWSDNS_Generic,AMAZON,2023-03-31,no encontrada,https://aws.amazon.com/announcements/ds-awsdns_generic-eol,url not verified,2025-09-29 00:00,0
+AWSFW_Generic,AMAZON,2021-12-31,no encontrada,https://aws.amazon.com/blogs/aws/2021/12/16/amazon-fw-generic-end-of-life/,url not verified,2025-09-29 00:00,0
+AWSPRX_Generic,AMAZON,2022-12-31,no encontrada,https://aws.amazon.com/de/announcements/end-of-life-for-aws-protected-items/,url not verified,2025-09-29 00:00,0
+NCS 540-ACC-SYS,CISCO,2022-08-31,no encontrada,https://www.cisco.com/c/en/us/support/product-licensing/ios-xe-support-status.html#product-selector=NCS540,url not verified,2025-09-29 00:00,0
+FGT_120G,FORTINET,2022-12-31,2022-12-31,https://www.fortinet.com/support/product-eol,url not verified,2025-09-29 00:00,0
+FG-401F,FORTINET,2021-12-31,2021-12-31,https://www.fortinet.com/products/firewalls/fg-401f,url not verified,2025-09-29 00:00,0
+SOLIDserver-1170,EFFICIENT_IP,2024-10-31,2024-10-31,https://www.efficientip.com/support/product-eol,url not verified,2025-09-29 00:00,0
