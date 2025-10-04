@@ -3130,16 +3130,6 @@
     "last_checked": "2025-09-29 06:49"
   },
   {
-    "vendor": "Cisco",
-    "part_number": "6500 Series Virtual Switch",
-    "hardware_support": "2024-09-01",
-    "software_support": "2024-09-01",
-    "url_to_announcement": "https://www.cisco.com/c/en/us/support/switches/catalyst-6500-series-virtual-switch/what-is-eos.html",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 06:49"
-  },
-  {
     "vendor": "Linutek",
     "part_number": "LS-220",
     "hardware_support": "2023-12-31",
@@ -3165,26 +3155,6 @@
     "hardware_support": "2023-06-30",
     "software_support": "2023-06-30",
     "url_to_announcement": "https://www.ibm.com/support/docs/hppg493",
-    "statusCode": 0,
-    "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 06:49"
-  },
-  {
-    "vendor": "Palo Alto Networks",
-    "part_number": "M-600",
-    "hardware_support": "2022-12-31",
-    "software_support": "2023-06-30",
-    "url_to_announcement": "https://support.paloaltonetworks.com/hc/en-us/articles/220574427-M-600-Appliance-End-of-Life-Notice",
-    "statusCode": 200,
-    "url_to_announcement_status": "url verified",
-    "last_checked": "2025-09-29 06:49"
-  },
-  {
-    "vendor": "SKYBOX",
-    "part_number": "5500",
-    "hardware_support": "2022-12-31",
-    "software_support": "no encontrada",
-    "url_to_announcement": "https://www.skyboxtech.com/news/skybox-5500-end-of-life/",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
     "last_checked": "2025-09-29 06:49"
@@ -3217,16 +3187,6 @@
     "url_to_announcement": "https://support.hp.com/us-en/product/h89825",
     "statusCode": 0,
     "url_to_announcement_status": "url not verified",
-    "last_checked": "2025-09-29 06:49"
-  },
-  {
-    "vendor": "RADWARE",
-    "part_number": "AbsoluteVision",
-    "hardware_support": "2024-12-31",
-    "software_support": "2024-12-31",
-    "url_to_announcement": "https://www.radware.com/support/product-support/absolutevision",
-    "statusCode": 200,
-    "url_to_announcement_status": "url verified",
     "last_checked": "2025-09-29 06:49"
   },
   {

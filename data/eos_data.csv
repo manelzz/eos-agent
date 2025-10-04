@@ -312,14 +312,10 @@ SOLIDserver-1170,EFFICIENT_IP,2024-06-30,no encontrada,https://www.efficientip.c
 C9300-8PX,Cisco,2025-06-09,2025-06-09,https://www.cisco.com/c/en/us/support/rs/docs/switches/c9300-series/docs/release/c9300_series_sw_eos_1_5_3_readme.pdf,url not verified,2025-09-29 06:49,0
 ciscoC68xxVirtualSwitch,CISCO,2023-06-30,2023-06-30,https://cisco.custsupport.com/doc/c68xxvirtualswitch-eol-announcement,url not verified,2025-09-29 06:49,0
 3925-CHASSIS,CISCO,2027-06-30,2027-06-30,https://www.cisco.com/c/en/us/support/products/ios-nexus-3750-series/ios-nexus-3750-series-hw-eol-center.html,url not verified,2025-09-29 06:49,0
-6500 Series Virtual Switch,Cisco,2024-09-01,2024-09-01,https://www.cisco.com/c/en/us/support/switches/catalyst-6500-series-virtual-switch/what-is-eos.html,url not verified,2025-09-29 06:49,0
 LS-220,Linutek,2023-12-31,no encontrada,https://www.linutek.com/products/ls-220/,url not verified,2025-09-29 06:49,0
 EMC-0494,Dell,2017-08-01,no encontrada,https://support.dell.com/kb/cs/en/document~PDF-EMC0494,url not verified,2025-09-29 06:49,0
 IBM X3550,IBM,2023-06-30,2023-06-30,https://www.ibm.com/support/docs/hppg493,url not verified,2025-09-29 06:49,0
-M-600,Palo Alto Networks,2022-12-31,2023-06-30,https://support.paloaltonetworks.com/hc/en-us/articles/220574427-M-600-Appliance-End-of-Life-Notice,url verified,2025-09-29 06:49,200
-5500,SKYBOX,2022-12-31,no encontrada,https://www.skyboxtech.com/news/skybox-5500-end-of-life/,url not verified,2025-09-29 06:49,0
 Absolute Vision,RADWARE,2023-12-31,2024-03-31,https://www.radware.com/support/product-eol-information,url verified,2025-09-29 06:49,200
 VMWM-78854-XXX,VMware,2022-07-01,2022-07-01,https://kb.vmware.com/s/search/VMware%20End%20of%20Life%20Products,url not verified,2025-09-29 06:49,0
 H89825,HP,2022-06-30,no encontrada,https://support.hp.com/us-en/product/h89825,url not verified,2025-09-29 06:49,0
-AbsoluteVision,RADWARE,2024-12-31,2024-12-31,https://www.radware.com/support/product-support/absolutevision,url verified,2025-09-29 06:49,200
 7613,Cisco,2020-08-31,no encontrada,https://www.cisco.com/c/en/us/support/products/ios-xe-and-iosxr/7613-iosxr-software.html,url not verified,2025-09-29 06:49,0
